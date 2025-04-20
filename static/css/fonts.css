@@ -1,0 +1,89 @@
+@font-face {
+    src: url("/static/fonts/normal-normal.ttf");
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("/static/fonts/normal-italic.ttf");
+    font-family: "Ubuntu";
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("/static/fonts/bold-normal.ttf");
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    src: url("/static/fonts/bold-italic.ttf");
+    font-family: "Ubuntu";
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    src: url("/static/fonts/medium-normal.ttf");
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url("/static/fonts/medium-italic.ttf");
+    font-family: "Ubuntu";
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url("/static/fonts/light-normal.ttf");
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url("/static/fonts/light-italic.ttf");
+    font-family: "Ubuntu";
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url("/static/fonts/thin-normal.ttf");
+    font-family: "Ubuntu";
+    font-weight: 100;
+}
+
+@font-face {
+    src: url("/static/fonts/mono-normal.ttf");
+    font-family: "Ubuntu Mono";
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("/static/fonts/mono-italic.ttf");
+    font-family: "Ubuntu Mono";
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("/static/fonts/mono-bold.ttf");
+    font-family: "Ubuntu Mono";
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    src: url("/static/fonts/mono-bitalic.ttf");
+    font-family: "Ubuntu Mono";
+    font-style: italic;
+    font-weight: 700;
+}

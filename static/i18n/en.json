@@ -1,0 +1,246 @@
+{
+    "$language": "en",
+    "$pretty": "English",
+    "$localized": "English",
+
+    "products": "Products",
+
+    "navigation": {
+        "search": "Search",
+        "searchcancel": "Cancel",
+        "elements": [
+            "Enterprise",
+            "Developer",
+            "Individuals",
+            "Community"
+        ]
+    },
+
+    "footer": {
+        "contact": "Contact us",
+        "about": "About",
+        "community": "Community",
+        "jobs": "Jobs",
+        "blog": "Blog",
+        "admin": "Website Administration (password required)",
+        "copyright": {
+            "rights": "Minteck Projects and all associated names or content are legal marks of Minteck Projects Ltd.",
+            "legal": "Legal information",
+            "privacy": "Data privacy",
+            "bugs": "Report a bug"
+        },
+        "top": "Go back to top of the page",
+        "topalt": "Go back to top",
+        "follow": "Follow Minteck Projects on"
+    },
+
+    "blog": {
+        "home": {
+            "last": "Latest news on our blog",
+            "all": "View more on our blog"
+        },
+        "months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "categories": [
+            "Maintenance",
+            "Announcement",
+            "Server",
+            "Artificial Intelligence",
+            "Jobs",
+            "Event"
+        ],
+        "categories2": [
+            "Maintenances",
+            "Announcements",
+            "Servers",
+            "Artificial Intelligence",
+            "Jobs",
+            "Events"
+        ],
+        "metacat": [
+            "AI",
+            "All Articles",
+            "Overview"
+        ],
+        "intro": "Latest Articles",
+        "filter": [
+            "Filter by category",
+            "Filter:",
+            "Filter"
+        ],
+        "taglines": {
+            "maintenance": [
+                "Maintenances",
+                "Maintenance operations are more or less long operations within one or more server(s) aren't available"
+            ],
+            "announcements": [
+                "Announcements",
+                "Official announcements are published by Minteck Projects to announce a new service or update."
+            ],
+            "servers": [
+                "Servers",
+                "Hardware or software server changes to Minteck Projects' servers, new servers additions or servers shutdown."
+            ],
+            "ai": [
+                "Artificial Intelligence",
+                "Evolutions or changes about Minteck Projects' projects working with artificial intelligence."
+            ],
+            "jobs": [
+                "Jobs",
+                "Info about new functions or full functions in Minteck Projects that may interest future contributors."
+            ],
+            "events": [
+                "Events",
+                "Info about remote or physical events organized by Minteck Projects throughout the world."
+            ]
+        },
+        "publish": "Published",
+        "category": "Category:"
+    },
+
+
+    "productsnav": {
+        "also": "Also by Minteck Projects",
+        "resources": "Resources",
+        "about": "About",
+        "rsc": [
+            "Blog",
+            "Downloads",
+            "Developers"
+        ],
+        "info": [
+            "Information",
+            "Partners",
+            "Contact us",
+            "Privacy",
+            "Report a bug",
+            "About Minteck Projects",
+            "Data privacy"
+        ]
+    },
+
+    "tracker": {
+        "title": "Job",
+        "pagename": "Job Tracker",
+        "invalid": "Thread identifier is invalid",
+        "common": "Minteck Projects job tracker",
+        "intro": [
+            "Here are some info about the ",
+            " process:"
+        ],
+        "headers": {
+            "internal": "Internal Name",
+            "common": "Generic Name",
+            "value": "Value"
+        },
+        "keeplater": "If you would like to access this info later, keep the following thread identifier:",
+        "names": [
+            "Process Identifier",
+            "Username on the webserver",
+            "File name on the webserver",
+            "File node",
+            "File size",
+            "PHP version",
+            "Renderer version",
+            "Render duration",
+            "Operating system on the server"
+        ]
+    },
+
+    "errors": {
+        "title": "Error",
+        "separator": ":",
+        "e401": [
+            "Unauthenticated",
+            "Sorry, this page is protected and you are not authenticated to the server."
+        ],
+        "e403": [
+            "Permission denied",
+            "Sorry, this file is dedicated to the server, you can't access it."
+        ],
+        "e404": [
+            "Not found",
+            "Sorry, we can't find the request page."
+        ],
+        "e500": [
+            "Internal error",
+            "Sorry, the server is unable to fulfill your request."
+        ],
+        "e503": [
+            "System failure",
+            "Sorry, a technical problem prevents us to deliver you the content."
+        ],
+        "e504": [
+            "Gateway timeout",
+            "Sorry, we can't deliver you the content because the server gateway didn't answered at time."
+        ]
+    },
+
+    "contact": {
+        "title": "Contact Us",
+        "tagline": "Have a question, a problem? Contact us the way you want to get a fast answer.",
+        "matrix": {
+            "title": "Matrix",
+            "tagline": "Thanks to our partner KDE, we can provide you realtime and secure technical support with the Matrix communication network"
+        },
+        "email": {
+            "title": "Email",
+            "tagline": "For more serious and legal requests, we prefer chat via email. Don't forget to use the right email address for your request's topic.",
+            "subjects": {
+                "fixes": "Fixes on this website:",
+                "legal": "Legal requests:",
+                "partner": "Partnerships:",
+                "members": "Applications:",
+                "account": "Accounts:",
+                "security": "Security Team:",
+                "other": "Any other request:"
+            }
+        },
+        "twitter": {
+            "title": "Twitter",
+            "tagline": "You can send us a private message on Twitter and we will answer as fast as possible. This is the privileged method if you don't have Matrix."
+        }
+    },
+
+    "translate": {
+        "title": "Translate",
+        "tagline": "Words to translate...",
+        "auto": "Start typing, everything will be automatically translated",
+        "disclaimer": "Note that our translation system works better with isolated words.",
+        "types": [
+            "Noun",
+            "V",
+            "Adj",
+            "Adv",
+            "Det",
+            "Pr",
+            "Vulg",
+            "Fam",
+            "Pol",
+            "Other",
+            "Unclassified"
+        ],
+        "error": "Something went wrong while translating: ",
+        "edefault": "Internal Error",
+        "econnect": "Communication Error",
+        "unapproved": "Not community approved",
+        "approved": "Community approved",
+        "source": "from:",
+        "destination": "to:",
+        "orig": "Original Word",
+        "trans": "Translations",
+        "type": "Type"
+    }
+}

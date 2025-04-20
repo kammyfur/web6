@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "Formulaire de test",
+        "enabled": true,
+        "disabledMessage": "Ce formulaire est désactivé",
+        "publishButtonName": "Envoyer",
+        "tagline": "Il s'agit d'un superbe formulaire de test, c'est pas génial ?",
+        "required": "Les champs marqués avec * sont obligatoires",
+        "getEmails": true,
+        "thisRequired": "Ce champ est obligatoire",
+        "agreement": "J'accepte rien du tout",
+        "emailCollection": {
+            "title": "Adresse email",
+            "description": "Entrez votre adresse email afin que nous vous recontactions dans le futur",
+            "placeholder": "Adresse email"
+        }
+    },
+    "controls": [
+        {
+            "name": "Premier contrôle",
+            "description": "Il s'agit du premier contrôle",
+            "type": "text",
+            "placeholder": "Écrivez quelque chose ici",
+            "required": false
+        }
+    ]
+}

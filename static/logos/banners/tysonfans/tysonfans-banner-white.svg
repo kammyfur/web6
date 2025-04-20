@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 164 61"
+	 style="enable-background:new 0 0 164 61;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#829DAE;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Ubuntu';}
+	.st3{font-size:29.3333px;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Ubuntu and Canonical are registered trademarks of Canonical Ltd. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Ubuntu" units-per-em="1000" underline-position="-123" underline-thickness="79"/>
+<missing-glyph horiz-adv-x="500" d="M50,0l0,750l400,0l0,-750M400,50l0,650l-300,0l0,-650z"/>
+<glyph unicode="n" horiz-adv-x="574" d="M80,505C101,510 130,516 165,522C200,528 241,531 287,531C328,531 363,525 390,514C417,502 439,486 456,465C472,444 483,418 490,389C497,360 500,327 500,292l0,-292l-93,0l0,272C407,304 405,331 401,354C396,377 389,395 379,409C369,423 356,433 339,440C322,446 302,449 277,449C267,449 257,449 246,448C235,447 225,447 216,446C206,445 197,443 190,442C182,441 176,440 173,439l0,-439l-93,0z"/>
+<glyph unicode="o" horiz-adv-x="590" d="M539,260C539,219 533,181 521,148C509,115 492,86 471,62C449,38 423,20 393,7C363,-6 330,-13 295,-13C260,-13 227,-6 197,7C167,20 141,38 120,62C98,86 81,115 69,148C57,181 51,219 51,260C51,301 57,338 69,372C81,405 98,434 120,458C141,482 167,501 197,514C227,527 260,533 295,533C330,533 363,527 393,514C423,501 449,482 471,458C492,434 509,405 521,372C533,338 539,301 539,260M442,260C442,319 429,365 403,400C376,434 340,451 295,451C250,451 214,434 188,400C161,365 148,319 148,260C148,201 161,155 188,121C214,86 250,69 295,69C340,69 376,86 403,121C429,155 442,201 442,260z"/>
+<glyph unicode="s" horiz-adv-x="446" d="M201,67C239,67 267,72 286,82C304,92 313,108 313,130C313,153 304,171 286,184C268,197 238,212 197,229C177,237 158,245 140,254C121,262 105,272 92,283C79,294 68,308 60,324C52,340 48,360 48,383C48,429 65,466 99,493C133,520 179,533 238,533C253,533 267,532 282,531C297,529 310,527 323,525C336,522 347,520 357,517C366,514 374,512 379,510l-17,-80C352,435 336,441 315,447C294,452 268,455 238,455C212,455 189,450 170,440C151,429 141,413 141,391C141,380 143,370 148,361C152,352 159,345 168,338C177,331 188,324 201,318C214,312 230,306 249,299C274,290 296,281 315,272C334,263 351,252 365,240C378,228 389,214 396,197C403,180 407,159 407,134C407,86 389,50 354,25C318,0 267,-12 201,-12C155,-12 119,-8 93,0C67,7 49,13 40,17l17,80C68,93 85,87 108,79C131,71 162,67 201,67z"/>
+<glyph unicode="t" horiz-adv-x="402" d="M167,520l197,0l0,-78l-197,0l0,-240C167,176 169,155 173,138C177,121 183,107 191,98C199,88 209,81 221,77C233,73 247,71 263,71C291,71 314,74 331,81C348,87 359,91 366,94l18,-77C375,12 358,7 335,0C312,-7 285,-11 255,-11C220,-11 191,-6 168,3C145,12 126,25 112,43C98,61 88,83 83,110C77,136 74,166 74,201l0,464l93,16z"/>
+<glyph unicode="y" horiz-adv-x="497" d="M19,-97C26,-100 36,-103 48,-106C59,-109 71,-111 82,-111C119,-111 147,-103 168,-86C189,-70 207,-44 224,-7C182,73 143,158 107,248C70,337 40,428 16,520l100,0C123,490 132,458 143,423C153,388 164,353 177,316C190,279 203,243 218,206C233,169 248,134 264,100C289,170 311,239 330,308C349,377 366,447 383,520l96,0C455,422 428,328 399,238C370,147 338,63 304,-16C291,-46 277,-72 263,-93C248,-115 232,-133 215,-147C198,-161 178,-171 157,-178C135,-185 110,-188 83,-188C76,-188 68,-187 60,-186C52,-185 44,-184 37,-182C29,-181 22,-179 16,-177C9,-175 5,-173 2,-172z"/>
+</font>
+
+	<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="53.151818" inkscape:cy="21.861479" inkscape:document-units="mm" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="703" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="2" pagecolor="#ffffff" showgrid="false" showguides="true" units="px">
+	<sodipodi:guide  id="guide1943" inkscape:locked="false" orientation="1,0" position="33.582415,6.1739263"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="Background">
+	<rect id="rect1760" y="-0.2" class="st0" width="164" height="61.2"/>
+</g>
+<g id="layer1" transform="translate(0,-280.86039)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<text transform="matrix(1 0 0 1 55.5039 322.001)" class="st1 st2 st3">tyson</text>
+	<g id="layer1-6" transform="matrix(0.02961832,0,0,0.02961832,33.838521,280.80705)" inkscape:label="Logo">
+		<path id="path821" inkscape:connector-curvature="0" class="st1" d="M3431.6,605.5c-141.4,0-256,114.6-256,256c0,0,0,0,0,0
+			c0,141.4,114.6,256,256,256c0,0,0,0,0,0c141.4,0,256-114.6,256-256c0,0,0,0,0,0C3687.6,720.1,3573,605.5,3431.6,605.5
+			L3431.6,605.5z M3430,689.4c3.1,0,6.2,1.1,8.6,3.5l161.5,158.5c4.8,4.7,4.9,12.3,0.2,17.1L3441.8,1030c-4.7,4.8-12.3,4.9-17.1,0.2
+			l-161.5-158.5c-4.8-4.7-4.9-12.3-0.2-17.1L3421.5,693C3423.8,690.6,3426.9,689.4,3430,689.4z"/>
+	</g>
+</g>
+</svg>

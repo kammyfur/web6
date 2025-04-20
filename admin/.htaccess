@@ -1,0 +1,15 @@
+SetEnvIf HTTP_HOST localhost APPLICATION_ENV=dev
+
+<IfDefine !APPLICATION_ENV>
+    AuthType Basic
+    AuthName "Polymermin 1.0 - par Minteck Projects (serveur dev)"
+    AuthUserFile C:/ProjectsCurr/Minteck-Projects.co.nf/.htpasswd
+    Require valid-user
+</IfDefine>
+
+<IfDefine APPLICATION_ENV>
+    AuthType Basic
+    AuthName "Polymermin 1.0 - par Minteck Projects (serveur prod)"
+    AuthUserFile /home/minteck-projects/www/.htpasswd
+    Require valid-user
+</IfDefine>

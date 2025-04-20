@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="referrer" content="no-referrer">
+        <title>Kiki</title>
+        <link rel="icon" type="image/png" href="/lib/kiki/kiki-avatar.png" />
+        <meta charset="UTF-8">
+        <meta property="og:title" content="Kiki" />
+        <meta property="og:description" content="Kiki est une écureuil trop mignonne, n&#039;hésitez pas à lui parler." />
+        <meta property="og:locale" content="fr" />
+        <meta property="og:image" content="713ad1bc-7e3c-49b1-bd21-6988fda7595e_x.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/styles/fonts.css">
+        <link rel="stylesheet" href="/lib/kiki/kiki.css">
+        <link rel="stylesheet" href="/lib/kiki/kiki-controls.css">
+        <link rel="stylesheet" href="/lib/kiki/kiki-toasts.css">
+        <link rel="stylesheet" href="/lib/kiki/kiki-enhancements.css">
+        <meta charset="UTF-8">
+        <script src="/lib/kiki/kiki-timeout.js"></script>
+        <script src="/lib/kiki/kiki-queries.js"></script>
+        <style>
+            a[title="Hosted on free web hosting 000webhost.com. Host your own website for FREE."] {
+                display: none;
+            }
+            @-moz-keyframes blink {
+                0% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+            /* Firefox */
+            @-webkit-keyframes blink {
+                0% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+            /* Webkit */
+            @-ms-keyframes blink {
+                0% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+            /* IE */
+            @keyframes blink {
+                0% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+            /* Opera and prob css3 final iteration */
+            #loading {
+                background: #fff;
+                position: fixed;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                z-index: 999999;
+                opacity: 1;
+                filter: alpha(opacity=100);
+                -webkit-transition: opacity 500ms ease;
+                transition: opacity 500ms ease;
+            }
+            .hide {
+                display: none;
+            }
+            .show {
+                display: initial;
+            }
+            noscript h1 {
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="loading" style="background-color: #0059a2;background-image: url('/images/fox-tail.png');background-repeat: no-repeat;background-size: 100%;display:initial;">
+            <noscript>
+                <h1>Kiki ne peut vous parler que si vous activez JavaScript</h1>
+            </noscript>
+            <div class="logo" style="width: 64px;height: 64px;background-repeat: no-repeat;background-image: url('/images/icon.png');"></div>
+        </div>
+        <style>
+            .kiki-special-hide {
+                display: none !important;
+            }
+        </style>
+        <div id="vinfo-enabled">Voix activée</div>
+        <div id="vinfo-disabled">Voix désactivée</div>
+        <div class="b-agent-demo">
+            <div class="b-agent-demo_header">
+                <div class="b-agent-demo_header-icon">
+                    <div class="b-agent-demo_header-icon-align-helper">
+                        <img id="agent-avatar" src="/lib/kiki/kiki-avatar.png" />
+                    </div>
+                </div>
+                <div class="b-agent-demo_powered_by">
+                    <center>
+
+                        <!-- <input type="checkbox" id="tts-auto" onchange="validateTtsAuto()"> Activer la voix -->
+                        <label class="switch">
+                            <input type="checkbox" id="tts-auto" onchange="validateTtsAuto()">
+                            <span class="slider round"></span>
+                        </label> &nbsp; <a style="cursor:pointer;" onclick="document.getElementById('tts-auto').checked = !document.getElementById('tts-auto').checked;validateTtsAuto()">Activer la voix</a>
+                    </center>
+                </div>
+                <div class="b-agent-demo_header-wrapper">
+                    <div class="b-agent-demo_header-agent-name">Kiki</div>
+                    <div class="b-agent-demo_header-description">Kiki est une écureuil trop mignonne, n&#039;hésitez pas à lui parler.</div>
+                </div>
+            </div>
+            <div class="b-agent-demo_result" id="resultWrapper">
+                <table class="b-agent-demo_result-table">
+                    <tr>
+                        <td id="result"></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="clearfix"></div>
+            <div class="b-agent-demo_input">
+                <form id="agentDemoForm" autocomplete="off">
+                    <input type="text" name="q" id="query" placeholder="Envoyer un message à Kiki" />
+                </form>
+            </div>
+        </div>
+        <script>
+            AGENT_LANGUAGE = "fr";
+            AGENT_AVATAR_ID = "713ad1bc-7e3c-49b1-bd21-6988fda7595e_x.png";
+            SERVICE_BASE_URL = "https://console.dialogflow.com/api-client/";
+        </script>
+        <script defer src="/lib/kiki/kiki.js"></script>
+    </body>
+    <script>
+        function snackbar(sbid) {
+            // Get the snackbar DIV
+            var x = document.getElementById(sbid);
+            // Add the "show" class to DIV
+            x.className = "show";
+            // After 3 seconds, remove the show class from DIV
+            setTimeout(function() {
+                x.className = x.className.replace("show", "");
+            }, 3000);
+        }
+        if (document.cookie.includes("__config_tts-enabled=true")) {
+            var ttsenabled = true;
+            document.getElementById('tts-auto').checked = true;
+        } else {
+            var ttsenabled = false;
+            document.getElementById('tts-auto').checked = false;
+        }
+        function validateTtsAuto() {
+            document.getElementById('tts-auto').disabled = true;
+            ttsenabled = document.getElementById('tts-auto').checked;
+            document.cookie = "__config_tts-enabled=" + ttsenabled;
+            if (ttsenabled) {
+                snackbar("vinfo-enabled");
+                new Audio("/lib/kiki/voice-on.ogg").play()
+            } else {
+                snackbar("vinfo-disabled");
+                new Audio("/lib/kiki/voice-off.ogg").play()
+            }
+            document.getElementById('tts-auto').disabled = false;
+        }
+        function isTtsEnabled() {
+            if (ttsenabled) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+        function ttsAuto(id) {
+            if (isTtsEnabled()) {
+                document.getElementById('audio-' + id).play()
+            }
+        }
+        document.getElementById("result").innerHTML = "<span id=\"conv-init\"><center>Ceci est le début de votre conversation avec <b>Kiki</b><br>Votre premier message peut être long à recevoir une réponse — soyez patient !<br><br></center></span>"
+    </script>
+</html>

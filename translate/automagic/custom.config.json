@@ -1,0 +1,8 @@
+{
+    "files": [
+        {
+            "from": "./custom/custom-fr-en.json",
+            "to": "../dict/fr-en.json"
+        }
+    ]
+}

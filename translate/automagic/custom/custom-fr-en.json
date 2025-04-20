@@ -1,0 +1,103 @@
+[
+    {
+        "trigger": "Bonjour",
+        "responses": [
+            "Hello",
+            "Hi"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Tout",
+        "responses": [
+            "All"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Le",
+        "responses": [
+            "The"
+        ],
+        "type": "determinant"
+    },
+    {
+        "trigger": "Monde",
+        "responses": [
+            "World",
+            "Land",
+            "Crowd"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Fourrure",
+        "responses": [
+            "Fur"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Poil",
+        "responses": [
+            "Fur"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Poils",
+        "responses": [
+            "Fur"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Fourrures",
+        "responses": [
+            "Fur"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Poilu",
+        "responses": [
+            "Furry"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Velu",
+        "responses": [
+            "Furry"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Velus",
+        "responses": [
+            "Furries"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Poilus",
+        "responses": [
+            "Furries"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Furry",
+        "responses": [
+            "Furry"
+        ],
+        "type": "noun"
+    },
+    {
+        "trigger": "Furries",
+        "responses": [
+            "Furries"
+        ],
+        "type": "noun"
+    }
+]

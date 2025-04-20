@@ -1,0 +1,6246 @@
+[
+    {
+        "trigger": "Vista",
+        "responses": [
+            "View"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Notable",
+        "responses": [
+            "Remarkable"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "De",
+        "responses": [
+            "Of"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "\u00e9ste",
+        "responses": [
+            "This"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Yo",
+        "responses": [
+            "I"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Encontrar",
+        "responses": [
+            "Situated"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Personalmente",
+        "responses": [
+            "Personally"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "El",
+        "responses": [
+            "There"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mapa",
+        "responses": [
+            "Card"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Disponible",
+        "responses": [
+            "Available"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aqu\u00ed",
+        "responses": [
+            "Here"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Suficiente",
+        "responses": [
+            "Enough"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fascinante",
+        "responses": [
+            "Fascinating"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Httpwwworldmapperorgdisphpselected",
+        "responses": [
+            "Httpwwwworldmapperorgdisplayphpselected = 335"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Carrera",
+        "responses": [
+            "Race"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "As\u00ed Que",
+        "responses": [
+            "So"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cest",
+        "responses": [
+            "Cest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Especialmente",
+        "responses": [
+            "Especially"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Un",
+        "responses": [
+            "For one"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pastel",
+        "responses": [
+            "Pie"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Relleno",
+        "responses": [
+            "Shove"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Para",
+        "responses": [
+            "to"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Crema",
+        "responses": [
+            "Cream"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mira De Lo Que Est\u00e1s Hablando",
+        "responses": [
+            "See you"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "83",
+        "responses": [
+            "83"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estamos",
+        "responses": [
+            "Be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Blanco",
+        "responses": [
+            "White"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "M\u00e1s",
+        "responses": [
+            "More"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alto",
+        "responses": [
+            "high"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bueno",
+        "responses": [
+            "Good"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ese",
+        "responses": [
+            "That"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "No",
+        "responses": [
+            "Not"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Demasiado",
+        "responses": [
+            "Too"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mucho",
+        "responses": [
+            "Significantly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Numero",
+        "responses": [
+            "Number"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Equivalente",
+        "responses": [
+            "equivalent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estados Unidos",
+        "responses": [
+            "United States"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cauc\u00e1sico",
+        "responses": [
+            "Caucasian"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "837",
+        "responses": [
+            "837"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Asi\u00e1tico",
+        "responses": [
+            "Asian"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "30",
+        "responses": [
+            "30"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Africano",
+        "responses": [
+            "African"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "14",
+        "responses": [
+            "14"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Americano",
+        "responses": [
+            "American"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nacimiento",
+        "responses": [
+            "Birth"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "19",
+        "responses": [
+            "19"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hispana",
+        "responses": [
+            "Hispanic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "41",
+        "responses": [
+            "41"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Otro",
+        "responses": [
+            "Other"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "59",
+        "responses": [
+            "59"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "P\u00e1gina",
+        "responses": [
+            "Page"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "11",
+        "responses": [
+            "11"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reuni\u00f3n",
+        "responses": [
+            "Respondent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pregunta",
+        "responses": [
+            "Question"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "En",
+        "responses": [
+            "In"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Encuesta",
+        "responses": [
+            "Survey"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dijo",
+        "responses": [
+            "Say"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Qu\u00e9 Pasa",
+        "responses": [
+            "Keels"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vino",
+        "responses": [
+            "Come"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cinco",
+        "responses": [
+            "Five"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lugares",
+        "responses": [
+            "Place"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Popular",
+        "responses": [
+            "Popular"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Orden",
+        "responses": [
+            "Lordre"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "1",
+        "responses": [
+            "1"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "689",
+        "responses": [
+            "689"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "2",
+        "responses": [
+            "2"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reino Unido",
+        "responses": [
+            "United Kingdom"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "826",
+        "responses": [
+            "826"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "3",
+        "responses": [
+            "3"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Canad\u00e1",
+        "responses": [
+            "Canada"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "745",
+        "responses": [
+            "745"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "4",
+        "responses": [
+            "4"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Australia",
+        "responses": [
+            "Australia"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "345",
+        "responses": [
+            "345"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "5",
+        "responses": [
+            "5"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alemania",
+        "responses": [
+            "Germany"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "212",
+        "responses": [
+            "212"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entre",
+        "responses": [
+            "Among"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estos Son",
+        "responses": [
+            "These"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Densidad",
+        "responses": [
+            "Density"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Poblaci\u00f3n",
+        "responses": [
+            "Population"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Se",
+        "responses": [
+            "Se"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Segundo",
+        "responses": [
+            "Second"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Posici\u00f3n",
+        "responses": [
+            "Position"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Es",
+        "responses": [
+            "Be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tercero",
+        "responses": [
+            "Third party"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lejos",
+        "responses": [
+            "move away"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Y",
+        "responses": [
+            "And"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Croupit",
+        "responses": [
+            "Croupit"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Detr\u00e1s",
+        "responses": [
+            "Behind"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bajos",
+        "responses": [
+            "Low"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Primero",
+        "responses": [
+            "First"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mismo",
+        "responses": [
+            "Even"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Si",
+        "responses": [
+            "If"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sospechoso",
+        "responses": [
+            "Suspected"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Naturaleza",
+        "responses": [
+            "Nature"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Angl\u00f3fono",
+        "responses": [
+            "Anglophone"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "El Caso",
+        "responses": [
+            "The quest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tiene",
+        "responses": [
+            "To"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tendencia",
+        "responses": [
+            "Trend"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Desventaja",
+        "responses": [
+            "Disadvantage"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aquellos",
+        "responses": [
+            "That"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Qui",
+        "responses": [
+            "That"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Langlais",
+        "responses": [
+            "Langlais"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nido",
+        "responses": [
+            "Nest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Idioma",
+        "responses": [
+            "Language"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Principal",
+        "responses": [
+            "Main"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Te A",
+        "responses": [
+            "You"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Enlatar",
+        "responses": [
+            "Can"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nota",
+        "responses": [
+            "Note"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Como",
+        "responses": [
+            "As"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Defecto",
+        "responses": [
+            "Flaw"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tr\u00e1gico",
+        "responses": [
+            "Tragic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aflige",
+        "responses": [
+            "Afflict"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Por",
+        "responses": [
+            "By"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ejemplo",
+        "responses": [
+            "Example"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "La Industria",
+        "responses": [
+            "Their vision"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sexo",
+        "responses": [
+            "Sex"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tipo",
+        "responses": [
+            "Kind"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Orientaci\u00f3n",
+        "responses": [
+            "Orientation"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Molesto",
+        "responses": [
+            "Boring"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Poner",
+        "responses": [
+            "Put"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Usted",
+        "responses": [
+            "Your"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Permitido",
+        "responses": [
+            "Permit"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Conducir",
+        "responses": [
+            "Lead"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nosotros",
+        "responses": [
+            "One"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Adivinar",
+        "responses": [
+            "Supposed"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Generalmente",
+        "responses": [
+            "Usually"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fandom",
+        "responses": [
+            "Fandom"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Exclusivamente",
+        "responses": [
+            "Exclusively"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "S\u00ed",
+        "responses": [
+            "Or"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Principalmente",
+        "responses": [
+            "Mainly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Masculino",
+        "responses": [
+            "Male"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Menos",
+        "responses": [
+            "Unless"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Casi",
+        "responses": [
+            "Almost"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Todo",
+        "responses": [
+            "Any"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sujeto",
+        "responses": [
+            "Guy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Efecto",
+        "responses": [
+            "Effect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "David",
+        "responses": [
+            "David"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "\u00f3xido",
+        "responses": [
+            "Rust"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Informes",
+        "responses": [
+            "Report"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "85",
+        "responses": [
+            "85"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Su",
+        "responses": [
+            "Its"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Encuestados",
+        "responses": [
+            "Meet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fueron",
+        "responses": [
+            "be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "UCDavis",
+        "responses": [
+            "UCDavis"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Templado",
+        "responses": [
+            "Soaked"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "81",
+        "responses": [
+            "81"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "All\u00ed",
+        "responses": [
+            "There"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Derrocar",
+        "responses": [
+            "Overthrow"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "803",
+        "responses": [
+            "803"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gente",
+        "responses": [
+            "Person"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hombres",
+        "responses": [
+            "Man"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Esta",
+        "responses": [
+            "This"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Inferior",
+        "responses": [
+            "Lower"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Davis",
+        "responses": [
+            "Davis"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estad\u00edsticamente",
+        "responses": [
+            "Statistically"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Insignificante",
+        "responses": [
+            "Insignificant"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cantidad",
+        "responses": [
+            "Amount"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entonces",
+        "responses": [
+            "Then"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Questce",
+        "responses": [
+            "Questce"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Da",
+        "responses": [
+            "Given"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hacer",
+        "responses": [
+            "Do"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mantener",
+        "responses": [
+            "Keep"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Decir",
+        "responses": [
+            "Say"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cosa",
+        "responses": [
+            "Thing"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sino",
+        "responses": [
+            "But"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "B\u00e1sica",
+        "responses": [
+            "Basic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Geek",
+        "responses": [
+            "Geek"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sin",
+        "responses": [
+            "Without"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Duda",
+        "responses": [
+            "Doubt"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Much",
+        "responses": [
+            "Many"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Con",
+        "responses": [
+            "With"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Diciendo",
+        "responses": [
+            "Say"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aficionados",
+        "responses": [
+            "Fan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sciencefiction",
+        "responses": [
+            "Sciencefiction"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tecnolog\u00eda",
+        "responses": [
+            "Technology"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fue",
+        "responses": [
+            "be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Todav\u00eda",
+        "responses": [
+            "Yet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Probablemente",
+        "responses": [
+            "Probably"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mujer",
+        "responses": [
+            "Woman"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Eso",
+        "responses": [
+            "It"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ciertamente",
+        "responses": [
+            "Certainly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aspectos",
+        "responses": [
+            "Aspect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Igualitaria",
+        "responses": [
+            "egalitarian"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Artistas",
+        "responses": [
+            "Artist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mujeres",
+        "responses": [
+            "Woman"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Porque",
+        "responses": [
+            "Because"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fallas",
+        "responses": [
+            "Failure"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Poco",
+        "responses": [
+            "Little"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Joven",
+        "responses": [
+            "Young people"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Envejecido",
+        "responses": [
+            "old"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quiz\u00e1s",
+        "responses": [
+            "Perhaps"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cosas",
+        "responses": [
+            "Thing"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "El Exterior",
+        "responses": [
+            "Outside"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ser",
+        "responses": [
+            "Become"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Igual",
+        "responses": [
+            "equal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sabidur\u00eda",
+        "responses": [
+            "Wisdom"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Convencional",
+        "responses": [
+            "Conventional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Considerar",
+        "responses": [
+            "Considered"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Basti\u00f3n",
+        "responses": [
+            "Bastion"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lhomosexuality",
+        "responses": [
+            "Lhomosexuality"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Muchos",
+        "responses": [
+            "Numerous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Have",
+        "responses": [
+            "Have"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Avanzada",
+        "responses": [
+            "Advanced"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "La Estimaci\u00f3n",
+        "responses": [
+            "Estimation"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "90",
+        "responses": [
+            "90"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Departamento",
+        "responses": [
+            "Department"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sab\u00eda",
+        "responses": [
+            "Know"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ya",
+        "responses": [
+            "Already"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Solamente",
+        "responses": [
+            "Only"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quinto",
+        "responses": [
+            "Fifth"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bolsillos",
+        "responses": [
+            "Puffiness"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aislado",
+        "responses": [
+            "Isolate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gran",
+        "responses": [
+            "Great"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "El Todo",
+        "responses": [
+            "Lensemble"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Testeserrife",
+        "responses": [
+            "Testosterone"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "12",
+        "responses": [
+            "12"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gay",
+        "responses": [
+            "Gay"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hecho",
+        "responses": [
+            "Fact"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Proporcionar",
+        "responses": [
+            "Provide"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Presupuestos",
+        "responses": [
+            "Quote"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Asunto",
+        "responses": [
+            "Subject"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sonido",
+        "responses": [
+            "Its"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Punto",
+        "responses": [
+            "Point"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Basado",
+        "responses": [
+            "Founded"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Medida",
+        "responses": [
+            "Measure"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "D\u00f3nde",
+        "responses": [
+            "Where"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fuera",
+        "responses": [
+            "External"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Preocupado",
+        "responses": [
+            "Concern"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Interior",
+        "responses": [
+            "Interior"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Adem\u00e1s",
+        "responses": [
+            "also"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Castro",
+        "responses": [
+            "Castro"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "The Internet",
+        "responses": [
+            "LInternet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Espec\u00edfico",
+        "responses": [
+            "Accurate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Curso",
+        "responses": [
+            "Course"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Saber",
+        "responses": [
+            "Know"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Desde",
+        "responses": [
+            "Since"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Publicaci\u00f3n",
+        "responses": [
+            "Publication"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hist\u00f3rico",
+        "responses": [
+            "Historic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "A\u00f1os",
+        "responses": [
+            "Many years"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Intermedio",
+        "responses": [
+            "Intermediate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jugado",
+        "responses": [
+            "Play"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Figuras",
+        "responses": [
+            "Digit"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Canci\u00f3n",
+        "responses": [
+            "Song"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Descansar",
+        "responses": [
+            "Rest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Investigaci\u00f3n",
+        "responses": [
+            "Investigation"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Revela",
+        "responses": [
+            "Reveal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "321",
+        "responses": [
+            "321"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Heterosexual",
+        "responses": [
+            "Heterosexual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "25",
+        "responses": [
+            "25"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Valor",
+        "responses": [
+            "Value"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Significativo",
+        "responses": [
+            "Significantly increase"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Grado",
+        "responses": [
+            "Degree"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "327",
+        "responses": [
+            "327"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "239",
+        "responses": [
+            "239"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Homosexuales",
+        "responses": [
+            "Homosexual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Id\u00e9ntico",
+        "responses": [
+            "Identical"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "255",
+        "responses": [
+            "255"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "36",
+        "responses": [
+            "36"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nuestro",
+        "responses": [
+            "Our"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Muestra",
+        "responses": [
+            "sample"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bisexuales",
+        "responses": [
+            "Bisexual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "48",
+        "responses": [
+            "48"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pr\u00e1cticamente",
+        "responses": [
+            "Virtually"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "373",
+        "responses": [
+            "373"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hombre",
+        "responses": [
+            "Man"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Perspicaz",
+        "responses": [
+            "Insightful"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escritura",
+        "responses": [
+            "write"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Correo Electr\u00f3nico",
+        "responses": [
+            "Email"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jai",
+        "responses": [
+            "Jai"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sugerido",
+        "responses": [
+            "Suggest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Seguir",
+        "responses": [
+            "Follow"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cu\u00e1ntos",
+        "responses": [
+            "How"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Juego",
+        "responses": [
+            "Game"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Papel",
+        "responses": [
+            "Role"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Miembro",
+        "responses": [
+            "Member"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Opuesto",
+        "responses": [
+            "Opposite"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "S\u00ed Mismo",
+        "responses": [
+            "Itself"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Interesante",
+        "responses": [
+            "Interested"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Intenci\u00f3n",
+        "responses": [
+            "Attention"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pr\u00f3ximo",
+        "responses": [
+            "Next"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Versi\u00f3n",
+        "responses": [
+            "Version"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hora",
+        "responses": [
+            "Time"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sin Embargo",
+        "responses": [
+            "However"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ofrecer",
+        "responses": [
+            "Offer"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Comentario",
+        "responses": [
+            "Comment"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Papeles",
+        "responses": [
+            "Role"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Asumir",
+        "responses": [
+            "Assume"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Asociaci\u00f3n",
+        "responses": [
+            "Association"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Psiqui\u00e1trico",
+        "responses": [
+            "Psychiatric"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lynn",
+        "responses": [
+            "Lynn"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Conway",
+        "responses": [
+            "Conway"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cre\u00edble",
+        "responses": [
+            "Credible"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "6",
+        "responses": [
+            "6"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Caso",
+        "responses": [
+            "Case"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lapa",
+        "responses": [
+            "LAP"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sugiere",
+        "responses": [
+            "Suggest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "23",
+        "responses": [
+            "23"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sengagent",
+        "responses": [
+            "Sengagent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Parodia",
+        "responses": [
+            "Cross-dressing"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Casual",
+        "responses": [
+            "Occasional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Considera",
+        "responses": [
+            "Esteem"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Prevalencia",
+        "responses": [
+            "Prevalence"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Transg\u00e9neros",
+        "responses": [
+            "Transgender"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "1:50 A.m.",
+        "responses": [
+            "1h50"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "2500",
+        "responses": [
+            "2500"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Diferente",
+        "responses": [
+            "Different"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Grados",
+        "responses": [
+            "Degree"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Terminales",
+        "responses": [
+            "Terminal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Presunci\u00f3n",
+        "responses": [
+            "Presumption"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Trivial",
+        "responses": [
+            "Innocuous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Datos",
+        "responses": [
+            "Data"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dibujado",
+        "responses": [
+            "Draw"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Httpwwwapaorgtopicstransgenderhtml",
+        "responses": [
+            "Httpwwwapaorgtopicstransgenderhtml"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "HttpaieecsumichedupeopleconwayTSprevalencehtml",
+        "responses": [
+            "HttpaieecsumichedupeopleconwayTStsprevalencehtml"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Respectivamente",
+        "responses": [
+            "Respectively"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "795",
+        "responses": [
+            "795"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "168",
+        "responses": [
+            "168"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "00",
+        "responses": [
+            "00"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "100",
+        "responses": [
+            "100"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "200",
+        "responses": [
+            "200"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "300",
+        "responses": [
+            "300"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "400",
+        "responses": [
+            "400"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "500",
+        "responses": [
+            "500"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "600",
+        "responses": [
+            "600"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "700",
+        "responses": [
+            "700"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "800",
+        "responses": [
+            "800"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "900",
+        "responses": [
+            "900"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "MaleMele",
+        "responses": [
+            "Malemal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "WomanWoman",
+        "responses": [
+            "Femmefemale"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Autoinformada",
+        "responses": [
+            "Self-declared"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Juegos",
+        "responses": [
+            "Game"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pens\u00e9",
+        "responses": [
+            "Thought"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estrictamente",
+        "responses": [
+            "Strictly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Biol\u00f3gico",
+        "responses": [
+            "Biological"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Com\u00fan",
+        "responses": [
+            "Frequent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ojos",
+        "responses": [
+            "Eye"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "P\u00fablico",
+        "responses": [
+            "Public"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Art\u00edculo",
+        "responses": [
+            "Article"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Publicado",
+        "responses": [
+            "Published"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "A\u00f1o",
+        "responses": [
+            "Year"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ciberpsicolog\u00eda",
+        "responses": [
+            "Cyberpsychology"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Comportamiento",
+        "responses": [
+            "Behavior"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sugerir",
+        "responses": [
+            "Suggest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dos",
+        "responses": [
+            "Double"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jugadores",
+        "responses": [
+            "Player"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cambio",
+        "responses": [
+            "Change"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "En Serio",
+        "responses": [
+            "Really"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Raro",
+        "responses": [
+            "Rare"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ver",
+        "responses": [
+            "See"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Homosexual",
+        "responses": [
+            "Homosexual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "360",
+        "responses": [
+            "360"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "O",
+        "responses": [
+            "Nor"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mon",
+        "responses": [
+            "LUN"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "27",
+        "responses": [
+            "27"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "52",
+        "responses": [
+            "52"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sexual",
+        "responses": [
+            "Sexual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Proporcionalmente",
+        "responses": [
+            "Proportionally"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Probable",
+        "responses": [
+            "Likely"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "General",
+        "responses": [
+            "General"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ellos",
+        "responses": [
+            "They"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Representan",
+        "responses": [
+            "Represent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Siempre",
+        "responses": [
+            "Always"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dun",
+        "responses": [
+            "Dun"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cuarto",
+        "responses": [
+            "Quarter"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bisexualidad",
+        "responses": [
+            "Bisexuality"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ahora Mismo",
+        "responses": [
+            "Now"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Disfruta",
+        "responses": [
+            "Enjoy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Duna",
+        "responses": [
+            "Dune"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Real",
+        "responses": [
+            "True"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Popularidad",
+        "responses": [
+            "Popularity"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "13",
+        "responses": [
+            "13"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Consultar",
+        "responses": [
+            "See"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bola",
+        "responses": [
+            "Ball"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cristal",
+        "responses": [
+            "Crystal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Significaba",
+        "responses": [
+            "Mean"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Navais",
+        "responses": [
+            "Naval"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Realizado",
+        "responses": [
+            "Realize"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Qu\u00e9",
+        "responses": [
+            "What"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hacia Arriba",
+        "responses": [
+            "Up to"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tarde",
+        "responses": [
+            "Later"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sombra",
+        "responses": [
+            "Shade"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "M\u00e1s All\u00e1",
+        "responses": [
+            "Beyond"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Preguntar",
+        "responses": [
+            "Ask"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sidentify",
+        "responses": [
+            "Sidentifier"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "37",
+        "responses": [
+            "37"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Indicado",
+        "responses": [
+            "Indicate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Identidad",
+        "responses": [
+            "Identity"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sugiriendo",
+        "responses": [
+            "Suggest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Out",
+        "responses": [
+            "Outside"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Propio",
+        "responses": [
+            "Own"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Juntos",
+        "responses": [
+            "Whole"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Corresponde",
+        "responses": [
+            "Correspond"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cerca",
+        "responses": [
+            "Near"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mi",
+        "responses": [
+            "My"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Experiencia",
+        "responses": [
+            "Experience"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ferias",
+        "responses": [
+            "Lounge"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Discusi\u00f3n",
+        "responses": [
+            "Discussion"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ha",
+        "responses": [
+            "Ha"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ya Est\u00e1s Aqu\u00ed",
+        "responses": [
+            "Hey"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Enfatizar",
+        "responses": [
+            "Stress"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "28",
+        "responses": [
+            "28"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entrevistado",
+        "responses": [
+            "Interview"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Identificado",
+        "responses": [
+            "Identify"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "78",
+        "responses": [
+            "78"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tambi\u00e9n",
+        "responses": [
+            "As well"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bruto",
+        "responses": [
+            "Gross"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Promover",
+        "responses": [
+            "Promote"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Porcentaje",
+        "responses": [
+            "Percentage"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dmens",
+        "responses": [
+            "Dhommes"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Informe",
+        "responses": [
+            "Report"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Inclinaciones",
+        "responses": [
+            "Inclination"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Diferencia",
+        "responses": [
+            "Difference"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Educaci\u00f3n",
+        "responses": [
+            "Education"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Profesi\u00f3n",
+        "responses": [
+            "Profession"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cero",
+        "responses": [
+            "Anywhere"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Parte",
+        "responses": [
+            "Share"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Grupos",
+        "responses": [
+            "Group"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Organizaci\u00f3n",
+        "responses": [
+            "Sorgan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Frecuentemente",
+        "responses": [
+            "Often"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "\u00bfQu\u00e9 Pasa?",
+        "responses": [
+            "Here"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Universidad",
+        "responses": [
+            "University"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Campus",
+        "responses": [
+            "Campus"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Do\u00e1",
+        "responses": [
+            "Gifted"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tira",
+        "responses": [
+            "Draw"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Informaci\u00f3n",
+        "responses": [
+            "Information"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Confirmar",
+        "responses": [
+            "Confirm"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Idea",
+        "responses": [
+            "Lid\u00e9e"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Orientado",
+        "responses": [
+            "Orient"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "42",
+        "responses": [
+            "42"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ten\u00eda",
+        "responses": [
+            "Have"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cierto",
+        "responses": [
+            "Certain"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entrenamiento",
+        "responses": [
+            "Training"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "20",
+        "responses": [
+            "20"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Adicional",
+        "responses": [
+            "Additional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tener",
+        "responses": [
+            "Have"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Soltero",
+        "responses": [
+            "Bachelor"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pregunt\u00f3",
+        "responses": [
+            "Ask"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Indicar",
+        "responses": [
+            "Indicate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nivel",
+        "responses": [
+            "Level"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alcanzado",
+        "responses": [
+            "Reach"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "115",
+        "responses": [
+            "115"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Navait",
+        "responses": [
+            "Navait"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Terminado",
+        "responses": [
+            "Ended"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Arriba",
+        "responses": [
+            "High"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escuela",
+        "responses": [
+            "school"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estos",
+        "responses": [
+            "This"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bajo",
+        "responses": [
+            "Sub"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "18",
+        "responses": [
+            "18"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "382",
+        "responses": [
+            "382"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Postsecundaria",
+        "responses": [
+            "Post-secondary"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "335",
+        "responses": [
+            "335"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Que",
+        "responses": [
+            "Which"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Unos Pocos",
+        "responses": [
+            "Some"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Postgrado",
+        "responses": [
+            "Postgraduate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "53",
+        "responses": [
+            "53"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sosteniendo",
+        "responses": [
+            "Hold"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Censo",
+        "responses": [
+            "Census"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Proporciona",
+        "responses": [
+            "Provides"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Educativo",
+        "responses": [
+            "educational"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Resultados",
+        "responses": [
+            "Result"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Viejo",
+        "responses": [
+            "Old"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Disparar",
+        "responses": [
+            "Draw"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Correspondiente",
+        "responses": [
+            "Corresponding"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Descripci\u00f3n",
+        "responses": [
+            "Description"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Eso Es Todo",
+        "responses": [
+            "I mean"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Residentes",
+        "responses": [
+            "Resident"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Americanos",
+        "responses": [
+            "American"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dau",
+        "responses": [
+            "Dau"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Obtener",
+        "responses": [
+            "Get"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Puntos",
+        "responses": [
+            "Point"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Siguientes",
+        "responses": [
+            "Following"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sentido",
+        "responses": [
+            "Means"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escolaridad",
+        "responses": [
+            "Tuition"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "No Americano",
+        "responses": [
+            "Non-Americans"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Edad",
+        "responses": [
+            "Dage"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Den",
+        "responses": [
+            "Den"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ingenier\u00eda",
+        "responses": [
+            "Engineering"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Venganza",
+        "responses": [
+            "Revenge"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nerds",
+        "responses": [
+            "Nerds"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cualquier",
+        "responses": [
+            "Securely"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tocino",
+        "responses": [
+            "Way"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Grupo",
+        "responses": [
+            "Group"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Muy",
+        "responses": [
+            "Very"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Educado",
+        "responses": [
+            "Educated"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escuela Secundaria",
+        "responses": [
+            "High school"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estudios",
+        "responses": [
+            "study"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Premios",
+        "responses": [
+            "Upper"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Trabajo",
+        "responses": [
+            "Work"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "240",
+        "responses": [
+            "240"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "50",
+        "responses": [
+            "50"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "150",
+        "responses": [
+            "150"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "250",
+        "responses": [
+            "250"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "350",
+        "responses": [
+            "350"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "450",
+        "responses": [
+            "450"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ciertas",
+        "responses": [
+            "Certain"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Secundaria",
+        "responses": [
+            "Secondary"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Posgrado",
+        "responses": [
+            "Graduate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Exponer",
+        "responses": [
+            "Post"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ciclo",
+        "responses": [
+            "Cycle"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "792",
+        "responses": [
+            "792"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Contra",
+        "responses": [
+            "Against"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Significa",
+        "responses": [
+            "Afford it"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nont",
+        "responses": [
+            "Nont"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quun",
+        "responses": [
+            "Quun"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "32",
+        "responses": [
+            "32"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "148",
+        "responses": [
+            "148"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Parcial",
+        "responses": [
+            "Biased"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cuando",
+        "responses": [
+            "When"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quune",
+        "responses": [
+            "Quune"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fuerte",
+        "responses": [
+            "Strong"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pluralidad",
+        "responses": [
+            "Plurality"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "439",
+        "responses": [
+            "439"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Doble",
+        "responses": [
+            "Double"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Contrapartes",
+        "responses": [
+            "Counterpart"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Para Qu\u00e9",
+        "responses": [
+            "Why"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mediana",
+        "responses": [
+            "Median"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Am\u00e9rica",
+        "responses": [
+            "Lamerica"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mejor",
+        "responses": [
+            "Better"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "D\u00e9cada",
+        "responses": [
+            "Decade"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Superior",
+        "responses": [
+            "Upper"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "40",
+        "responses": [
+            "40"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Listado",
+        "responses": [
+            "listed"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estudiante",
+        "responses": [
+            "student"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Algunos",
+        "responses": [
+            "Some"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Responde",
+        "responses": [
+            "Meet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Noci\u00f3n",
+        "responses": [
+            "Concept"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Eso Es Todo.",
+        "responses": [
+            "Veil"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lavado",
+        "responses": [
+            "Wash"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sabio",
+        "responses": [
+            "Wise"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escucha",
+        "responses": [
+            "listen"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estudiantes",
+        "responses": [
+            "student"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dentre",
+        "responses": [
+            "Among"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Profesional",
+        "responses": [
+            "Professional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fracaso",
+        "responses": [
+            "Failure"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Esp\u00e9rate A Ti Mismo",
+        "responses": [
+            "Please wait"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cuenta",
+        "responses": [
+            "Account"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mantenido",
+        "responses": [
+            "Tenuous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "425",
+        "responses": [
+            "425"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "38",
+        "responses": [
+            "38"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reclamado",
+        "responses": [
+            "Claim"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "31",
+        "responses": [
+            "31"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Respuesta",
+        "responses": [
+            "Response"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Actual",
+        "responses": [
+            "Run"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lugar",
+        "responses": [
+            "Place"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sido",
+        "responses": [
+            "summer"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Trabajando",
+        "responses": [
+            "Work"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "\u00c1reas",
+        "responses": [
+            "Area"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "T\u00e9cnicas",
+        "responses": [
+            "Technical"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Relacionado",
+        "responses": [
+            "Link"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Linformatic",
+        "responses": [
+            "Informatics"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "159",
+        "responses": [
+            "159"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Acerca De",
+        "responses": [
+            "About"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ocho",
+        "responses": [
+            "Eight"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cien",
+        "responses": [
+            "Percent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "En Otros Lugares",
+        "responses": [
+            "Elsewhere"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Empleados",
+        "responses": [
+            "Employee"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Trabajos",
+        "responses": [
+            "Employment"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Profesionales",
+        "responses": [
+            "Professional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tres",
+        "responses": [
+            "Three"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Capacidad",
+        "responses": [
+            "Capacity"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Administrativo",
+        "responses": [
+            "Administrative"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reflejando",
+        "responses": [
+            "Reflect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sector",
+        "responses": [
+            "Sector"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Servicios",
+        "responses": [
+            "Service"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Venta",
+        "responses": [
+            "Sale"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Apoyo",
+        "responses": [
+            "Support"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reunido",
+        "responses": [
+            "Meet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "124",
+        "responses": [
+            "124"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Respuestas",
+        "responses": [
+            "Response"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lai",
+        "responses": [
+            "Lai"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Principio",
+        "responses": [
+            "Beginning"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Peque\u00f1o",
+        "responses": [
+            "Small"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Setenta",
+        "responses": [
+            "Sixty-six"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "374",
+        "responses": [
+            "374"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Declarado",
+        "responses": [
+            "Announced"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ingresos",
+        "responses": [
+            "Income"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "10000",
+        "responses": [
+            "10000"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "$",
+        "responses": [
+            "$"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Refleja",
+        "responses": [
+            "Reflect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nueva",
+        "responses": [
+            "New"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "274",
+        "responses": [
+            "274"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "10",
+        "responses": [
+            "10"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "24",
+        "responses": [
+            "24"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "999",
+        "responses": [
+            "999"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "189",
+        "responses": [
+            "189"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "45",
+        "responses": [
+            "45"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Anual",
+        "responses": [
+            "Annual"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "139",
+        "responses": [
+            "139"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Casa",
+        "responses": [
+            "Fireplace"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mensajes",
+        "responses": [
+            "Position"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gobierno",
+        "responses": [
+            "Governmental"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Militar",
+        "responses": [
+            "Military"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Empleado",
+        "responses": [
+            "Employee"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Campo",
+        "responses": [
+            "Area"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Arte",
+        "responses": [
+            "Craft"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Creativo",
+        "responses": [
+            "Creative"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Imaginar",
+        "responses": [
+            "Imagine"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pagado",
+        "responses": [
+            "Pay"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escribir",
+        "responses": [
+            "write"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Suerte",
+        "responses": [
+            "Lucky"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "B",
+        "responses": [
+            "B"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Oh",
+        "responses": [
+            "Oh"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mira",
+        "responses": [
+            "Look"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nuevo",
+        "responses": [
+            "New"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Secci\u00f3n",
+        "responses": [
+            "Section"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Religi\u00f3n",
+        "responses": [
+            "Religion"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pol\u00edtica",
+        "responses": [
+            "Policy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Debe",
+        "responses": [
+            "Need"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Abstenerse",
+        "responses": [
+            "Refrain"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Discutir",
+        "responses": [
+            "Discuss"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alrededor",
+        "responses": [
+            "Around"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mesa",
+        "responses": [
+            "Table"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Familia",
+        "responses": [
+            "Family"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "S\u00f3lo",
+        "responses": [
+            "Just"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Direcci\u00f3n",
+        "responses": [
+            "Address"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Esperanza",
+        "responses": [
+            "Lespoir"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Forma",
+        "responses": [
+            "Form"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Homog\u00e9nea",
+        "responses": [
+            "Homogeneous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ocupaci\u00f3n",
+        "responses": [
+            "Occupation"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Izquierda",
+        "responses": [
+            "Left"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lubas",
+        "responses": [
+            "Labas"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Distribuci\u00f3n",
+        "responses": [
+            "Distribution"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Extenso",
+        "responses": [
+            "Wide"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Computadora",
+        "responses": [
+            "Computer"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Representaci\u00f3n",
+        "responses": [
+            "Representation"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Singular",
+        "responses": [
+            "Singularly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sorpresa",
+        "responses": [
+            "Surprise"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "47",
+        "responses": [
+            "47"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ventas",
+        "responses": [
+            "Sale"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Servicio",
+        "responses": [
+            "Service"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "65",
+        "responses": [
+            "65"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "15",
+        "responses": [
+            "15"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Evitar",
+        "responses": [
+            "avoid"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Doffenser",
+        "responses": [
+            "Doffenser"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ay",
+        "responses": [
+            "Alas"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gastar",
+        "responses": [
+            "Spend"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Manzanas",
+        "responses": [
+            "Potato"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tierra",
+        "responses": [
+            "Land"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vamos A Instalar",
+        "responses": [
+            "Install us"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vamos A Tratar Con",
+        "responses": [
+            "Treat"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "2008",
+        "responses": [
+            "2008"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Noticias",
+        "responses": [
+            "Dactuality"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estereot\u00edpicamente",
+        "responses": [
+            "Stereotypically"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Liberales",
+        "responses": [
+            "Liberal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Despu\u00e9s De Eso",
+        "responses": [
+            "Following"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gr\u00e1fico",
+        "responses": [
+            "Graphics"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bien",
+        "responses": [
+            "Good"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Raz\u00f3n",
+        "responses": [
+            "Reason"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "338",
+        "responses": [
+            "338"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Descrito",
+        "responses": [
+            "Describe"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pol\u00edticas",
+        "responses": [
+            "Policy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Liberal",
+        "responses": [
+            "Liberal"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "113",
+        "responses": [
+            "113"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Declarar",
+        "responses": [
+            "Say"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Extremadamente",
+        "responses": [
+            "Extremely"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lado",
+        "responses": [
+            "Side"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "97",
+        "responses": [
+            "97"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Conservador",
+        "responses": [
+            "Conservative"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "302",
+        "responses": [
+            "302"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pol\u00edticamente",
+        "responses": [
+            "Politically"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Moderado",
+        "responses": [
+            "Moderate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Saccorde",
+        "responses": [
+            "Saccorda"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mirando",
+        "responses": [
+            "Look"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tablones",
+        "responses": [
+            "Bulletin board"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Habitaciones",
+        "responses": [
+            "Salles"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gato",
+        "responses": [
+            "Cat"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tracci\u00f3n",
+        "responses": [
+            "Traction"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Centrista",
+        "responses": [
+            "Centrist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Desconocido",
+        "responses": [
+            "Unknown"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cuidado",
+        "responses": [
+            "Careful"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dappeler",
+        "responses": [
+            "Call"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mir\u00f3",
+        "responses": [
+            "Lean"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Presumir",
+        "responses": [
+            "Assume"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Discurso",
+        "responses": [
+            "Speech"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Douverture",
+        "responses": [
+            "Opening"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Convenci\u00f3n",
+        "responses": [
+            "Convention"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Gop",
+        "responses": [
+            "GOP"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ser\u00e1",
+        "responses": [
+            "Will"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Riendo",
+        "responses": [
+            "Laughing"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Independientemente",
+        "responses": [
+            "Regardless"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Son",
+        "responses": [
+            "be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jirones",
+        "responses": [
+            "Tatters"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Apol\u00edtica",
+        "responses": [
+            "Apolitical"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Doctrinas",
+        "responses": [
+            "Doctrine"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Impopular",
+        "responses": [
+            "Unpopular"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nicho",
+        "responses": [
+            "Niche"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Internet",
+        "responses": [
+            "Internet"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pensando",
+        "responses": [
+            "Think"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Libertarismo",
+        "responses": [
+            "Libertarianism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Socialismo",
+        "responses": [
+            "Socialism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Devoluci\u00f3n",
+        "responses": [
+            "Return"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Querer",
+        "responses": [
+            "Want"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Elevado",
+        "responses": [
+            "Hoist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Antes",
+        "responses": [
+            "Front"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Congreso",
+        "responses": [
+            "Congress"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Na",
+        "responses": [
+            "Na"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Preguntas",
+        "responses": [
+            "Question"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Generosamente",
+        "responses": [
+            "Generously"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Describir",
+        "responses": [
+            "Describe"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Conservadores",
+        "responses": [
+            "Conservative"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Recoger",
+        "responses": [
+            "Collect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aparentemente",
+        "responses": [
+            "Apparently"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Figura",
+        "responses": [
+            "Digit"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Parece",
+        "responses": [
+            "Seem"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Incre\u00edblemente",
+        "responses": [
+            "Incredibly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Considerando",
+        "responses": [
+            "Recital"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nai",
+        "responses": [
+            "Nai"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Expl\u00edcitamente",
+        "responses": [
+            "Explicitly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Proporcionado",
+        "responses": [
+            "Provided"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Opci\u00f3n",
+        "responses": [
+            "Option"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lont",
+        "responses": [
+            "Lont"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Expletive",
+        "responses": [
+            "Profanity"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "T\u00e9cnicamente",
+        "responses": [
+            "Technically"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Consciente",
+        "responses": [
+            "Aware"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Express",
+        "responses": [
+            "Express"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "La Tripulaci\u00f3n",
+        "responses": [
+            "Equipment"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Siente",
+        "responses": [
+            "Feel"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Didentify",
+        "responses": [
+            "Didentifier"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Venirse",
+        "responses": [
+            "Come"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Especular",
+        "responses": [
+            "Conjecture"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Diferencias",
+        "responses": [
+            "Difference"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Podr\u00eda",
+        "responses": [
+            "Could"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Existen",
+        "responses": [
+            "Exist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "7",
+        "responses": [
+            "7"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Delicado",
+        "responses": [
+            "Delicate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Va A Ser",
+        "responses": [
+            "Dautant"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lardir",
+        "responses": [
+            "Louvrir"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "259",
+        "responses": [
+            "259"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cristiano",
+        "responses": [
+            "Christian"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Color",
+        "responses": [
+            "Color"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ontils",
+        "responses": [
+            "Ontils"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Visto",
+        "responses": [
+            "See"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ser\u00eda",
+        "responses": [
+            "Have"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vistas",
+        "responses": [
+            "See"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Algo",
+        "responses": [
+            "Rather"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Arrojando",
+        "responses": [
+            "Daller"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ca",
+        "responses": [
+            "AC"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Confusi\u00f3n",
+        "responses": [
+            "Confusion"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Elegido",
+        "responses": [
+            "Chosen"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Anarquista",
+        "responses": [
+            "Anarchist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Seriamente",
+        "responses": [
+            "Seriously"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Fuertemente",
+        "responses": [
+            "Strongly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Elegir",
+        "responses": [
+            "Choose"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Onda",
+        "responses": [
+            "Spate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Extra\u00f1o",
+        "responses": [
+            "Bizarre"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Lore",
+        "responses": [
+            "Lore"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quiere",
+        "responses": [
+            "Want"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Verdad",
+        "responses": [
+            "Truth"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pensar",
+        "responses": [
+            "Think"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quon",
+        "responses": [
+            "Quon"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sy",
+        "responses": [
+            "Sy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Esperar",
+        "responses": [
+            "Expect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ny",
+        "responses": [
+            "Ny"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Filosof\u00edas",
+        "responses": [
+            "Philosophy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Semiconservadores",
+        "responses": [
+            "Semi-conservative"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Juega",
+        "responses": [
+            "Play"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "16",
+        "responses": [
+            "16"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Denominacional",
+        "responses": [
+            "Confessional"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cat\u00f3lica",
+        "responses": [
+            "Catholic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Preocupaciones",
+        "responses": [
+            "Concern"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Definido",
+        "responses": [
+            "Define"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Paganos",
+        "responses": [
+            "Pagan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Atar",
+        "responses": [
+            "Link"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pagano",
+        "responses": [
+            "Pagan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Musulmanes",
+        "responses": [
+            "Muslim"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jud\u00edos",
+        "responses": [
+            "Jewish"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Budista",
+        "responses": [
+            "Buddhist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Calculadoras",
+        "responses": [
+            "Calculator"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dispuesto",
+        "responses": [
+            "Loan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Hojas",
+        "responses": [
+            "Leave this to me"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pieza",
+        "responses": [
+            "Piece"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Substancial",
+        "responses": [
+            "Substantial"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nombre",
+        "responses": [
+            "Name"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Representa",
+        "responses": [
+            "Represent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Restante",
+        "responses": [
+            "Remaining"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "208",
+        "responses": [
+            "208"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ateos",
+        "responses": [
+            "Atheist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "248",
+        "responses": [
+            "248"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "S\u00ed Mismos",
+        "responses": [
+            "Themselves"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Agn\u00f3sticos",
+        "responses": [
+            "Agnostic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "205",
+        "responses": [
+            "205"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Qu\u00e9 Dices",
+        "responses": [
+            "Quappearently"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Margen",
+        "responses": [
+            "Margin"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Maniobra",
+        "responses": [
+            "Manoeuvre"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mezcla",
+        "responses": [
+            "Mixture"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Creencias",
+        "responses": [
+            "Beliefs"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Religiones",
+        "responses": [
+            "Religion"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Conocido",
+        "responses": [
+            "Known"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Satanismo",
+        "responses": [
+            "Satanism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Recibido",
+        "responses": [
+            "Receive"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Voz",
+        "responses": [
+            "Voice"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Espiritualidad",
+        "responses": [
+            "Spirituality"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Autodefinido",
+        "responses": [
+            "Self-definition"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Prevaleci\u00f3",
+        "responses": [
+            "Predominate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vaticano",
+        "responses": [
+            "Vatican"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jugando",
+        "responses": [
+            "Play"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jack",
+        "responses": [
+            "Jack"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Espad\u00edn",
+        "responses": [
+            "Sprat"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cristianos",
+        "responses": [
+            "Christian"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "79",
+        "responses": [
+            "79"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "108",
+        "responses": [
+            "108"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Curiosamente",
+        "responses": [
+            "Curiously"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "82",
+        "responses": [
+            "82"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "119",
+        "responses": [
+            "119"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dy",
+        "responses": [
+            "Yes"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Afiliado",
+        "responses": [
+            "Affiliate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Paganismo",
+        "responses": [
+            "Paganism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Neopagan",
+        "responses": [
+            "NeoPagan"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Total",
+        "responses": [
+            "Total"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Excluir",
+        "responses": [
+            "Exclude"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Precisa",
+        "responses": [
+            "Accurate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mientras",
+        "responses": [
+            "While"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Afiliados",
+        "responses": [
+            "Affiliate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nirais",
+        "responses": [
+            "Nirais"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "L\u00edmites",
+        "responses": [
+            "Limit"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Significado",
+        "responses": [
+            "Meaning"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estad\u00edstica",
+        "responses": [
+            "Statistics"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "35",
+        "responses": [
+            "35"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "46",
+        "responses": [
+            "46"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Destacado",
+        "responses": [
+            "Major"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Compensado",
+        "responses": [
+            "Compensate"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Aumentar",
+        "responses": [
+            "Increase"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "63",
+        "responses": [
+            "63"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Siete",
+        "responses": [
+            "Seven"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cadencia",
+        "responses": [
+            "Pace"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Noble",
+        "responses": [
+            "Noble"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estoy",
+        "responses": [
+            "Be"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Brecha",
+        "responses": [
+            "gap"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vendido",
+        "responses": [
+            "Sell"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Historia",
+        "responses": [
+            "History"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ate\u00edsmo",
+        "responses": [
+            "Atheism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Agnosticismo",
+        "responses": [
+            "Agnosticism"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Otra Mano",
+        "responses": [
+            "Contrast"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Rasgu\u00f1o",
+        "responses": [
+            "Scratch"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Abajo",
+        "responses": [
+            "De\u00e7\u00e0"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Niveles",
+        "responses": [
+            "Level"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Referencia",
+        "responses": [
+            "Reference"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pa\u00eds",
+        "responses": [
+            "Country"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Residencia",
+        "responses": [
+            "Residence"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entiendo",
+        "responses": [
+            "Understood"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Territorio Aut\u00f3nomo",
+        "responses": [
+            "Commonwealth"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Protestante",
+        "responses": [
+            "Protestant"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Agn\u00f3stico",
+        "responses": [
+            "Agnostic"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ateo",
+        "responses": [
+            "Atheist"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "17",
+        "responses": [
+            "17"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "DE",
+        "responses": [
+            "OF"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "EL CASO",
+        "responses": [
+            "The quest"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "\u2666",
+        "responses": [
+            "\u2666"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Duraci\u00f3n",
+        "responses": [
+            "Duration"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Precisi\u00f3n",
+        "responses": [
+            "Accuracy"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Percepci\u00f3n",
+        "responses": [
+            "Perception"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Giro",
+        "responses": [
+            "Turn"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Elementos",
+        "responses": [
+            "element"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Relevancia",
+        "responses": [
+            "Relevance"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Haciendo",
+        "responses": [
+            "By doing so"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Particularmente",
+        "responses": [
+            "Particularly"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Claro",
+        "responses": [
+            "Clear"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Respeto",
+        "responses": [
+            "respect"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Estas",
+        "responses": [
+            "you are"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Vida",
+        "responses": [
+            "Life"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Almas",
+        "responses": [
+            "soul"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Largo",
+        "responses": [
+            "Long"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cu\u00e1n",
+        "responses": [
+            "How"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Caminar",
+        "responses": [
+            "Market"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Oye",
+        "responses": [
+            "Well"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Late",
+        "responses": [
+            "Beat"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Compone",
+        "responses": [
+            "Compound"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "567",
+        "responses": [
+            "567"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "299",
+        "responses": [
+            "299"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "134",
+        "responses": [
+            "134"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Impresionante",
+        "responses": [
+            "Impressive"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Diez",
+        "responses": [
+            "Ten"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reciente",
+        "responses": [
+            "Recent"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Cincuenta",
+        "responses": [
+            "Fifties"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Miembros",
+        "responses": [
+            "Hung"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Veinte",
+        "responses": [
+            "Twenties"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Dispersos",
+        "responses": [
+            "Disperse"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Inaccesible",
+        "responses": [
+            "Inaccessible"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Promedio",
+        "responses": [
+            "Average"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Quedarse",
+        "responses": [
+            "Stay"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Denviron",
+        "responses": [
+            "Denviron"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Seis",
+        "responses": [
+            "Six"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mitad",
+        "responses": [
+            "Half"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Entrada",
+        "responses": [
+            "Entry"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "172",
+        "responses": [
+            "172"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pone",
+        "responses": [
+            "Put"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Centro De Atenci\u00f3n",
+        "responses": [
+            "Emphasis"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ladmetter",
+        "responses": [
+            "Welcome"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Irrazonable",
+        "responses": [
+            "Unreasonable"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alcanzar",
+        "responses": [
+            "Reach"
+        ],
+        "type": "other"
+    }
+]

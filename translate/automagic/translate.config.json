@@ -1,0 +1,10 @@
+{
+    "languages": {
+        "from": "fr",
+        "to": "en"
+    },
+    "files": {
+        "from": "words.txt",
+        "to": "../dict/fr-en.json"
+    }
+}

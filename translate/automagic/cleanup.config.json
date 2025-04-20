@@ -1,0 +1,10 @@
+{
+    "files": [
+        "../dict/fr-en.json",
+        "../dict/en-fr.json",
+        "../dict/es-fr.json",
+        "../dict/fr-es.json",
+        "../dict/en-es.json",
+        "../dict/es-en.json"
+    ]
+}

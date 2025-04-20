@@ -1,0 +1,244 @@
+{
+    "$language": "fr",
+    "$pretty": "French",
+    "$localized": "Français",
+
+    "products": "Produits",
+
+    "navigation": {
+        "search": "Rechercher",
+        "searchcancel": "Annuler",
+        "elements": [
+            "Entreprise",
+            "Développeur",
+            "Particuliers",
+            "Communauté"
+        ]
+    },
+
+    "footer": {
+        "contact": "Nous contacter",
+        "about": "À propos",
+        "community": "Communauté",
+        "jobs": "Recrutement",
+        "blog": "Blog",
+        "admin": "Administration du site (mot de passe requis)",
+        "copyright": {
+            "rights": "Minteck Projects et tout autre nom ou contenu associé est une marque légale de Minteck Projects Ltd.",
+            "legal": "Informations légales",
+            "privacy": "Traitement des données",
+            "bugs": "Signaler un bug"
+        },
+        "top": "Retourner en haut de la page",
+        "topalt": "Retourner en haut",
+        "follow": "Suivre Minteck Projects sur"
+    },
+
+    "blog": {
+        "home": {
+            "last": "Dernières nouvelles sur notre blog",
+            "all": "Voir plus sur notre blog"
+        },
+        "months": [
+            "janvier",
+            "février",
+            "mars",
+            "avril",
+            "mai",
+            "juin",
+            "juillet",
+            "août",
+            "septembre",
+            "octobre",
+            "novembre",
+            "décembre"
+        ],
+        "categories": [
+            "Maintenance",
+            "Annonce",
+            "Serveur",
+            "Intelligence artificielle",
+            "Recrutement",
+            "Évènement"
+        ],
+        "categories2": [
+            "Maintenances",
+            "Annonces",
+            "Serveurs",
+            "Intelligence artificielle",
+            "Recrutements",
+            "Évènements"
+        ],
+        "metacat": [
+            "IA",
+            "Tous les articles",
+            "Vue d'ensemble"
+        ],
+        "intro": "Derniers articles",
+        "filter": [
+            "Filtrer par catégorie",
+            "Filtre :",
+            "Filtrer"
+        ],
+        "taglines": {
+            "maintenance": [
+                "Maintenances",
+                "Les opérations de maintenance sont des opérations plus ou moins longues durant lesquelles un ou plusieurs serveur(s) sont indisponibles."
+            ],
+            "announcements": [
+                "Annonces",
+                "Des annonces officielles sont publiées par Minteck Projects pour annoncer un nouveau service, ou une mise à jour."
+            ],
+            "servers": [
+                "Serveurs",
+                "Des annonces sur des changements matériels ou logiciels des serveurs de Minteck Projects, des ajouts de nouveaux serveurs ou des arrêts de serveurs."
+            ],
+            "ai": [
+                "Intelligence artificielle",
+                "Des évolutions ou changements concernant les projets de Minteck Projects fonctionnant grâce à l'intelligence artificielle."
+            ],
+            "jobs": [
+                "Recrutement",
+                "Informations concernant de nouvelles fonctions ou des fonctions pleines chez Minteck Projects pouvant intéresser les futurs contributeurs."
+            ],
+            "events": [
+                "Évènements",
+                "Informations concernant des évènements physiques ou distants organisés par Minteck Projects dans le monde entier."
+            ]
+        },
+        "publish": "Publié le",
+        "category": "Catégorie :"
+    },
+
+    "productsnav": {
+        "also": "Aussi par Minteck Projects",
+        "resources": "Ressources",
+        "about": "À propos",
+        "rsc": [
+            "Blog",
+            "Téléchargements",
+            "Développeurs"
+        ],
+        "info": [
+            "Informations",
+            "Partenaires",
+            "Nous contacter",
+            "Données",
+            "Signaler un bug",
+            "À propos de Minteck Projects",
+            "Traitement des données"
+        ]
+    },
+
+    "tracker": {
+        "title": "Tâche",
+        "invalid": "L'identifiant de thread est invalide",
+        "common": "Traqueur de tâches Minteck Projects",
+        "intro": [
+            "Voici quelques informations concernant le processus ",
+            " :"
+        ],
+        "headers": {
+            "internal": "Nom interne",
+            "common": "Nom commun",
+            "value": "Valeur"
+        },
+        "keeplater": "Si vous voulez pouvoir accéder à ces informations plus tard, conservez l'identifiant de thread suivant :",
+        "names": [
+            "Identifiant du processus",
+            "Nom d'utilisateur sur le serveur Web",
+            "Nom du fichier depuis le serveur Web",
+            "Nœud du fichier",
+            "Taille du fichier",
+            "Version de PHP",
+            "Version du moteur de rendu",
+            "Durée du rendu de la page",
+            "Système d'exploitation sur le serveur"
+        ]
+    },
+
+    "errors": {
+        "title": "Erreur",
+        "separator": " :",
+        "e401": [
+            "Non authentifié",
+            "Désolé, cette page est protégée et vous ne vous êtes pas authentifié auprès du serveur."
+        ],
+        "e403": [
+            "Accès refusé",
+            "Désolé, ce fichier est réservé pour le serveur, vous ne pouvez pas y accéder."
+        ],
+        "e404": [
+            "Élément introuvable",
+            "Désolé, nous ne parvenons pas à trouver la page demandée."
+        ],
+        "e500": [
+            "Erreur interne",
+            "Désolé, le serveur n'est pas parvenu à répondre correctement à votre requête."
+        ],
+        "e503": [
+            "Défaillance système",
+            "Désolé, un problème technique nous empêche momentanément de vous fournir le contenu."
+        ],
+        "e504": [
+            "Délai d'attente de la passerelle dépassé",
+            "Désolé, nous ne parvenons pas à vous fournir le contenu car la passerelle du serveur n'a pas répondu à temps."
+        ]
+    },
+
+    "contact": {
+        "title": "Nous contacter",
+        "tagline": "Vous avez une question, un problème ? Contactez-nous comme vous pouvez afin d'obtenir une réponse au plus vite.",
+        "matrix": {
+            "title": "Matrix",
+            "tagline": "Grace à notre partenaire KDE, nous pouvons vous proposer du support technique en temps réel et sécurisé via le réseau de communication Matrix"
+        },
+        "email": {
+            "title": "Courriel",
+            "tagline": "Pour des demandes plus sérieuses ou d'ordre légal, nous préférons recevoir des courriels. Pensez bien à utiliser l'adresse courriel dédié au sujet de votre demande.",
+            "subjects": {
+                "fixes": "Corrections sur ce site :",
+                "legal": "Demandes légales :",
+                "partner": "Partenariats :",
+                "members": "Candidatures :",
+                "account": "Comptes :",
+                "security": "Équipe de sécurité :",
+                "other": "Toute autre demande :"
+            }
+        },
+        "twitter": {
+            "title": "Twitter",
+            "tagline": "Vous pouvez nous envoyer un message privé via Twitter et nous vous répondrons le plus rapidement possible. C'est le moyen privilégié si vous ne disposez pas de Matrix."
+        }
+    },
+
+    "translate": {
+        "title": "Traduction",
+        "tagline": "Mots à traduire...",
+        "auto": "Commencez à écrire, tout sera traduit automatiquement",
+        "disclaimer": "Notez que notre système de traduction fonctionne mieux avec des mots isolés.",
+        "types": [
+            "Nom",
+            "V",
+            "Adj",
+            "Adv",
+            "Dét",
+            "Pr",
+            "Vulg",
+            "Fam",
+            "Sout",
+            "Autre",
+            "Non classifié"
+        ],
+        "error": "Une erreur s'est produite lors de la traduction : ",
+        "edefault": "Erreur interne",
+        "econnect": "Erreur de communication",
+        "unapproved": "Non vérifié par la communauté",
+        "approved": "Approuvé par la communauté",
+        "source": "de :",
+        "destination": "vers :",
+        "orig": "Mot original",
+        "trans": "Traductions",
+        "type": "Nature"
+    }
+}

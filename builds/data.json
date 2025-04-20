@@ -1,0 +1,113 @@
+[
+    {
+        "name": "web",
+        "jobs": [
+            {
+                "name": "pinpages-daily",
+                "status": "run",
+                "update": "2020-07-04-11-25-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": "Hello\nThis is a log file\n\nGoodbye!"
+            },
+            {
+                "name": "official-daily",
+                "status": "fail",
+                "update": "2020-07-04-10-25-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": "ERROR: node: command not found"
+            },
+            {
+                "name": "tyson-fans-daily",
+                "status": "done",
+                "update": "2020-07-04-12-25-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": "OK"
+            }
+        ]
+    },
+    {
+        "name": "mpcms",
+        "jobs": [
+            {
+                "name": "mpcms-daily",
+                "status": "warn",
+                "update": "2020-07-04-13-25-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": "Hello\nThis is a log file\n\nGoodbye!"
+            },
+            {
+                "name": "mpcms-website",
+                "status": "fail",
+                "update": "2020-07-04-10-25-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": "ERROR: node: command not found"
+            }
+        ]
+    },
+    {
+        "name": "compile",
+        "jobs": [
+            {
+                "name": "webspace-daily",
+                "status": "done",
+                "update": "2020-07-04-10-50-50",
+                "artifacts": [
+                    {
+                        "name": "build.deb",
+                        "path": "http://example.com"
+                    },
+                    {
+                        "name": "build.tar.gz",
+                        "path": "http://example.com"
+                    }
+                ],
+                "log": ""
+            }
+        ]
+    }
+]

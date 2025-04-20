@@ -1,0 +1,2183 @@
+Bonjour à tous, j'espère que vous allez bien
+
+et tout autre nom ou contenu associé est une marque légale de est une variante de distribuée par Minteck Projects sous licence Informations légales Traitement des données Signaler un bug Nous contacter À propos de nous Communauté Recrutement Blog Aide Support technique Mises à jour Rapports de bugs Pour les entreprises Politiques Mentions légales Traitement des données  Conditions Utilisation Professionnels Charte graphique Droits d'auteurs Mentions légales Partenaires État des services
+
+Avec vous aujourd'hui
+pour les technologies de demain
+
+Laissons le passé derrière nous, évoluons dans le futur !
+
+Utilisez des services permettant de vous simplifier le quotidien, gratuitement et spécialement pour vous, et tout cela sans changer vos habitudes.
+
+Améliorez les services de Minteck Projects selon vos envies pour correspondre le plus à vos besoins et ajouter votre touche personnelle.
+
+Intégrez les services de Minteck Projects au sein de votre entreprise pour simplifier votre vie et celle de vos employés et améliorer la productivité.
+
+Rien que depuis que vous venez de charger cette page
+requêtes effectuées depuis et vers les serveurs de
+
+modifications de fichiers sur les serveurs de
+
+Nombre calculé automatiquement et donné à titre indicatif. Ce nombre ne peut excéder
+
+Nous vous garantissons la sécurité et la protection de vos données, en utilisant jusqu'au chiffrement AES sur 256 bits et BCrypt pour vous assurer qu'elle ne peuvent être vues que par vous.
+
+Nous promettons que vous pourrez accéder à nos services, 24 heures sur 24 et 7 jours sur 7, avec plus de 99,99% de disponibilité. Et en cas de problème, vous pouvez toujours obtenir des détails.
+
+Nous pouvons vous dire ce que nous faisons avec vos données, parce que c'est les vôtres. Ce traitement est détaillé dans différents documents. Sinon, vous pouvez nous envoyer un mail.
+
+Et si vous regardiez ce qui fonctionne chez nous ?
+
+Si vous êtes une personne représentant une des entitées citées ci-dessus et que vous pensez que l'utilisation de votre marque ne respecte pas vos conditions, vous pouvez nous envoyer un mail avant toute procédure judiciaire, nous nous ferons un plaisir de vous répondre dans les plus brefs délais, merci !
+
+Tout abus et/ou usurpation d'identité sera puni.
+
+
+Projets
+Minteck Projects CMS
+PinPages
+BetterSearch
+Projectpédia 2
+GetSource
+Kiki
+Informations
+À propos du site
+Notre histoire
+Êtat des services
+Intelligence artificielle
+Retour à la première version
+Informations de débogage
+Éditeur HTML en direct
+Nous suivre
+Modules pour
+Ressources
+Charte graphique
+Mentions légales
+Conditions d'utilisation
+Politique de confidentialité
+Informations sur les droits d'auteurs
+
+Obtenez le respect que vous méritez grâce à nos projets respectueux de la vie privée.
+
+Vous en avez mare de vous faire espionner en utilisant Alors testez
+PinPages vous propose une alternative libre et gratuite à  regardez toutes les fonctionnalités :
+
+    Ajouter des personnes en ami
+    Trouver des personnes
+    Postez du contenu sur une page
+    Ajouter une photo de profil
+    Afficher son nom réel à ses amis
+    Se décrire
+    et bien plus
+
+Pourquoi
+
+
+    Nous corrigeons tous les bogues que nous connaissons, et sommes ouverts aux rapports.
+    Avec vous pouvez vous rappeler de tout ce que vous faites.
+    Vous pouvez y retrouver vos amis et votre famille.
+    Quand vous supprimez votre compte, vos données sont vraiment supprimées.
+    affiche le même contenu sur n'importe quel appareil.
+    Toutes vos données sont stockées sur nos serveurs, en sécurité.
+    Avec nous, votre sécurité est notre priorité.
+    Nous ne vous espionnons jamais, et nous ne vendons pas vos données à des publicitaires.
+    Vous êtes le seul à pouvoir accéder à vos données, et vous en êtes le propriétaire légal.
+
+Nous pouvons vous aider à apprendre la programmation avec certaines ressources et des outils que nous vous proposons.
+Apprendre l'algorithmique
+C'est quoi l'algorithmique ?
+Selon Wikipédia, l'algorithmique est l'étude et la production de règles et techniques qui sont impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème permettant de décrire précisément des étapes pour résoudre un problème algorithmique.
+Application dans l'informatique
+En informatique, un algorithme est la solution à un problème, un programme. Le langage de programmation détermine la manière dont l'ordinateur doit comprendre notre algorithme.
+Exemples d'algorithme
+Ces algorithmes ne sont dans aucun langage de programmation, il ne s'agit que d'exemples. Par exemple, un algorithme très simple pour un robot ressemblerai à ça : 
+
+Maintenant, il faut convertir les algorithmes dans un langage de programmation. Nous utiliseront le dernier algorithme pour l'exemple. 
+
+Si vous voulez traduire ce code dans votre langage de programmation préféré, envoyez-nous un email à l'adresse et nous l'ajouteront à cette page.
+
+des algorithmes sous forme de blocs verticaux
+
+des algorithmes pour programmer des robots sous forme de blocs horizontaux
+
+créer des applications Android sous forme de blocs verticaux, utilisé par
+
+Apprendre à coder
+Introduction
+
+C'est une partie importante, et vous devez surtout choisir le langage de programmation que vous allez utiliser.
+
+Par expérience, nous vous conseillons de ne pas commencer par un langage compliqué, du type Java ou C++, mais de préférer des langages plus simples et plus légers, comme le JavaScript ou le script Bash.
+
+Comme vu précédemment, le même code peut ne pas s'écrire de la même façon dans tous les langages. La plupart des langages de programmations ont tout de même une partie de syntaxe commune, qui permet de ne pas être dépaysé lors de la migration vers un nouveau langage de programmation.
+
+tutoriaux vidéos et textuels pour apprendre la programmation simplement
+demandez de l'aide pour coder
+des algorithmes sous forme de blocs
+
+Erreurs communes à ne pas faire
+Corriger les bugs à la fin
+
+Aucun code n'est parfait, il y aura forcément de petites erreurs qui peuvent parfois être importantes, et impacter sur l'expérience qu'aura l'utilisateur final avec votre programme.
+
+Il existe trois principaux types de bugs :
+
+    les bogues de code, qui sont des problèmes dans le code qui impactent le fonctionnement logique de votre programme
+    les glitchs graphiques (ou bogues graphiques), qui sont des problèmes qui impactent l'apparence de votre programme (élément superposés, mal placés, etc...)
+    les failles de sécurité, qui sont des problèmes dans le code qui permettent à un attaquant de détourner le fonctionnement de votre programme pour contourner les sécurités mises en place
+
+Si vous corrigez ces bugs après avoir codé le programme, vous allez sans doute en rater et devoir sortir beaucoup de mises à jour dans le futur, si tenté que vous ayez la possibilité de proposer des mises à jour (par exemple, les micrologiciels sont très peu souvent mis à jour).
+
+Si vous corrigez ces bugs pendant que vous codez le programme, vous allez pouvoir en aperçevoir au fur et à mesure et les corriger, limitant ainsi la quantité de code à mettre à jour dans le futur.
+Abandonner à cause de la qualité
+
+Quand on code un programme, on est souvent déçu du résultat final, parce qu'on à encore l'expérience au début de votre programme avant qu'il ne soit totalement terminé. C'est totalement normal, nous aussi avons l'impression que nos sites ne sont pas aussi bien que certains le trouvent.
+
+Mais essayez de partager votre programme à vos amis et vos proches, ils vous donneront sans doute un bon retour, le retour d'une personne qui n'a pas vu tout ce qui s'est passé avant sa sortie. En réalité, ne pas voir les "coulisses" de vos projets
+
+L'Utilisateur est tenu de respecter les lois françaises, même s'il ne s'y situe pas. Il est aussi strictement interdit d'effectuer un maintien du Réseau, et nous rappellons les articles de lois suivantes :
+
+    l’article 323-1 du Code pénal : « Le fait d’accéder ou de se maintenir, frauduleusement, dans tout ou partie d’un système de traitement automatisé de données est puni de deux ans d’emprisonnement et de 60 000 € d’amende. Lorsqu’il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du fonctionnement de ce système, la peine est de trois ans d’emprisonnement et de 100 000 € d’amende.
+    Lorsque les infractions prévues aux deux premiers alinéas ont été commises à l’encontre d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État, la peine est portée à cinq ans d’emprisonnement et à 150 000 € d’amende » ;
+    l’article 323-2 du Code pénal : « Le fait d’entraver ou de fausser le fonctionnement d’un système de traitement automatisé de données est puni de cinq ans d’emprisonnement et de 150 000 € d’amende.
+    Lorsque cette infraction a été commise à l’encontre d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État, la peine est portée à sept ans d’emprisonnement et à 300 000 € d’amende » ;
+    l’article 323-3 du Code pénal : « Le fait d’introduire frauduleusement des données dans un système de traitement automatisé, d’extraire, de détenir, de reproduire, de transmettre, de supprimer ou de modifier frauduleusement les données qu’il contient est puni de cinq ans d’emprisonnement et de 150 000 € d’amende.
+    Lorsque cette infraction a été commise à l’encontre d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’Etat, la peine est portée à sept ans d’emprisonnement et à 300 000 € d’amende » ;
+    l’article 323-3-1 du Code pénal : « Le fait, sans motif légitime, notamment de recherche ou de sécurité informatique, d’importer, de détenir, d’offrir, de céder ou de mettre à disposition un équipement, un instrument, un programme informatique ou toute donnée conçus ou spécialement adaptés pour commettre une ou plusieurs des infractions prévues par les articles 323-1 à 323-3 est puni des peines prévues respectivement pour l’infraction elle-même ou pour l’infraction la plus sévèrement réprimée » ;
+    l’article 323-4 du Code pénal : « La participation à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d’une ou de plusieurs des infractions prévues par les articles 323-1 à 323-3-1 est punie des peines prévues pour l’infraction elle-même ou pour l’infraction la plus sévèrement réprimée » ;
+    l’article 323-4-1 du Code pénal : « Lorsque les infractions prévues aux articles 323-1 à 323-3-1 ont été commises en bande organisée et à l’encontre d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État, la peine est portée à dix ans d’emprisonnement et à 300 000 € d’amende » ;
+    l’article 323-5 du Code pénal : « Les personnes physiques coupables des délits prévus au présent chapitre encourent également les peines complémentaires suivantes :
+        L’interdiction, pour une durée de cinq ans au plus, des droits civiques, civils et de famille, suivant les modalités de l’article 131-26 ;
+        L’interdiction, pour une durée de cinq ans au plus, d’exercer une fonction publique ou d’exercer l’activité professionnelle ou sociale dans l’exercice de laquelle ou à l’occasion de laquelle l’infraction a été commise ;
+        La confiscation de la chose qui a servi ou était destinée à commettre l’infraction ou de la chose qui en est le produit, à l’exception des objets susceptibles de restitution ;
+        La fermeture, pour une durée de cinq ans au plus, des établissements ou de l’un ou de plusieurs des établissements de l’entreprise ayant servi à commettre les faits incriminés ;
+        L’exclusion, pour une durée de cinq ans au plus, des marchés publics ;
+        L’interdiction, pour une durée de cinq ans au plus, d’émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+    L’affichage ou la diffusion de la décision prononcée dans les conditions prévues par l’article 131-35 » ;
+    l’article 323-6 du Code pénal : « Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l’article 121-2, des infractions définies au présent chapitre encourent, outre l’amende suivant les modalités prévues par
+    l’article 131-38, les peines prévues par l’article 131-39.
+    L’interdiction mentionnée au 2° de l’article 131-39 porte sur l’activité dans l’exercice ou à l’occasion de l’exercice de laquelle l’infraction a été commise » ;
+    l’article 323-7 du Code pénal : « La tentative des délits prévus par les articles 323-1 à 323-3-1 est punie des mêmes peines ».
+
+
+Page 1
+État du fandom
+2008
+Centre de recherche Furry
+furcenter.org
+Page 2
+2
+Page 3
+3
+Table des matières
+―Etat du Fandom 2008, ‖ version actuelle en 2100, 27 juin 2008
+Commencer des choses
+4 Présentation
+5 Contexte
+Démographie
+9 Données démographiques de base
+11 Sexe, genre, orientation
+13 Éducation et profession
+14 Religion et politique
+Informations de base sur les poils
+17 Durée dans le fandom
+18 Nombre d'autres furries connus
+19 Opinions sur la perception du public
+Activités à fourrure
+21 Art
+22 communautés en ligne
+23 Conventions
+23 Fursuiting
+24 Écriture, musique, etc.
+Divers
+26 Zoophilie et peluche
+28 Sexe en général
+29 Identité de soi non humaine
+UNE.
+Annexe - Fiche récapitulative
+B.
+Annexe - Tableau des activités
+C.
+Annexe - Liste des questions
+Page 4
+4
+introduction
+Le Furry Survey, avec son nom descriptif (s'il n'est pas original), est le plus grand et le plus
+enquête complète jamais réalisée sur le fandom à fourrure. Tous ses répondants, additionnés ensemble,
+l'équipage de l'USS Nimitz , et il est sûr de dire que les connaissances encyclopédiques collectées sur les donjons
+et Dragons, George Lucas et les Thundercats qu'il contient mettraient COMFLTFORCOM
+à la honte .
+Le document que vous lisez actuellement représente une tentative de résumer ce groupe de personnes,
+avec un peu plus de rigueur que dans la phrase qui précède immédiatement. C'est aussi - plus hardiment - un
+tenter de fournir un instantané du fandom au - delà des cinq mille personnes qui l'ont pris. je
+l’ont donc appelé «l’État du Fandom», bien que ce ne soit pas un document de politique et, pour
+pour diverses raisons, je ne conclurai pas par des exhortations à faire la guerre aux nations du tiers monde.
+Je vais ici essayer d'apporter la démographie aux masses. Une connaissance des statistiques et
+les méthodes statistiques, telles qu'elles sont employées, ne seront pas nécessaires. Si vous trouvez cette informalité off-
+En mettant, je mettrai quelques tableaux de nombres à la fin pour résumer les choses sans prose. Pour le reste d'entre vous,
+restez dans les parages et nous verrons si nous ne pouvons pas donner un sens à toute cette folie.
+Il convient d'admettre que cela a des pièges académiques, et que pendant que nous serons
+interpréter les données à l'aide de méthodes statistiques académiques, ce n'est pas vraiment de la "science", même si
+il y a de la science à faire avec. Je vais donc également essayer de l'écrire dans un style "pop-sci",
+et le rendre aussi lisible que possible. Nous verrons comment cela se passe.
+Avant de commencer, je devrais remercier un certain nombre de personnes sans lesquelles ce document
+pas être possible. Parmi eux se trouvent le Dr Kathleen Gerbasi, Laurence Parry de WikiFur et son compagnon poilu
+le sociologue David Rust, qui a tous offert du temps et des cerveaux qui m'ont été inestimables. je
+espérons qu'ils ne seront pas trop déçus par un document qui s'ouvre sur la métaphore d'un avion
+transporteur plein de fanatiques de dessins animés des années 1980.
+Je suis également redevable à mes associés du Furry Research Center, qui ont travaillé
+des nuits de sommeil, comme les espions Bothan, pour tempérer mon exubérance avec des faits utiles. Pour toi, légèrement
+énervé que Google révèle vos affiliations à fourrure avant de lister vos nominations au prix Nobel: ce serait
+être impossible sans toi. Merci.
+-Alex
+Page 5
+5
+CONTEXTE
+Velu
+Imaginez que nous sommes au début des années 80 et que, oui, alors même que les souches de Rio remplissent l'air, un groupe est
+commence à exister dans les conventions de la scène de science-fiction américaine. 1 Ils
+n'ont pas de nom pour eux-mêmes, ni de leader, ni de plan. Tout le fandom naissant est, pour l'instant, est un
+groupe de gens qui pensent que les créatures comme "Kzinti" de Larry Niven sont plutôt passionnées. 2
+Maintenant, avancez un peu (si vous avez vécu la décennie, vous pouvez envier la facilité avec laquelle nous
+effectuer cette étape). Quoi qu'il en soit, c'est maintenant les jours d'ouverture des années 1990 et ce groupe a continué à
+développer. Ils ont trouvé Internet, sous la forme d'USENET, et ils commencent à
+quelque chose de reconnaissable. Ils n'ont toujours pas de leadership ou de plan, mais ils ont finalement acquis
+un nom, qui se trouve dans l'un des premiers hangouts en ligne de ce groupe, le groupe de discussion alt.fan.furry .
+En 1992, pour fournir une date solide, ce que nous appellerions aujourd'hui le fandom poilu avait assumé sa
+forme moderne. Un groupe d'artistes, d'écrivains et de joueurs de rôle vaguement lié, un fandom poilu avait
+point a commencé à générer son propre lexique, ses œuvres d'art et sa littérature, dont certains - de peur que nous
+comportement jusqu'à «les enfants de nos jours» - était de nature adulte, ce qui implique que, à tout le moins, les enfants
+ces jours étaient aussi anciens (et plus anciens). 3
+Au cours des années 1990, et sur une vague d'accès public toujours plus large à Internet,
+a continué d'attirer de nouveaux membres mais est resté, dans l'ensemble, au-delà de la vue du général
+Publique. L' article Vanity Fair de George Gurley en 1999 , qui, près de dix ans plus tard, peut encore attirer la colère
+grognements de furries, était pour beaucoup en dehors du fandom leur premier aperçu de l'apparence bizarre
+monde qui se cachait à l'intérieur.
+Aujourd'hui, des furries - en tant que fandom - sont apparus sur MTV, "Entourage" et "CSI" de HBO dans
+en plus de traitements (occasionnellement) moins sensationnels dans un certain nombre de journaux. Appelé par
+des sites Web comme Something Awful et Portal of Evil, et largement distribués dans des galeries en ligne comme
+Side7 et Deviant Art, le fandom poilu a atteint une niche établie - bien que mal à l'aise - sur le
+L'Internet.
+Et pourtant, comme Spider-Man (probablement pas un poilu malgré le nom), personne ne sait qui ils sont.
+1. Laurence Parry de Wikifur n'est pas d'accord avec moi sur cette évolution du fandom. Rejetant comme peu plausible la suggestion selon laquelle
+c'est parce qu'il n'aime pas Duran Duran, je note néanmoins que ce n'est qu'une des rares théories de la genèse. D'autres appellent plus
+fortement sur, par exemple, la scène alternative de la bande dessinée des années 1960. Comme le développement du fandom à fourrure n'est pas un objectif principal
+de la chose "État ...", j'utilise cela comme une introduction de base, d'autant plus qu'il se trouve que c'est la théorie que je crois moi-même.
+2. J'utilise ces créatures pour remplacer le genre des animaux humanistes, ou des humains animaux, commun dans la science-fiction et
+fantaisie, mais le félinoïde Kzinti de Niven en particulier, développé dans sa série Ringworld entre autres, a été formateur pour au moins
+quelques personnes. Le guerrier Kzinti a ensuite été incorporé / arnaqué par l'univers Starfleet Battles, où ils ont été rejoints.
+par les Lyrans tout aussi félinoïdes et avait, si je me souviens bien, des cuirassés plutôt médiocres.
+3. Le lexique est inclus délibérément dans cette déclaration. Il était une nuit morne je me résolus à découvrir le
+étymologie du mot «yiff», inextricablement liée au fandom poilu. Qu'il suffise de dire, si jamais cela a été largement accepté comme
+représentant les bruits complètement innocents des renards, une affirmation que j'accepte provisoirement mais que je ne défendrais pas vigoureusement, il
+ne l'a pas fait depuis la présidence Clinton. Je n'implique rien par cette déclaration.
+Page 6
+6
+Folk devils of the Tubes, à certains égards le fandom - défini par d'autres - est autant une collection de
+stéréotypes et notions vagues car il s'agit d'une entité réelle. Incroyablement, même CSI et Entourage ne mettent
+ensemble réussi à régler définitivement la question de savoir ce qu'était un poilu, et les étrangers ont tendance à avoir
+idées un peu vicieuses.
+Hélas, la situation n'est guère meilleure à l'intérieur. Les mots d'interrogation ne décrivent pas le fandom poilu
+pour ses membres. Des questions simples comme qui est un velu restent au-delà de notre capacité à juger:
+l'étiquetage crée un groupe, mais il y a ceux qui en dehors, des gens qui peuvent même désavouer publiquement
+membre, qui serait néanmoins considéré comme poilu par des personnes extérieures au fandom (et
+beaucoup à l'intérieur).
+Pourquoi les gens sont-ils poilus est une question d'intérêt fantastique qui, inutile de le dire, je n'ai rien de bon
+réponse pour, et les furries eux-mêmes restent nettement divisés: beaucoup revendiquent une affinité spirituelle pour les animaux
+(généralement, un animal spécifique), mais beaucoup d'autres y sont simplement pour l'œuvre d'art. Ou le porno. Ou
+les deux, un stock de fourrure dans le commerce.
+Inutile de dire alors ce qu'est un poilu devient une question d'ambiguïté incroyable. J'imagine velu
+les enfants, s'ils existaient, poseraient cette question existentielle à l'époque où ils
+ont demandé à leurs parents où ils allaient après leur mort. Je suis désolé, ma chérie. Nous ne
+savoir.
+Même lorsque les gens deviennent poilus dans leur vie, c'est à gagner. Un certain nombre d'individus inexplicablement
+prétendent s'être considérés comme des furries depuis bien plus longtemps qu'alors le fandom lui-même n'existait.
+Plus troublant, quelques-uns mentionnent leur entrée dans le fandom à fourrure comme précédant leur naissance (ceux que j'ai
+attribuable à une erreur typographique, même si l'idée que leur conception impliquait
+les costumes d'animaux restent une possibilité extérieure et obsédante).
+Il est tentant de faire passer cela comme nous l'avons fait de la pornographie - c'est-à-dire «je le sais quand je le vois». Et
+bien sûr, la plupart du temps, cela fonctionne bien: s'il a un museau et un manteau de fourrure, mais qu'il marche sur deux
+jambes et est capable de parler suffisamment pour que vous vous sentiez mal de le transformer en étole, c'est un poilu
+personnage. Et si vous rencontrez quelqu'un avec une fascination supérieure à la moyenne pour eux, alors
+cette personne est probablement un poilu.
+C'est tentant, mais nous avons une option beaucoup plus amusante à notre disposition: les chiffres.
+Cette chose que tu lis
+Bien sûr, malgré un orgueil considérable, je ne nourris pas de grandes idées sur le potentiel
+ce que j'écris maintenant pour remettre les pendules à l'heure. C'est, cependant, ce que je considérerais comme un
+tentative raisonnable, car à tout le moins ses milliers de répondants, à travers un large âge et
+répartition géographique, représentent une fraction non négligeable de tous les furries.
+Nous devrions jeter les bases avant d'aller de l'avant, je suppose. Cela signifie que le
+l'exposition n'est pas terminée, donc pour ceux d'entre vous qui regardent à la maison, nous sommes toujours dans la caméra à ouverture lente
+pan, passé le générique initial mais pas tout à fait au premier morceau d'action réelle. Steady, les gars, nous y arriverons
+assez tôt.
+Page 7
+7
+La première question qui vous préoccupe peut-être est de savoir qui est responsable de ce que vous lisez et pourquoi
+vous devriez y prêter attention. Ou vous ne pouvez pas, mais voici quand même une réponse: mon
+je m'appelle Alex Osaki, j'ai un diplôme en anthropologie de l'Université du Colorado et je travaille
+en recherche démographique pour un think tank marketing. Je suis également le fondateur, l'écrivain et le leader
+chercheur pour le Furry Research Center.
+"Le quoi?" vous dites. Natch. Le Furry Research Center, inauguré début 2008, soutient la
+activités du Furry Survey et mènera à terme des recherches supplémentaires, en parallèle. Ça et
+sa bande courageuse de joyeux farceurs sert à fournir des réponses fondées sur la recherche aux
+les questions de la vie, ou du moins celles qui concernent les affaires des renards bipèdes.
+L'enquête elle-même est responsable de la délicieuse garniture à la crème de ce que vous lisez. C'est un
+enquête à usage général avec 33 questions, allant des données démographiques de base (comme l'âge et le sexe)
+aux indices des activités à fourrure (combien de personnes vont aux conventions, et des choses de cette nature). Pour
+ceux d'entre vous qui ont un penchant pour la curiosité, et en gardant à l'esprit ce que la curiosité a fait au chat, le
+enquête telle qu'elle était lorsque toutes les bonnes personnes contenues dans cet article l'ont prise est contenue dans le
+annexe, où il est étiqueté Partie C.
+Les préjugés
+Après la question «pourquoi faites-vous cela?», C'est-à-dire après que les gens se sont résignés à la
+l'existence de l'enquête, leur deuxième question a tendance à porter sur les biais. Les gens sont profondément ...
+certains diraient de façon démesurée - préoccupés par cela, bien que le biais statistique sur lequel nous réfléchissons ici est
+différent du parti pris libéral qui sévit, disons, Stephen Colbert.
+En bref, l'enquête consiste entièrement en (1) auto-sélection , (2) anglophone , (3) auto-
+identifié (4) furries avec une (5) présence en ligne . Un par un, cela se passe comme suit:
+1. Tous ceux qui ont répondu au sondage ont choisi de le faire . Hélas, brisant le cuir et les fouets et
+obliger les gens à faire quelque chose dépasse mes capacités. Au moins démographiquement.
+2. Toutes les personnes qui ont répondu au sondage parlent anglais . Ce n'est pas toujours une langue maternelle, et en effet
+de nombreux cas ne le sont pas. Mais pour des raisons évidentes, les furries des États-Unis, du Canada, du Royaume-Uni et
+L'Australie est plus courante ici. Ce n'est pas vraiment surprenant; "furry" a été un anglais-
+phénomène de langage depuis un certain temps. Juste le jeter là-bas.
+3. (Presque) Tous ceux qui ont répondu à cette enquête s'identifient comme poilus . La plupart. Il y a un peu
+des exemples de personnes qui ne prétendent pas être à fourrure mais qui ont néanmoins fourni une réponse. Regarder
+leurs réponses, je pense qu'elles sont suffisamment proches du fandom pour qu'elles nous manqueraient si elles étaient
+parti, alors ils vont.
+4. (Presque) Tous ceux qui ont répondu à cette enquête sont des poilus . «Merci», dites-vous. " Vraiment utile ." Bien,
+bien. Mon point, cependant, est que je n'ai pas donné cette enquête à un groupe témoin. Ce seul fait semble
+déranger certaines personnes, même si je n'étais pas sur le point de sonder des gens au hasard sur mon trajet. "Bonjour Monsieur.
+Vous êtes-vous déjà habillé en animal? »Les transports en commun sont déjà assez bizarres.
+5. Toutes les personnes qui ont répondu à cette enquête sont en ligne . L'enquête n'était proposée qu'en ligne. David Rust
+Page 8
+8
+a mené son enquête sur le fandom lors de conventions; Kathleen Gerbasi a également fait le gros
+de son arpentage lors de conventions à fourrure. Pour ces raisons, entre autres, les gens suggèrent occasionnellement
+que je devrais également effectuer des prélèvements lors de congrès. Je n'ai pas envie de le faire, car le
+les raisons suivantes:
+1. «Être en ligne» n'est pas un préjugé, ou du moins pas important. L'accès à Internet est si largement
+diffusé pour en faire un mauvais moyen de trier les gens les meilleurs jours. L'idée qu'il y a
+les personnes qui n'auraient pas de présence en ligne mais seraient d'une manière ou d'une autre présentes sur Internet
+conventions organisées d'un fandom inextricablement lié à Internet, enraciné dans une forte
+la présence en ligne depuis MC Hammer était toujours d'actualité, est bizarre. Je soutiens que le corps de
+furries capables de recevoir des informations sur cette enquête (elle a été publiée sur de nombreux sites Web
+et les journaux ainsi que d'être transmis par les canaux de messagerie instantanée et de courrier électronique) est à toutes fins utiles et
+des fins équivalentes à l'ensemble du fandom poilu.
+2. Être un congressiste est un parti pris. Tous les furries n'assistent pas aux conventions de loin;
+échantillonner spécifiquement ceux qui le font ne fait pas autant que simplement échantillonner au hasard
+furries. La seule conclusion intéressante que l'on puisse en tirer est de comparer les conventions
+assister à des furries avec ceux qui n'assistent pas aux conventions, et dans un sens pratique, il est plus facile de
+il suffit de faire ça avec l'échantillon que j'ai déjà, surtout depuis
+3. L'échantillon enquête plus que la participation à toute autre convention à fourrure. Interroger chaque
+personne qui a assisté à Anthrocon l'année dernière aurait donné un échantillon beaucoup plus petit avec beaucoup plus
+ensemble prononcé de biais.
+Les gens sont susceptibles de soulever quelques autres préjugés. Par exemple, l'enquête
+atteindre principalement un certain groupe démographique en ligne? C'est spéculatif, et je vais faire un
+décision de l'exécutif (hélas, sans Kurt Russell) de la rejeter: à plus de cinq mille réponses, et
+compte tenu des journaux de référence, l'enquête a atteint une telle diffusion que
+le suréchantillonnage me paraît improbable.
+Mensonges et foutus mensonges
+Voici une brève section sur quelques trucs statistiques:
+Je suppose que l'enquête consiste en un échantillon aléatoire de furries . Ce n'est évidemment pas
+vrai, puisqu'aucun furries ne s'est réveillé avec l'enquête devant eux (voir l' auto-sélection , ci-dessus), à
+moins pour autant que je sache. Ce parrain scénario malgré tout de l'écriture et l' analyse
+ici est basé sur des méthodes statistiques qui supposent un échantillon aléatoire, et qui suis-je pour renverser cela
+tendance?
+La méthodologie de l'enquête impliquait une distribution peer-to-peer sans point central de
+origine. Les cinq mille résultats analysés ici sont issus d'une période d'activité intense en mai 2008,
+qui ne provient pas d'un site en particulier mais plutôt d'une multitude de sites séparés et plus petits
+cela a ensuite conduit à republier ailleurs. Cela a rendu plus difficile la prise en compte des biais,
+bien qu'ayant fait ce travail, je pense que cette façon de se répandre dans l'enquête était et reste valable.
+Quand je dis que quelque chose est "statistiquement significatif", ou que le résultat diffère d'un autre groupe dans un
+Page 9
+9
+«significatif», je veux dire que les résultats sont statistiquement significatifs à un niveau de confiance de 99% .
+Les stat jocks savent déjà ce que cela signifie; pour le reste d'entre nous, cela signifie que la différence entre
+deux groupes, avec une certitude de 99%, ne se sont pas produits par hasard. En d'autres termes, je suis
+affirmant que Dieu ne joue pas aux dés avec des furries dans mon échantillon.
+Enfin, bien que 5000 réponses discrètes soient incluses dans ce que vous lisez, non
+tout le monde a répondu à chaque question, et aucune question n'a été répondue par tout le monde. Taux de réponse
+étaient généralement élevés et si remarquables, je vais essayer de les appeler; le moins souvent répondu
+question, poser des questions sur le revenu (natch) a toujours été répondu par 68% des répondants, c'est vrai - mais ensuite
+la question la moins fréquemment répondue et la question la plus fréquemment répondue, une question sur le sexe,
+a été répondu par 99%.
+RÉSULTATS DE L'ENQUÊTE 1 sur 4
+♦ Données démographiques de base
+♦ Sexe, genre et orientation
+♦ Éducation et profession
+♦ Religion et politique
+Données démographiques de base
+Tout d'abord, considérez l'âge. Tout le monde convient que le fandom est, dans l'ensemble, assez jeune, mais le
+les résultats de cette enquête suggèrent que même les estimations précédentes étaient trop anciennes. De personnes soumettant un
+réponse à cette enquête, l'âge médian était de 22 ans et l'âge moyen de 23,7 ans , soit près d'une année complète
+plus jeune que le 24,6 que les gars d'UC-Davis ont rapporté.
+"Sociologie de
+Furry Fandom "ne le fait pas
+fournir une médiane ou une moyenne
+âge pour son échantillon, mais son
+les chiffres montrent environ 31% des
+personnes comme étant entre les
+âgés de 16 et 22 ans.
+compte, ce chiffre est
+en fait plus près de la moitié, à 47% .
+«Bien sûr», vous rejoignez rapidement.
+"Mais Rust a principalement échantillonné
+les congressistes ".
+Juste
+assez, mais 69,5%
+de
+congressistes dans le Furry
+L'enquête avait moins de
+29, environ 12% de plus que la rouille
+trouve.
+Les raisons de cette différence
+ne sont pas évidentes, hélas. Ses
+possible, bien que conjecture,
+Age en années
+Les fourrures sont relativement jeunes; la plupart d'entre eux ont entre 16 et 25 ans, et donc
+les meilleurs candidats pour jouer dans les sitcoms télévisés. NBC, prenez note, mais si vous le définissez à New York
+avec six acteurs en herbe d'une vingtaine d'années et l'appeler «Fur-riends», je vais vous tuer moi-même.
+1,3%
+28,3%
+37,2%
+17,0%
+7,7%
+4,1%
+2,4%
+1,3% 0,5% 0,2%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59
+Page 10
+dix
+que nous pouvons attribuer cette explication à la petite taille de l'échantillon. Très probablement, cependant, cela vient d'un
+combinaison de son suréchantillonnage conventionnel et du fait que ses données ont maintenant près de dix ans.
+Comme beaucoup l'attestent, le fandom était alors sensiblement différent.
+C'est "notoire"
+que les poils sont blancs -
+rappelez-vous qu'à ses débuts
+jours, il était motivé par la science
+fiction et ordinateurs, et à
+ce jour c'est délicieusement
+geek, battant facilement
+signalant "Jedi" comme votre
+religion et probablement sur un
+à égalité avec le klingon parlant.
+Par conséquent, les geeks étant d'un pâteux
+Trier,
+les
+commun
+connaissances, qui au début
+le regard semble confirmé par
+Rust, qui trouve 94% de
+furries être caucasien, non-
+Hispanique. UC-Davis n'a pas
+juger bon de fournir des données tout à fait
+cela nuancé, en disant seulement
+que 89% de leurs
+les répondants étaient «blancs».
+Je pense que les deux chiffres sont très élevés; dans ce cas, environ 4/5, 83,7% , se sont déclarés
+étant des Caucasiens non hispaniques, avec 4% d' Hispaniques, 3% d' Asiatiques, 1,4% de Noirs et 5,9%
+"Autre" (presque tous un mélange de deux races ou plus). À titre de comparaison, les données démographiques
+des États-Unis 4 suggèrent que, à un degré statistiquement significatif, les fourrures sont plus susceptibles d'être
+Caucasien (73,9% aux États-Unis), moins susceptible d'être noir (12,2% aux États-Unis) et plus susceptible d'être mixte
+race (2% aux États-Unis). Le pourcentage de personnes déclarant être asiatiques ou indiens d'Amérique est
+différent par des marges statistiquement non significatives.
+La sagesse conventionnelle place également le fandom velu comme américain. Bien sûr, c'est encore en partie
+en raison de son héritage geek: alors que Douglas Adams et Doctor Who sont tous deux britanniques, Internet
+L'adoption était plus rapide aux États-Unis 5 et les premières conventions de science-fiction qui
+le fandom était américain. UC-Davis rapporte que 83% des répondants sont américains.
+Les données semblent cependant suggérer un nombre plus proche des 70% de David Rust; 68,9% des personnes
+4. Tiré de l'enquête 2006 sur la communauté américaine du Census Bureau. Dans le fandom furry, les statistiques de course pour les États-Unis
+étaient pratiquement identiques au pool non américain, donc je considère qu'il s'agit d'une comparaison suffisamment valable.
+5. Pour une vue remarquable de ceci, je trouve personnellement la carte disponible ici assez fascinante:
+http://www.worldmapper.org/display.php?selected=335
+Course
+Donc c'est surtout une tarte fourrée à la crème, voyez-vous. 83% des poils sont blancs. C'est plus élevé - bien que
+pas trop nettement plus élevé que le nombre équivalent aux États-Unis.
+Caucasien, 83,7%
+Asiatique, 3,0%
+Africain, 1,4%
+Américain de naissance,
+1,9%
+Hispanique, 4,1%
+Autres, 5,9%
+Page 11
+11
+répondant à cette question dans le Furry Survey dit qu'ils venaient des États-Unis. Les cinq plus
+les endroits à fourrure populaires, dans l'ordre, sont:
+1. États-Unis
+(68,9%)
+2. Royaume-Uni
+(8,26%)
+3. Canada
+(7,45%)
+4. Australie
+(3,45%)
+5. Allemagne
+(2,12%)
+Parmi ceux-ci, la «densité de population à fourrure» la plus élevée se trouve aux États-Unis, le Canada en deuxième position,
+L'Australie est un tiers éloigné, et le Royaume-Uni croupit bien derrière. La densité de l'Allemagne est
+le plus bas des cinq premiers, même si je soupçonne que la nature anglophone de l'enquête a un
+tendance à désavantager ceux pour qui l'anglais n'est pas la langue principale. Vous pouvez noter ceci comme
+la même faille tragique qui afflige, par exemple, l'Eurovision.
+Sexe, genre et orientation
+C'est le genre de sexe ennuyeux que vous mettez sur votre permis de conduire. On suppose généralement que
+le fandom velu est exclusivement ou principalement masculin, ou du moins qu'ils sont presque tous des gars.
+En effet, David Rust rapporte que 85% de ses répondants étaient des hommes; UC-Davis présente un plus
+trempé 81%. Loin de là
+moi pour renverser la tendance: 80,3%
+des personnes répondant à la
+Furry Survey étaient des hommes. Ce
+le nombre est inférieur à celui de Davis
+par un statistiquement insignifiant
+montant.
+Alors qu'est-ce qui donne? Ne pas garder
+vous dire la même chose, mais
+la nature basique et geek du
+fandom a sans aucun doute beaucoup à faire
+faites avec; furries disant qu'ils
+étaient des fans de science-fiction ou
+la technologie était encore moins
+probablement une femme. Il y a
+certainement des aspects qui sont
+plus égalitaire; plus que
+30% des artistes sont des femmes, car
+exemple.
+le
+le sexe
+les pannes sont un peu plus
+même pour les plus jeunes et
+un peu moins pour les plus âgés, donc
+peut-être que les choses dans le fandom, comme à l'extérieur, deviennent plus égales.
+La sagesse conventionnelle considère le fandom poilu comme un bastion de l'homosexualité. David Rust est d'avis
+que "nombreux sont ceux qui ont avancé l'estimation que même plus de 90% des Furries
+Sexe
+Du «Département de vous dire des choses que vous saviez déjà». Seulement un cinquième des furries
+sont des femmes. Il y a des poches isolées de plus grande égalité, mais le fandom est dans l'ensemble assez
+testostérrifique.
+Page 12
+12
+sont gay ". Certes, Rust ne le fait pas
+fournissez des citations à ce sujet, mais
+son point est bien fondé: dans la mesure où
+le monde extérieur est concerné
+(et, en fait, autant de
+le monde intérieur est également concerné)
+le fandom est le Castro du
+L'Internet.
+Précis? Bien. Non, et bien sûr
+nous le savons depuis Rust
+publication historique. le
+les années intermédiaires ont joué avec
+les chiffres un peu, mais la chanson
+reste le même. Le Furry
+Une enquête révèle que 32,1% des furries
+être hétérosexuel (plus que Rust
+25% à une valeur statistiquement significative
+degré; moins de 32,7% de Davis par un insignifiant) et 23,9% de furries homosexuels,
+statistiquement identique aux 19% de Rust et 25,5% de Davis). 36% des furries de notre échantillon étaient bisexuels,
+bien moins que les 48% de Rust et pratiquement identiques aux 37,3% de Davis.
+Un homme perspicace, écrivant
+dans un e-mail, j'ai suggéré de
+suivre combien de personnes
+jeu de rôle en tant que membre du
+sexe opposé. C'est lui-même un
+question intéressante et une je
+l'intention de mettre dans le prochain
+version de l'enquête. Pour le
+moment, cependant, nous pouvons
+offrez un peu de commentaire
+sur les rôles de genre. Supposons que
+on trouve l'américain
+Association psychiatrique et
+Lynn Conway pour être crédible 6 .
+Dans ce cas, l'APA suggère
+2-3% des hommes s'engagent dans au moins
+travestissement occasionnel, et
+Conway estime que le
+prévalence des transgenres
+personnes entre 1h50 et
+1: 2500 pour différents degrés et
+bornes.
+6. Ce n'est certes pas une présomption anodine. Les données ici sont tirées de http://www.apa.org/topics/transgender.html et
+http://ai.eecs.umich.edu/people/conway/TS/TSprevalence.html respectivement
+79,5%
+2,3%
+16,8%
+1,4%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+70,0%
+80,0%
+90,0%
+Mâle-Mâle
+Homme Femme
+Femme-Femme
+Femelle mâle
+Sexe autodéclaré
+La prévalence des jeux de rôle a fait que la pensée du genre n'est pas strictement
+avec le sexe biologique plus fréquent aux yeux du public; un article publié cette année dans
+La cyberpsychologie et le comportement suggèrent que les deux tiers des joueurs changent de sexe dans le jeu.
+Les personnes vraiment transgenres sont encore rares, comme vous pouvez le voir ici.
+Hétérosexuel,
+32,1%
+Homosexuel,
+23,9%
+Bisexuel,
+36,0%
+Ni l'un ni l'autre, 2,7%
+Autre, 5,2%
+Orientation sexuelle
+Proportionnellement, l'homosexualité est plus probable dans le fandom que dans le général
+public, mais ils représentent toujours moins d’un quart des répondants. La bisexualité, maintenant, que
+jouit d'une vraie popularité.
+Page 13
+13
+Ne pas consulter une boule de cristal signifiait que je n'avais pas réalisé à quel point la question était fascinante jusqu'à ce qu'elle
+était trop tard, et l'enquête Furry ne nuance pas les choses au-delà de demander aux gens de quel sexe ils
+s'identifier à, en plus de se demander quel est leur sexe biologique. De là, on découvre que 3,7% des
+les répondants ont indiqué que leur identité de genre était différente de leur sexe biologique, suggérant que les furries
+sont plus susceptibles de s'identifier en dehors de leur propre sexe que la population dans son ensemble. Parmi ceux-ci, 2,3%
+étaient des hommes et 1,4% des femmes.
+«Oui,» vous dites, «cela correspond à peu près à mon expérience dans les salons de discussion à fourrure.» Ha, ha.
+Je tiens cependant à souligner que si 2,8% des hommes à fourrure interrogés se sont identifiés comme des femmes, 7,8% des
+les femmes à fourrure identifiées comme des hommes. Ainsi, alors que les chiffres bruts favorisent les hommes, le pourcentage d'hommes
+rapporter des inclinations transgenres est nettement inférieur au nombre de femmes. Ce
+la différence est statistiquement significative.
+Éducation et profession
+David Rust est d'avis que «nulle part [les groupes de fans de Furry ne s'organisent] aussi souvent qu'à l'université
+campus. "Il ne nous dit pas d'où il tire ses informations, mais ses données confirment l'idée que
+fourrure est une chose orientée vers l'université; 42% de ses répondants avaient «une certaine formation universitaire», avec un
+20% supplémentaires ayant un baccalauréat.
+Notre point de vue sur ceci: «à peu près». Nous avons demandé aux répondants de nous indiquer le niveau d'éducation le plus élevé
+ils avaient atteint. Seulement 11,5%
+n'avait pas terminé haut
+école (la plupart de ces
+les répondants étaient sous le
+18 ans); 16,8% avaient un
+diplôme scolaire mais pas plus
+éducation. 38,2% en avaient
+éducation post-secondaire,
+avec 33,5% possédant un
+diplôme collégial, dont 4,2%
+avec au moins quelques
+formation postuniversitaire et
+5,3% détenant un
+degré.
+Le département américain du recensement
+fournit
+éducatif
+données sur les résultats pour ces 18 ans
+et plus vieux. On peut tirer des poils
+correspondant à cette description—
+c'est-à-dire les résidents américains d'au moins 18 ans
+ans — pour obtenir le
+points suivants. Par rapport à
+l'Américain moyen (les furries américains ont le même niveau de scolarité que les non-Américains,
+au cas où vous vous poseriez la question) d'âge équivalent, les furries sont 1) beaucoup plus susceptibles d'en avoir au moins
+Éducation
+Véritable génie ou vengeance des nerds? De toute façon, les furries sont un groupe très instruit; plus
+les personnes qui ne sont pas au lycée ont déjà fait des études supérieures ou y travaillent.
+11,5%
+16,8%
+38,2%
+24,0%
+4,2%
+5,3%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+Certains hauts
+école
+École secondaire
+diplômé
+Certains post-
+école secondaire
+Université
+diplômé
+Certains
+de troisième cycle
+Avancée
+degré
+Page 14
+14
+études collégiales ( 79,2% des furries contre 52% des Américains moyens) et beaucoup moins susceptibles de
+n'ont obtenu qu'un diplôme d'études secondaires ( 3,2% des furries contre 14,8% des Américains moyens).
+Les chiffres sont un peu plus biaisés quand on voit qu'une forte pluralité - 43,9% - de furries
+ont un diplôme universitaire, mais pas de diplôme - plus du double de leurs homologues américains moyens. Pourquoi? UNE
+conjecture: l'âge médian en
+L'Amérique vaut mieux qu'une décennie
+supérieur à l'âge médian de la fourrure,
+et plus de 40% de furries
+a énuméré leur profession comme
+"étudiant". Donc la question en quelque sorte
+se répond, avec la notion que
+les furries sont - voilà, comme Rust nous l'avait dit
+étions-nous assez sages pour écouter
+première fois - des étudiants.
+Beaucoup d'entre eux, de toute façon, bien que
+pas tous de loin. Le professionnel
+la panne est à peu près ce que vous
+attendez-vous compte tenu de la nature du
+fandom et son âge. 42,5% des
+furries a indiqué leur profession comme
+"étudiant" (c'est plus haut, dans un
+manière statistiquement significative, que
+les 38% revendiqués par Davis et le
+31% par Rust), ce qui en fait de loin le
+réponse la plus courante. Seconde
+la place a été revendiquée par des personnes travaillant dans des domaines techniques ou liés à l'informatique, avec 15,9% des
+répondants. Environ huit pour cent étaient par ailleurs employés dans d'autres emplois professionnels, avec un
+trois pour cent supplémentaires travaillant dans une capacité administrative. Reflétant le jeune âge de la
+Les emplois de fandom, du secteur des services et de la vente / support réunis représentent 12,4% des réponses.
+Comme je l'ai dit au début, le plus petit nombre de
+personnes, environ soixante-dix pour cent. Parmi ceux-ci, 37,4% ont déclaré que leur revenu était inférieur à 10000 $ par
+annum; cela reflète à nouveau le jeune âge du fandom. Environ un quart, 27,4% , réalisé entre
+10 $ et 24 999 $, et 18,9% des fourrures faites entre 25 et 45 000 $. Peu ont fait plus que
+cela, et seulement 2,8% avaient un revenu annuel supérieur à cinq chiffres.
+13,9% des répondants ont indiqué que leur profession était «autre». Parmi ceux-ci, la plupart étaient soit
+femmes au foyer ou employés à des postes gouvernementaux ou militaires, bien qu'un certain nombre de
+employé dans un domaine artisanal ou créatif. Imaginez, certaines personnes sont payées pour écrire, le chanceux b - oh,
+Regardez. Une nouvelle section.
+Religion et politique
+Oui, les deux choses dont vous devez vous abstenir de discuter autour de la table avec
+famille, juste au cas où. Nous nous adressons à eux ici dans l'espoir que les furries forment un groupe homogène et
+Occupation
+La plupart des furries sont encore à l'école - voir «Éducation», juste à gauche là-bas. Ceux qui
+n'ont pas une distribution assez large, bien que les domaines technique et informatique trouvent
+degré de représentation singulièrement sans surprise.
+Aucun, 4,7%
+Étudiant, 42,5%
+Administratif,
+3,0%
+Soutien aux ventes,
+5,9%
+Technique / informatique,
+15,9%
+Professionnel,
+7,8%
+Service, 6,5%
+Autres, 13,9%
+Page 15
+15
+nous pouvons éviter d'offenser qui que ce soit.
+Hélas, ça ne doit pas être, alors passons les pommes de terre et installons-nous. Nous traiterons d'abord de politique, depuis 2008
+Amérique, c'est une question d'actualité. Les furries sont stéréotypiquement libéraux et comme vous pouvez le voir
+d'après le graphique, c'est en grande partie pour une bonne raison. Une pluralité de répondants - environ un tiers, 33,8%
+—Décrit leurs inclinations politiques comme «libérales», et 11,3% supplémentaires déclarant
+"extrêmement libéral".
+D'un autre côté, alors que seulement
+9,7% des furries ont déclaré qu'ils étaient
+"conservateur" ou "extrêmement
+conservateur, " 30,2% ont déclaré être
+politiquement modéré. C'est probablement
+s'accorde avec votre expérience
+en regardant des babillards à fourrure ou
+salles de chat où la politique est toujours un
+sujet et pour ce que ça vaut le
+la traction centriste n'est pas vraiment inconnue
+en politique dans son ensemble. Ainsi alors que
+il est prudent d'appeler les furries penchés à gauche,
+on présume que si votre poilu
+discours d'ouverture de la convention
+sur le GOP, tout le monde ne sera pas
+en riant.
+Certains le feront indépendamment de qui
+vous êtes en lambeaux, bien sûr. 15% des
+les furries ont décrit leur politique comme «autre». Parmi ceux-ci, beaucoup ont déclaré qu'ils étaient simplement apolitiques,
+bien que des doctrines impopulaires dans le monde réel mais qui trouvent une niche sur Internet - me voici
+pensant au libertarisme, bien que le socialisme revienne assez souvent aussi, se représentent aussi
+bien.
+Rust, ne voulant peut-être pas être hissé devant le Congrès, n'a pas posé de questions sur la politique, mais Davis
+fait. Leur fandom poilu est encore plus généreusement biaisé que celui que le Furry Survey décrit, et
+encore moins de gens se décrivent comme conservateurs - mais la principale réponse, recueillant presque
+un quart des personnes interrogées est apparemment "non politique".
+Ce chiffre me semble incroyablement élevé; même en considérant que je n'ai pas explicitement fourni un "qui
+se soucie? "option, le nombre de personnes qui l'ont dit de toute façon (" qui donne un [juron de quelque sorte]? ",
+techniquement) me suggère que les répondants étaient conscients de leur capacité à exprimer leur apolitique
+penchants. L'équipage Davis ne se sent pas obligé d'identifier d'où viennent ses réponses, alors je
+ne peut pas conjecturer pourquoi ces différences pourraient exister. 7
+La religion est un autre sujet délicat, d'autant mieux que nous devrions l'ouvrir. Un peu plus d'un quart
+( 25,9% ) des personnes interrogées identifiées comme chrétiennes d'une certaine couleur, la pluralité
+7. Peut-être ont-ils pensé que si vous aviez vu une convention, vous les auriez toutes vues et, plutôt que d'aller à AC ou plus
+Confusion, choisi un rassemblement anarchiste quelque part à la place? Mais sérieusement, un quart des personnes si fortement apolitiques que
+ils choisissent cela même une vague tendance politique? Bizarre et, comme dirait Lore, étrange. Je veux des réponses. Je veux la vérité .
+Politique
+Les Furries ont tendance à être libéraux, mais pas tout à fait aussi libéraux, je pense, qu'on pourrait s'y attendre.
+Cela dit, il n'y a pas beaucoup de conservateurs, bien que des philosophies semi-conservatrices comme
+Le libertarisme joue beaucoup dans le fandom.
+Page 16
+16
+non confessionnel; 8,1% étaient catholiques. En ce qui concerne toute religion définie, les païens lient les catholiques
+(techniquement, il y a un païen de plus, je suppose, mais ils sortent tous les deux à 8,1% , de toute façon).
+Musulmans, juifs et bouddhistes
+ensemble, ils ne représentent que 3,7% .
+Ceux qui ont des calculatrices au
+prêt notera que cela laisse
+un morceau substantiel et,
+en effet, les personnes listant un nom
+la religion ne représente qu'un tiers
+de toutes les réponses. Du
+restant, environ un cinquième
+( 20,8% ) étaient athées, avec un
+quart ( 24,8% ) décrivant
+eux-mêmes comme agnostiques.
+Un autre 20,5% ont dit «autre»,
+parce qu'apparemment je n'ai pas
+leur fournir suffisamment
+marge de manœuvre. C'est suffisant.
+De loin le plus populaire
+réponse parmi ceux qui disent
+"autre" était qu'ils
+identifié avec le leur
+religion, généralement décrite comme
+un mélange d'autres croyances. Les religions moins connues, comme le satanisme, ont également reçu quelques voix, mais un
+la spiritualité auto-définie prédominait néanmoins.
+Davis, ne voulant peut-être pas être hissé devant le Vatican, n'a pas posé de questions sur la religion, mais David
+Rust, jouant la femme de Jack Sprat, l'a fait . Ses répondants étaient nettement moins susceptibles d'être chrétiens
+(-7,9%) mais aussi beaucoup moins susceptibles d'être athées (-10,8%). Ils étaient aussi, curieusement, 8,2% de plus
+susceptibles d'être agnostiques et, la plus grande différence, 11,9% plus susceptibles d'avoir une certaine affiliation avec
+paganisme; un cinquième de ses intimés était «NeoPagan». Les chiffres de Rust totalisent environ 100% donc
+vraisemblablement, la plupart des gens ont fourni une réponse, ce qui semblerait exclure toutes les personnes qui ont dit
+moi "autre".
+Rust précise que les jeunes furries avaient tendance à être agnostiques tandis que les plus âgés avaient tendance à l'être non plus.
+athées ou affiliés à une religion. Je n'irais pas aussi loin; en regardant les chiffres, furries
+âgés de plus de 25 ans étaient, dans les limites de la signification statistique, également susceptibles d'être chrétiens
+et, bien que 3,5% moins susceptibles d'être agnostiques, étaient également 4,6% moins susceptibles d'être athées. La majeure partie du
+la différence semble être compensée ici, et avec une augmentation de 6,3% du paganisme parmi les plus vieux furries—
+bien que ce nombre soit lui-même sept points de moins que celui de Rust et, au rythme de ce noble type, je ne suis pas vraiment
+voir tout écart d'âge significatif.
+Religion
+Les Furries ne sont pas vendus, dans l'ensemble, sur toute cette histoire de «religion». Athéisme et agnosticisme
+sont forts dans le fandom. En revanche, plus d'un quart sont des chrétiens de certains
+rayure ou autre. Il va sans dire que cela est bien en deçà des niveaux de référence dans leurs pays de résidence,
+y compris le Commonwealth.
+Catholique,
+8,1%
+Protestant,
+7,8%
+Autre
+Christian,
+10,0%
+Païen, 8,1%
+Agnostique,
+24,8%
+Athée,
+20,8%
+Autre, 20,5%
+Page 17
+17
+RÉSULTATS DE L'ENQUÊTE 2 sur 4
+♦ Durée dans le fandom
+♦ Nombre d'autres furries connus
+♦ Exactitude et disposition de la perception du public
+Durée dans le fandom
+Ensuite, nous nous tournons vers les éléments qui ont un peu plus de pertinence pour le fandom lui-même. J'ai demandé aux gens de
+indiquez depuis combien de temps ils se considéraient comme faisant partie du fandom. La question n'est pas
+particulièrement clair à cet égard - il ne dit pas, vous savez, "depuis combien de temps êtes-vous dans la fourrure
+fandom par ce nom ". Pour cette raison, plus de quelques personnes ont dit avoir été dans le fandom
+toute leur vie, et quelques âmes intéressantes ont dit qu'ils avaient été si longtemps. Comment ça marche, eh bien,
+me bat.
+Vous pouvez voir que le poilu
+fandom se compose en grande partie de
+les gens qui n'ont pas été autour
+tout ce long - 56,7% ont dit
+moins de cinq ans. Sur le
+d'autre part, 29,9% ont déclaré qu'ils
+se considéraient furries
+entre 6 et 10 ans,
+et 13,4% avaient été
+plus d’une décennie. Ce
+la figure elle-même semble impressionnante,
+bien qu'il y a dix ans,
+assez récent quand on pense
+à ce sujet - la notion de fourrure
+lui-même est au moins près de deux fois
+cette. Moins de cinquante
+les répondants ont cependant déclaré
+ils avaient été membres du
+fandom depuis plus de vingt
+ans, me suggérant que
+la "vieille garde" est soit
+dispersés ou inaccessibles, hélas .
+La durée moyenne du séjour dans le fandom est d'environ six ans et demi, la durée médiane étant de
+cinq. Cela signifie le "moment d'entrée" moyen (c'est-à-dire la moyenne de "l'âge moins la durée de
+fandom ") est de 17,2 ans. Rust met un accent élevé - même si, je dois l'admettre, ce n'est pas déraisonnable -
+à l'université, mais les furries semblent atteindre le fandom une bonne année environ avant qu'ils ne soient de
+cet âge.
+On suppose que cela met le blâme au pied du lycée, qui est je suppose où je voudrais
+mettre le blâme. En effet, la réponse médiane et modale est à la fois ce doux 16, que j'imagine
+Durée dans le fandom
+Les furries ont tendance à entrer dans le fandom quand ils sont à la fin de leur adolescence; soixante pour cent ont été
+furries entre 3 et 10 ans; plus de quatre-vingts pour cent sont à fourrure depuis moins d'une décennie.
+7,5%
+19,2%
+30,0%
+29,9%
+10,0%
+2,4%
+1,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+<1
+1-2
+3-5
+6-10
+11-15
+16-20
+> 20
+Page 18
+18
+correspond probablement à peu près à votre expérience personnelle. En fait, en y réfléchissant, c'était joli
+beaucoup quand j'ai commencé à me considérer comme faisant partie de tout cela.
+Nombre d'autres furries connus
+Il y a la croyance que les furries sont très grégaires, voyageant en meutes comme des loups (ou des sauterelles,
+en fonction de votre point de vue sur le fandom, je suppose). C'est certainement une perspective que l'on pourrait
+défendre raisonnablement sur la base, par exemple, d'Anthrocon. Quelle est sa précision, littéralement?
+J'ai demandé "combien d'autres
+furries savez-vous? "qui
+rétrospectivement n'était pas le
+manière la plus claire de formuler le
+question, puisque la seule
+la qualification que j'ai fournie était
+que le nombre ne pouvait pas être
+une décimale. Certes, ce n'est pas un
+question terriblement difficile à
+répondre. La plupart des gens, basés sur
+commentaires sur la question,
+l'a pris de la même manière que toi
+si je te demandais "fais-tu
+connais [nom]? "à ton visage. Si
+vous parlez régulièrement avec [nom],
+connaître leur anniversaire, etc., alors
+cela compte probablement comme
+"connaissance". Je veux dire que nous ne sommes pas
+parler biblique, ici.
+La réponse médiane était de 15
+furries, bien que le plus
+La réponse courante était, euh, 0. Zéro n'est pas la réponse par défaut pour la question; les gens auraient eu
+pour le saisir manuellement. Je ne sais pas trop ce que cela signifie, car ils connaissent probablement au moins un
+furry d'avoir trouvé le Furry Survey en premier lieu - j'imagine que ces individus n'étaient que
+compter les gens qu'ils connaissaient en personne. C'est suffisant. Le nombre moyen de furries connu est de 41,
+soutenu par un contingent de personnes qui ont pris «savoir» pour, j'imagine, signifier «ont répertorié dans votre messagerie instantanée
+liste d'amis ". Quelques personnes disposent de réseaux sociaux suffisamment volumineux pour constituer un
+convention de taille assez bonne (mais pas d'enregistrement).
+Une chose que je n'ai pas demandée était de savoir comment les répondants se rapportaient aux autres furries. David Rust fait beaucoup de
+l'échange d'affection physique, quelque chose que je n'ai pas enquêté mais que j'ai l'intention de faire
+autour. À ma façon de penser, il accorde un peu plus le phénomène poilu du "skritching"
+poids que ce qui pourrait être justifié - mais alors je fais partie du groupe de personnes qui trouve cela un peu étrange
+et est apparemment, selon ses termes, statistiquement insignifiant. C'est la vie.
+Combien d'autres furries sont connus?
+Il n'y a pas de tendance aussi claire quand on demande combien d'autres personnes à fourrure connaissent. Bien qu'un
+bon nombre n'en connaissait pas, beaucoup de gens prétendaient en connaître 50, 100 ou plus. Ils
+doit, je me rends compte, avoir des rolodex impressionnants.
+22,1%
+12,4%
+15,0%
+16,8%
+11,1%
+4,8%
+17,8%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+<3
+3-5
+6-10
+11-20
+21-30
+31-40
+> 50
+Page 19
+19
+Exactitude et disposition du public
+la perception
+Ou: "ils ne comprennent tout simplement pas
+moi ". Vraiment, cependant, cela ne devrait pas
+être dit avec désinvolture. La réalité,
+malheureusement, est-ce public
+la couverture du fandom a été
+incliné
+vers
+les
+sensationnaliste et salace.
+Mais alors tu penses, et c'est tout,
+de qui parle-t-on, ici?
+Vanity Fair ? "Entourage"? Pour
+réel? Je veux dire, je ne demande pas un
+Orienté vers le New York Times Pulitzer
+exposé, mais MTV est-il le meilleur
+peut faire, communauté journalistique?
+Allez, suivez le programme.
+D'une position de scepticisme,
+alors, les furries font-ils face au monde
+grand. 46% des répondants ont déclaré que les non-furries ont répondu «extrêmement négativement» ou «négativement» à
+le fandom. Un autre 36,6% ont déclaré que la réponse était «ambivalente». Sur cinq mille répondants,
+seulement neuf ont dit que les non-furries ont répondu de manière "extrêmement positive".
+13,2% ont déclaré que les non-furries "n'avaient aucune connaissance" du caractère sillonné, ce que je dois admettre que je trouve probablement
+low-balls les vrais chiffres. Même sur
+l'Internet continue de trouver
+ceux qui ne sont pas exposés au fandom
+(si j'étais d'humeur néologiste, je
+pourrait les appeler «fur-gins», ho ho).
+Dans tous les cas, 39,3% ont déclaré que
+d'autres n'avaient aucune connaissance de leur
+une nervosité personnelle, suggérant que
+si rien d'autre les gens sont méfiants
+de révéler aux autres le moins
+vérité que sordide.
+Les gens qui ont dit que le public
+la réaction était positive étaient plus
+susceptible de dire qu'il n'y avait pas
+différence entre les réponses à
+le fandom abstrait et à eux,
+personnellement (c'est-à-dire qu'ils étaient
+a également répondu positivement).
+30,9% ont déclaré qu'ils étaient
+répondu encore plus positivement.
+Comment le public réagit-il au fandom?
+Comme vous pouvez le voir, les furries pensent que le public en a une mauvaise opinion ...
+0,2%
+4,1%
+36,6%
+39,2%
+6,8%
+13,2%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+Extrêmement
+positivement
+Positivement Ambivalemment Négativement
+Extrêmement
+négativement
+Ils n'ont pas
+connaissance
+Quelle est la précision de la perception du public?
+… Mais ils pensent que cette opinion n'est pas méritée.
+1,1%
+14,3%
+61,1%
+15,5%
+8,0%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+70,0%
+Extrêmement
+précis
+Précis
+Inexacte
+Extrêmement
+inexacte
+Ils n'ont pas
+connaissance
+Page 20
+20
+À l'inverse, les personnes qui ont déclaré que la réaction du public était négative étaient nettement plus susceptibles de dire que
+les gens "n'avaient aucune connaissance" de leur propre caractère et 31,7% d'entre eux ont déclaré la réaction
+était plus négatif pour eux, personnellement que pour le fandom dans son ensemble. Je n'ai pas demandé comment ça
+s'est exprimé, mais étant donné qu'ils pensent déjà que le public a une mauvaise opinion de notre salon
+fandom, je pense lapidation.
+Un énorme 61,1% des répondants pensaient que la perception du public à l'égard du fandom était «inexacte»
+avec un autre 15,5% disant qu'il était extrêmement inexact. Un total de 15,4% ont pensé que c'était exact
+dans une certaine mesure, ce qui en dit long sur le manque inexplicable de volonté du fandom d'accepter
+"CSI" comme moyen de dire la vérité. Ou d'ailleurs, Vanity Fair . «Allez comprendre», ai-je tendance à dire;
+Jusqu'à présent, la perception du public n'a pas eu une très bonne expérience en lien avec la réalité.
+Les personnes qui pensaient que la réaction du public était négative et les personnes qui pensaient que c'était positif
+marqué à peu près le même en ce qui concerne la précision qu'ils pensaient que c'était; les gens disent que c'était
+négatifs étaient de 5 à 10% plus susceptibles de dire qu'il était inexact. À propos de ce à quoi vous vous attendez, bien qu'à propos de
+60% des personnes affirmant que le public avait une vision "extrêmement précise" du fandom pensaient également
+l'opinion publique était négative. 8
+8. "Trolls!" vous dites, ou plutôt vous pouvez voir les autres dire. Après avoir examiné les réponses, je suis plus enclin à les attribuer à
+bon cynisme à l'ancienne. À chacun leur propre bien que, comme j'ai été accusé de cynisme, de temps en temps, je suppose que je
+peut au moins sympathiser.
+Page 21
+21
+RÉSULTATS DE L'ENQUÊTE 3 sur 4
+♦ Art visuel
+♦ Activité en ligne
+♦ Conventions
+♦ Fursuiting
+♦ Autres choses
+L'art visuel
+Vous saurez qu'ils sont poilus par leur art. Cela va sans dire; les grands lieux de rencontre poilus, et
+les grands noms des sites Web à fourrure, sont liés à l'art (VCL, FurAffinity, DeviantArt, le
+Yerf 9 , etc.) et de nombreuses célébrités à fourrure sont des artistes, des dessinateurs, etc.
+48% des furries, dans les crachats
+distance de moitié, a dit qu'ils
+étaient des graphistes. je n'ai pas
+poser toute autre question à
+nuancez ceci, comme pour
+exemple si oui ou non ils
+vendu de l'art, pris des commandes,
+etc. Tout ce que nous savons, c'est que si vous
+rencontrer un raconter à fourrure et absent
+des contes comme des croquis ou des chevalets,
+un coin-flip est apparemment un
+bonne façon viable de séparer
+les moutons des chèvres. Alors
+parler.
+Les poilus sont, il va sans dire,
+très conscient de la
+l'importance de l'art pour le
+fandom. Plus de la moitié - 56,8% -
+dit que c'était "extrêmement
+important, "avec un autre tiers
+disant que c'était «juste» «important».
+Un grand total de 7 personnes ont dit
+que l'art graphique était "extrêmement sans importance" pour le fandom. Parmi eux, deux étaient des adeptes de la
+communautés à la place, apparemment; la balance était des gens qui disaient que tout était sans importance,
+représenter une opinion minoritaire de ce que je suppose équivaut à une sorte de nihilisme poilu déroutant.
+La reconnaissance de la primauté de l'art graphique est, bien entendu, complètement diffusée. Les artistes étaient
+environ cinq pour cent plus susceptibles que la moyenne de dire que l'art était "extrêmement important", et non
+artistes environ 5% de moins - mais dans tous les cas, l'opinion publique reste massivement favorable
+de l’importance de l’art. Serait-ce que la NEA trouve des soutiens aussi catégoriques.
+Quelle est l'importance de l'art graphique?
+Vous ne jouez pas avec l'art graphique. L'art visuel est extrêmement populaire dans le fandom velu,
+à la surprise de personne.
+56,8%
+33,4%
+9,1%
+0,6%
+0,1%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+Extrêmement
+important
+Important
+Modérément
+important
+Sans importance Extrêmement
+sans importance
+9. Yerf.com, pour les non-initiés, était l'un des sites Web à fourrure les plus célèbres. Conçu comme une archive propre de haute qualité
+artwork, une panne de serveur à la fin de 2004 l'a éloigné du royaume des vivants, dans le sein chaleureux duquel il n'est pas encore revenu. le
+l'argent intelligent, en ce moment, est sur sa mort permanente.
+Page 22
+22
+Activité en ligne
+59,3% des furries ont déclaré qu'ils étaient
+actif en ligne, un nombre qui
+semble élevé, même si pour autant
+un peu moins que l'on pourrait
+attendez une enquête distribuée
+entièrement numérique. Cela me rappelle
+retour à ce que j'ai dit au retour
+le début, qui est que le
+furry fandom est un tel en ligne-
+lieu centré qui interroge en ligne
+n'introduit pas vraiment un fort
+biais.
+Les gens étaient encore moins ambivalents
+sur les communautés en ligne que
+ils parlaient d'art; 70,6% des
+répondants considérés en ligne
+les communautés
+"extrêmement
+important "pour le fandom poilu,
+avec un autre 22,8% disant
+"important". Moins d'un
+pour cent - un total de 30 personnes - ont déclaré que les communautés en ligne étaient «sans importance» d'une certaine façon.
+Lorsqu'on leur a demandé s'ils appartenaient à des sites Web à fourrure, 78,9% des répondants ont répondu
+affirmative. Parmi ceux-ci, FurAffinity a été le vainqueur incontestable, avec près des trois quarts de toutes les personnes
+listant les sites Web disant qu'ils appartenaient à FA. Les dix meilleurs sites Web à fourrure répertoriés par les répondants:
+Les sites Web mettant en lumière des groupes locaux étaient également populaires, en particulier ceux liés au Royaume-Uni
+et Australie. Une poignée de personnes ont cité Yerf, certaines d'entre elles étant le seul site Web vers lequel elles
+appartenir, ce qui est optimiste ou déprimant selon votre opinion.
+FurAffinity
+73,1%
+Yiffstar
+13,5%
+VCL
+4,9%
+Sauté
+3,8%
+Furtopie
+3,5%
+DeviantArt
+2,7%
+Ameublement
+2,6%
+Artspots
+1,9%
+Wikifur
+1,6%
+Furcadia
+1,4%
+70,6%
+22,8%
+6,0%
+0,5%
+0,2%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+70,0%
+80,0%
+Extrêmement
+important
+Important Modérément
+important
+Sans importance Extrêmement
+sans importance
+Quelle est l'importance des communautés en ligne?
+Les communautés en ligne sont également importantes; notamment, un montant statistiquement moins important
+des personnes affirmant que les communautés en ligne étaient importantes n'en appartenaient en fait à aucune.
+Page 23
+23
+Conventions
+De la poussière à la poussière, le fandom poilu a été engendré des conventions, et aux conventions il revient. je
+m'ont expliqué la participation à la convention comme une sorte de hajj poilu - ce n'était pas l'exact
+phrasé, mais il véhicule à la fois l'ampleur de l'expérience et son aspect quasi-religieux, avec
+salutations au fandom.
+38,5% de nos répondants ont déclaré qu'ils se décriraient comme des congressistes. Dans
+les limites de la rigueur statistique
+cela concorde avec les 41,6% qui
+Rapports Davis. je n'ai pas demandé
+les gens à quelle fréquence ils sont allés
+conventions, je n'ai pas demandé non plus comment
+beaucoup où ils étaient allés.
+Donné
+les
+considérable
+dépenses en temps et en
+l'argent nécessaire pour assister à un
+convention, ces deux
+les chiffres semblaient un peu élevés
+moi. Pour l'illumination, j'ai demandé
+les braves gens d'Anthrocon demandent
+eux s'ils pouvaient en avoir
+perspicacité. Hélas, ils n'ont pas
+chiffres sur combien de CA
+les participants vont également à d'autres
+conventions, ou combien de CA
+les participants sont des clients réguliers.
+Ils pensaient qu'il était possible que
+les chiffres peuvent être trop élevés,
+mais je ne pouvais rien dire de définitif et après avoir réfléchi davantage, je pense qu'ils sont probablement plus ou
+moins précis.
+Dans tous les cas, qu'ils y assistent ou non, les gens ont tendance à décrire les conventions comme
+important; 63,4% de tous les répondants l'ont dit. Evidemment, des gens qui étaient eux-mêmes conventionnels
+les participants étaient plus susceptibles de dire que les inconvénients étaient importants pour le fandom, mais même les non-congoers étaient
+réticent à classer les conventions sous une importance «modérée»; seulement 10,3% des non-participants ont déclaré
+les conventions étaient sans importance.
+Le même genre d'image se dégage lorsque vous demandez aux furries ce qu'ils pensent des conventions. Ici,
+plus de 70% ont déclaré avoir eu une réponse «positive» ou «extrêmement positive»; moins de 5% avaient un
+réponse négative.
+Fursuiting
+Fursuiting est un fandom poilu, je crois, comme la drogue l'était pour Hunter S Thompson. Comme les drogues,
+fursuiting a la capacité de provoquer une réponse polarisée entre les défenseurs et les critiques, et comme
+Quelle est l'importance des conventions?
+Moins de 40% des furries assistent à des conventions, mais 63,4% disent qu'ils sont importants. Beaucoup
+des congrès majeurs établissent de nouveaux records de fréquentation chaque année.
+22,3%
+41,1%
+29,8%
+5,9%
+0,9%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+Extrêmement
+important
+Important Modérément
+important
+Sans importance Extrêmement
+sans importance
+Page 24
+24
+la drogue fursuiting est une partie très visible de l'œuvre à fourrure sans en être la seule (les gens
+faites cette erreur avec Thompson aussi, vous voyez).
+Dans l'enquête Furry, 21,1% des répondants ont déclaré qu'ils étaient des chasseurs. UC Davis attribue ce numéro à
+environ 16%, ce qui signifie que l'enquête Furry indique un pourcentage plus élevé à un niveau statistiquement significatif
+degré. D'un autre côté, Davis utilise le label «furry dress», qui présente les inconvénients à la fois de
+étant très ambigu et ressemblant à un cotillon victorien.
+Fursuiting et participation à la convention sont étroitement liés; 75% des fursuiters ont déclaré avoir également participé
+conventions et les congoers étaient deux fois plus susceptibles d’être des fursuiters. Ensemble, ces deux fournissent
+quelque chose qui pourrait peut-être être
+décrit comme le visage public du
+fandom; furry a été jeté comme
+un peu plus que des déguisements d'animaux
+avant, et beaucoup de gens supposent
+fursuiting pour être intrinsèque.
+Que les poils soient ou non
+à l'aise d'accepter cela
+représentation (je dirais, personnellement,
+que la réponse écrasante
+à la question d'exactitude publique
+suggère qu'ils ne le sont pas) les poils sont
+assez chaleureux sur l'idée de
+fursuiting. Les deux tiers, 66,2% , avaient
+une réponse positive au fursuiting,
+avec environ un quart ambivalent
+et 6% négatifs. Évidemment
+les fursuiters eux-mêmes semblaient plus
+chaleureusement sur le passe-temps, mais même
+parmi les non-candidats, moins de 8%
+a eu une réponse négative.
+D'autres choses
+L'archive de fiction Furry Yiffstar était le deuxième site Web le plus populaire de Furry Survey, et
+était deuxième par, euh, un montant assez important son avant-dernier statut reflète un peu le rôle de l'écriture
+joue dans le fandom. 38,5% des furries se décrivent comme des auteurs, mais comme pour les artistes I
+n'a pas demandé s'ils gagnaient de l'argent sur le processus (par contre, une expérience froide avec le fer
+hand of fate a démontré qu'il est plus difficile de vendre des commandes d'écriture que des œuvres d'art.
+peut-être ont-ils tous abandonné et se sont résignés à des emplois de bureau. ... pas que je sache).
+Les Furries n'étaient tout simplement pas convaincus que l'écriture était aussi importante que, par exemple, l'art graphique; bien qu'un
+la majorité, 58,6% , a dit que c'était important d'une certaine façon, plus d'un tiers a dit que c'était seulement
+importance modérée. Ils étaient encore moins gentils avec la musique; 36,3% des répondants pensent
+la musique était sans importance, une grande partie de l'équilibre lui accordant une importance modérée. Musique poilue
+est, bien sûr, une activité un peu moins courante, bien que 19,1% , soit près d'un cinquième des gens
+Réponse aux fursuiters
+La plupart des furries ne sont pas des fursuiters (malgré ce que certaines représentations du fandom auraient
+croyez-vous), mais les furries regardent néanmoins plutôt affectueusement le fursuiting.
+21,7%
+44,5%
+27,6%
+4,8%
+1,4%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+50,0%
+Extrêmement
+positif
+Positif
+Ambivalent
+Négatif
+Extrêmement
+négatif
+Page 25
+25
+répondant, ont dit qu'ils étaient
+les musiciens. Je n'ai pas demandé si
+ou pas cette musique était poilue
+la nature. dix
+Alors, que font d'autre les furries? Pour un
+liste complète vous pouvez consulter votre
+appendice, ou au moins l'appendice
+de ce document. Mais c'est à peu près comme
+vous vous attendriez, si on vous disait que
+nous regardions un fandom
+composé en grande partie de geeks. Mieux
+plus de la moitié, 53,4% , ont déclaré
+fans d'anime; 58,6% ont joué un rôle
+jouer aux jeux.
+72,2% se disent fans de
+la science et la technologie, et
+68,9% ont déclaré aimer la science
+fiction. Ces deux éléments étaient les
+le plus populaire, avec une avance de dix points sur les concurrents les plus proches, ce qui correspond à peu près
+avec la vision d'un fandom engendré et dominé par la science-fiction. Tolja.
+Quelle est l'importance de l'écriture?
+Bien que les furries considèrent l'écriture comme importante, ils ne l'élèvent pas au même niveau que,
+disons, l'art graphique ou les trucs en ligne.
+Quelle est l'importance de la musique?
+Les furries semblent ne pas être impressionnés par la pertinence de la musique pour le fandom.
+Bien qu'il y ait des vidéoclips avec des gens déguisés en animaux. "Le
+Lovecats », par exemple. Mec, c'est un étrange „un, cependant.
+18,3%
+40,3%
+34,0%
+6,5%
+0,9%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+Extrêmement
+important
+Important Modérément
+important
+Sans importance Extrêmement
+sans importance
+5,8%
+17,6%
+40,3%
+31,8%
+4,5%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+45,0%
+Extrêmement
+important
+Important Modérément
+important
+Sans importance Extrêmement
+sans importance
+10. Vous pensez sans doute que je suis effronté. Il n'y a pas si longtemps, vous n'auriez pas été aussi rapide à juger. La musique Furry
+Foundation, ainsi appelée malgré l'absence, disons, d'une dotation, était à son apogée un site raisonnablement populaire. Il est toujours là et
+déclare un peu présomptueusement son retour, mais n'a pas vraiment été mis à jour depuis 2005, et une grande partie de la musique vient
+de l'administration Clinton. Notamment, bien que plus d'une douzaine de personnes aient affirmé appartenir à Yerf, un site Web qui
+n'existe pas, techniquement parlant, personne ne s'identifie au FMF.
+Piste 26
+26
+RÉSULTATS DE L'ENQUÊTE 4 sur 4
+♦ Pratiques peu courantes
+♦ Sexe
+♦ Identité de soi non humaine
+Pratiques peu courantes
+Attention, les "pratiques inhabituelles" ressemblent à quelque chose que vous vous attendez à ce qu'Oscar Wilde soit accusé
+avec. Par "pratiques inhabituelles", j'entends "des choses que les gens associent à tort étroitement à la fourrure
+fandom quand une vision plus juste les aurait séparés décemment ". Prenons la zoophilie, par exemple.
+La zoophilie est «l'amour des animaux», qui se fait généralement connaître comme une attirance sexuelle pour
+animaux non humains. C'est un fétiche assez rare - mais pas extrêmement important - qui se livre à un
+degré ou autre par environ dix pour cent de la population. 11 Notez qu'il ne peut pas
+(en fait, souvent ne se manifeste pas) dans l'activité réelle.
+Ses praticiens font une distinction entre la zoophilie (amour / attirance pour les animaux) et la bestialité
+(gratification sexuelle dérivée des animaux), que je mentionne ici principalement parce que je vais me mettre en colère
+mail si je ne le fais pas. Cette distinction ne semble pas être une distinction communément reconnue dans la science
+communauté, le grand public ou,
+d'ailleurs, le fandom velu.
+Quand j'ai dit "décririez-vous
+toi-même comme un zoophile, "alors,
+presque personne n'a posé de questions.
+Globalement 17,1% des furries identifiés
+comme zoophiles, ce qui est plus élevé dans un
+sens statistiquement significatif de
+la population générale bien que,
+par la note de bas de page, combien n'est pas
+clair. C'est difficile à dire. Dans tout les cas,
+UC-Davis n'a pas enregistré ou a
+n'a pas publié de données sur
+zoophilie, peut-être parce qu'ils
+ne voulait pas le toucher avec un dix
+poteau de pied ou peut-être parce qu'ils
+ne voulait pas avoir à expliquer
+leurs historiques de navigation.
+11. Les données à ce sujet sont plutôt rares pour un certain nombre de raisons, principalement que "votre chien: chaud ou pas?" n'est pas une question que les gens
+semblent se sentir à l'aise pour répondre, et la plupart des groupes de recherche ne se sentent pas non plus à l'aise sur le sujet.
+L'étude historique de Kinsey a rapporté une prévalence très élevée dans certaines régions, généralement rurales. D'autre part, WA Alvarez et JP
+Freinhar est toujours mentionné (1991: «A Prevalence Study of Bestiality (zoophilie) In Psychiatric In-Patients, Medical In-
+Patients et personnel psychiatrique. International Journal of Psychosomatics 38 : 45-47) et qui suis-je pour être iconoclaste? Ils disent
+entre 10% et 15%; ces études et d'autres études plus anecdotiques semblent suggérer quelque chose autour de 10%, ce qui est également un bon
+numéro rond. Découvrir combien il y a de zoophiles est une tâche bien au-delà de la vôtre et de son équipe de chercheurs, crack
+bien qu'ils soient.
+Réponse à la zoophilie
+Avec près de la moitié prenant une position négative et le solde du reste disant qu'ils
+étaient ambivalentes, la zoophilie a été la moins favorisée par les furries.
+22,6%
+23,0%
+36,3%
+13,5%
+4,5%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+40,0%
+Extrêmement
+négatif
+Négatif
+Ambivalent
+Positif
+Extrêmement
+positif
+Page 27
+27
+Rust ne demande, parce que lui et moi sommes tous de poser des questions percutantes. Son taux de prévalence
+est, euh, 2%. Si cela est exact, cela placerait le taux de prévalence des poils bien en dessous de la moyenne nationale, un
+probabilité que j'avoue trouver un peu éloigné. Bien que son enquête soit anonyme, je soupçonne que certains
+hésitation à fournir des réponses. Inversement, des gens m'ont envoyé un e-mail pour me demander si je pense que
+quelqu'un est à la traîne du Furry Survey pour gonfler le nombre de choses inconvenantes. Je ne pense juste pas
+donc: dix-sept pour cent c'est.
+Indépendamment de la participation, la plupart des furries adoptaient au mieux une vision modérée de la zoophilie. 45,6%
+ont décrit leur réponse comme «négative» ou «extrêmement négative», avec un autre troisième ambivalent.
+Les zoophiles avaient tendance à penser plus positivement, mais la majorité non zoophile, pour laquelle seule
+7,2% ont indiqué des opinions favorables à la pratique, ce qui nie largement cela.
+La peluche , pour ceux qui ne connaissent pas le terme, est un mot couramment utilisé pour décrire un
+la fétichisation des animaux en peluche, ou leur utilisation dans la satisfaction sexuelle. Comme pour la zoophilie, c'est
+parfois attribué un sens non sexuel, mais cette interprétation est de loin minoritaire (une poignée
+des personnes ont écrit des commentaires supplémentaires précisant qu'ils étaient fans d'animaux en peluche, mais pas
+"plushophiles" et n'avait pas coché cette case).
+Peut-être parce que c'est, pour être honnête, un peu bizarre, c'est une autre de ces choses que les étrangers ont tendance à
+fixer et se concentrer sur. Néanmoins, seulement 8,5% des furries ayant répondu au Furry Survey étaient
+peluches. Ce nombre est plus élevé, à un degré statistiquement significatif, que le "<1%" rapporté
+par David Rust. Encore une fois, je dirais que soit le monde est très différent maintenant, soit les gens élus
+minimiser leurs côtés sauvages.
+En toute justice, le fandom est un
+un peu plus gentil avec les peluches
+que ce sont des zoophiles, qui
+fait face à pas une petite quantité de
+vitriol
+dans
+commentaires
+m'a exprimé. Les furries sont,
+cependant, conscient de la
+concentration disproportionnée sur
+peluche que les étrangers
+ont tendance à avoir, et n'ont pas
+le tout répond positivement,
+Soit.
+55,3% des répondants étaient
+ambivalent aux plushophiles,
+avec 17,4% positifs et
+27,3% négatif. Peluches
+eux-mêmes étaient plus
+optimiste, avec 65,4%
+avoir une opinion positive.
+Environ un pour cent et demi d'entre eux ont eu une réponse «extrêmement négative», avec 2,7% supplémentaires
+rapportant leur réaction comme «négative», à quel point vous vous demandez: «alors pourquoi le faire?»
+Mais, vous savez, à chacun le leur. Je n'ai pas demandé cela.
+Réponse à la plushophilie
+La peluche n'est pas aussi impopulaire que la zoophilie, mais elle n'en a pas un nombre particulièrement élevé
+des avocats, non plus. La plupart des gens étaient ambivalents.
+3,0%
+14,4%
+55,3%
+19,8%
+7,5%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+Extrêmement
+positif
+Positif
+Ambivalent
+Négatif
+Extrêmement
+négatif
+Page 28
+28
+Sexe
+Je vous épargnerai les indignités du "maintenant que j'ai votre attention!" bâillon, car il n'y a aucun moyen
+autour d'elle maintenant: nous devons nous adresser à l'éléphant dans la pièce. Le fandom a une longue et riche histoire
+relation avec le sexe, ce qui est impliqué dans de nombreuses discussions autour de cela - il n'est pas rare que
+la rousseur à décrire comme un fétiche sexuel.
+Bien sûr, les furries sont parfaitement conscients
+du degré de cette infamie. Est
+la vue commune est-elle précise? ne pas
+insister sur le point: bien sûr
+ne pas. Comme beaucoup de choses impliquant
+sexe, il se joue pour des coups de pied par
+les gens qui ne savent pas ou ne savent pas
+soins, de quoi ils parlent.
+13,5% des furries ont déclaré que le sexe avait
+un "degré élevé" d'importance
+leur vie à fourrure; 3,1% ont dit que c'était
+"extrêmement large". Bien. Mais
+32,1% ont déclaré avoir un support
+degré d'importance et plus
+la moitié, 51,4% , a déclaré que son rôle était
+«petit» ou «extrêmement petit».
+Comparé à certains paramètres - ici
+Je pense aux dortoirs d'université,
+bien que les barres fonctionnent également - le
+le fandom est carrément prude.
+Alors mythe: éclaté. Mais curieusement
+assez, les poils eux-mêmes semblent
+pour y adhérer, au moins dans une certaine mesure.
+Rappelez-vous que la moitié des furries a dit
+le sexe n'était pas aussi important pour eux?
+Bien sûr, vous le faites; Je viens de le dire.
+Mais seulement 14,9% des furries ont déclaré
+ils pensaient que le sexe n'était pas important
+à d' autres , et plus d'un tiers ont déclaré
+pensait qu'il jouait un "grand" ou
+part "extrêmement importante" de la vie
+de leurs frères à fourrure.
+Cela peut donc être un mythe
+fait partie du fandom
+conception non intentionnelle. Ou ça peut
+être simplement l'image publique
+ruissellement: pratiquement personne
+croyait que le public pensait que le sexe
+Quelle est l'importance du sexe pour vous?
+Amants du sexe, les furries ne le sont pas. Seulement 16% environ des répondants ont déclaré que le sexe était important
+leur vie à fourrure ...
+3,1%
+13,5%
+32,1%
+29,0%
+22,4%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+35,0%
+Extrêmement
+grand degré
+Grand degré
+Moyen
+degré
+Petit degré Extrêmement
+petit degré
+Quel degré d'importance pensez-vous qu'il a pour les autres?
+… Mais ils étaient loin d'être aussi charitables envers les autres furries, en supposant que le sexe
+était beaucoup plus important pour eux.
+6,7%
+30,5%
+47,9%
+13,5%
+1,4%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+Extrêmement
+grand degré
+Grand degré
+Moyen
+degré
+Petit degré Extrêmement
+petit degré
+Page 29
+29
+être sans importance pour le poilu
+fandom (peut-être parce qu'ils,
+ah, non). 51,7% ont dit que le public
+pensait qu'il jouait un "extrêmement
+grande partie "et 38,1% supplémentaires
+a dit que le public pensait qu'il jouait
+un "grand". Un organisme de bienfaisance 7,3%
+ont dit qu'ils comptaient le public
+pensait que le sexe était seulement
+moyennement important pour les furries.
+Identité de soi non humaine
+Un dernier élément, nous pouvons prendre un
+regarde, et tu pourras tout
+laisser. Les furries pensent-ils qu'ils
+animaux? Croient-ils
+eux-mêmes humains? Est-ce qu'ils
+se considèrent secrètement
+tigres et lions? Savent-ils que c'est Noël ? Une âme entreprenante regardant de l'extérieur pourrait
+ne pense pas, car de nombreux étrangers ont tendance à penser que les fourrures sont dépravées.
+Mais ce n'est pas le cas et, comme Tom
+Cruise dit dans A Few Good Men ,
+toute tentative de prouver le contraire est
+futile parce que ce n'est tout simplement pas le cas. A demandé
+pour répondre à la déclaration "Je
+me considère principalement
+humaine », 81,5% ont déclaré. 5,6% ont déclaré
+ils ne se considéraient pas
+humain, qui en tout cas est un
+petit nombre de personnes nous
+parler, ici.
+Bien sûr, d'un autre côté, c'est
+apparemment pas quelque chose qui
+quiconque publie des chiffres fiables
+activé pour le groupe témoin de
+tout le monde dans le monde.
+Je devrais deviner que 5,6% est
+un peu élevé, mais à un
+degré? Qui sait. Je ne voudrais pas
+engagez-vous à cela, c'est sûr.
+Quelle est l'importance pour le public du sexe?
+Tout le monde convient, cependant, que le public pense que le fandom à fourrure est une grande orgie.
+51,7%
+38,1%
+7,3%
+2,1%
+0,8%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+60,0%
+Extrêmement
+grand degré
+Grand degré
+Moyen
+degré
+Petit degré Extrêmement
+petit degré
+Fortement
+d'accord, 37,1%
+D'accord, 44,4%
+Pas d'accord, 10,4%
+Fortement
+pas d'accord, 2,6%
+Je ne considère pas
+moi même
+humain, 5,6%
+Réponse à la déclaration: «Je me considère
+à prédominance humaine »
+Malgré la fascination pour les animaux, les fourrures ne rejettent pas ostensiblement leur
+humanité. Dans l'ensemble, seuls cinq pour cent et demi des répondants ont déclaré ne pas avoir envisagé
+eux-mêmes humains, et seulement 13% au-delà se sentaient sceptiques à un degré significatif. Celles-ci
+les gens, je suppose, sont comme moi et passent beaucoup de temps dans les transports publics. Ça va
+vous faire remettre en question votre humanité très rapidement.
+Piste 30
+30
+CONCLUSIONS
+Qu'avons-nous appris de tout cela? S'il y a une leçon à retenir, c'est que les stéréotypes poilus - comme
+tous les stéréotypes - sont probablement enracinés dans la vérité, mais néanmoins faux. Bien sûr, nous devrions être
+honnête avec nous-mêmes. Le poilu stéréotypé de quelque chose comme quelque chose de terrible, disons - "blanc
+gay axée sur le sexe qui aime se déguiser comme un renard et convoite le chien de la famille »- ne exist.
+Traduisant le ton négatif en réalité démographique, dans cette enquête, il y avait, ah, trois
+gens. Cela les rend moins courants que, disons, "les végétariens asiatiques qui ne pensent pas que le sexe est tout cela
+important "et fortement sous-représenté par rapport aux" auteurs à fourrure polonais qui aiment l'anime ".
+Nous parlons ici de fractions de pour cent, des chilluns. Des fractions minuscules, même. Alors pourquoi tout ce tapage?
+Parce que c'est une bonne copie et une bonne blague. Le lien entre l'humour, en particulier (même
+les journaux n'écrivent pas vraiment le fandom au sérieux. Vous pensez que NPR va
+envoyer Juan Williams à davantage de confusion?), et la vérité peut être quelque peu confuse. Ainsi soit-il. Allons
+saisissez l'occasion pour remettre les pendules à l'heure.
+«Qui est le peloton prototypique, alors?», Pourriez-vous demander. Prenons un coup:
+Selon toute vraisemblance, c'est un gars. Il est jeune, diplômé d'université ou dirigé de cette façon, un modéré
+libéral sans être terriblement politiquement actif, qui aime les ordinateurs et le fait probablement
+quelque chose de créatif - musique, écriture ou dessin - pendant son temps libre. Il aime les animaux, mais il
+ne pense pas qu'il en est un et il ne ressent aucune attirance sexuelle pour eux. Il pense que le sexe est ok, mais
+ne règle pas sa vie. Cela vous semble-t-il familier?
+Bien sûr que oui. En fait, il est fort possible que cela ressemble à la plupart des gens que vous connaissez (euh, même
+mis à part le fait que la plupart des gens qui lisent ceci sont des furries). Y a-t-il de la place pour les franges? De
+cours. La crème glacée a fait de la place pour Ben & Jerry's, Woodstock a fait de la place pour les hippies et les
+DNC a fait de la place pour Dennis Kucinich. Mais en même temps, il convient également de noter qu'ils sont
+les franges, et même si elles ont tendance à surpeupler les titres, elles ne surpeuplent pas les
+Nombres.
+Bien sûr, il est probable que personne ne s'en soucie, car il est plus facile de se moquer des furries que de s'en occuper
+eux sur le niveau. Mais même avec cette liste de spécifications toujours plus étroite, le prototypique à fourrure I
+décrit ci-dessus est cinquante fois plus courant que celui que vous verriez si vous vous connectez à MTV. Et
+cela, chers lecteurs, est le hic. Il est difficile d'épingler les poils, car ils sont, en gros, comme tout le monde
+autre. Et c'est peut-être dommage, et peut-être que c'est une bonne chose, mais cela nous surprend- il vraiment ?
+Non.
+Alex Osaki
+Centre de recherche Furry
+27 juin 2008
+Piste 31
+31
+Piste 32
+32
+Annexe A
+Furry Fandom en un coup d'œil
+•
+Âge moyen: 23,7 ans
+•
+80,3% d'hommes; 19,1% de femmes
+•
+83,7% de race blanche
+•
+69% américain
+•
+20,8% athée; 24,8% agnostique
+•
+78,9% ont au moins une certaine expérience universitaire
+•
+Voir comme important:
+communautés en ligne ( 93,4% )
+œuvre d'art ( 90,2% )
+conventions ( 63,4% )
+écriture ( 58,6% )
+•
+78,9% actifs sur au moins un site Web sur le thème de la fourrure
+•
+38,5% de congressistes
+•
+21,1% de fursuiters
+•
+5,6% ne se considèrent pas humains
+•
+17,1% identifiés comme zoophiles
+•
+8,5% identifiés comme plushophiles
+•
+Voir le sexe comme sans importance ou modérément important pour
+leurs activités dans le fandom; crois que d'autres furries
+pense que c'est plus important pour leur propre vie à fourrure.
+Les données ici sont recueillies à partir de l'enquête Furry. Cette publication est basée sur le
+5000 premiers répondants, avec une marge d'erreur nominale +/- 1,4%
+Piste 33
+33
+Appendice B
+Tableau des activités
+Les informations suivantes sont tirées de la question 26 de l'enquête et
+présente, sur 5000 répondants , le nombre (et le pourcentage) décrivant
+eux-mêmes de différentes manières:
+Artiste graphique
+Musicien
+Artiste de performance
+Auteur
+Zoophile
+Peluche
+Fursuiter
+Participant à la convention
+Actif dans les communautés en ligne
+Fan de RPG
+Fan de science-fiction
+Fan d'anime
+Fan de science et technologie / ordinateurs
+Maîtrise des langues autres que leur langue maternelle
+Défenseur des droits des animaux
+Végétarien
+2406
+955
+620
+1926
+856
+424
+1056
+1924
+2963
+2931
+3445
+2669
+3609
+1251
+2049
+235
+48,1%
+19,1%
+12,4%
+38,5%
+17,1%
+8,5%
+21,1%
+38,5%
+59,3%
+58,6%
+68,9%
+53,4%
+72,2%
+25,0%
+41,0%
+4,7%
+Activité
+#
+%
+Piste 34
+34
+Annexe C
+Questions de l'enquête
+L'enquête dans sa forme actuelle est en ligne à l'adresse
+http://www.klisoura.com/furrypoll.php
+Vous trouverez ci-dessous l'enquête telle qu'elle paraissait au moment de la publication (les nouvelles questions sont
+parfois ajoutés, et des clarifications ajoutées à celles existantes; où significatif
+cela sera noté dans le document)
+Q1. Veuillez saisir votre âge, arrondi à l'année la plus proche:
+[Zone de texte]
+Q2. Veuillez sélectionner l'option qui décrit le mieux votre sexe biologique:
+Non communiqué
+Masculin
+Femme
+Autre
+Q3. Veuillez sélectionner l'option qui décrit le mieux votre sexe auto-identifié:
+Non communiqué
+Masculin
+Femme
+Autre
+Q4. Où habitez-vous?
+[Menu déroulant des pays]
+Q5. Veuillez sélectionner l'option qui décrit le mieux votre spiritualité:
+Non communiqué
+Chrétien, catholique
+Chrétien, protestant
+Chrétien, autre dénomination
+musulman
+hindou
+juif
+Païen
+bouddhiste
+Agnostique
+Athée
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Q6. Veuillez sélectionner l'option qui décrit le mieux votre appartenance ethnique:
+Non communiqué
+Caucasien, non hispanique
+asiatique
+africain
+Amérindien / insulaire du Pacifique
+hispanique
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Piste 35
+35
+Annexe C
+Questions du sondage (suite)
+Q7. Veuillez sélectionner l'option qui décrit le plus fidèlement vos opinions politiques (si c'est plus simple, écrivez simplement dans l'espace prévu à cet effet):
+Non communiqué
+Très libéral
+Libéral
+Modérer
+Conservateur
+Très conservateur
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Q8. Veuillez sélectionner l'option qui décrit le mieux votre profession (si c'est plus facile, écrivez simplement dans l'espace prévu):
+Non communiqué
+Aucun
+Étudiant
+Administratif
+Soutien aux ventes
+Technique / informatique
+Professionnel
+Un service
+Retraité
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Q9. Veuillez sélectionner l'option qui décrit le mieux votre niveau de revenu annuel individuel (si c'est plus simple, écrivez simplement dans l'espace
+à condition de):
+Non communiqué
+<9 999 $
+10 000 $ à 14 999 $
+15 000 $ à 24 999 $
+25 000 $ - 44 999 $
+45 000 $ à 69 999 $
+70 000 $ à 99 999 $
+> 100 000 $
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Q10. Veuillez sélectionner l'option qui décrit le mieux votre orientation sexuelle:
+Non communiqué
+Hétérosexuel
+Homosexuel
+Bisexuel
+Ni
+Autre (éventuellement, fournissez plus d'informations ci-dessous)
+Piste 36
+36
+Annexe C
+Questions du sondage (suite)
+Q11. Veuillez sélectionner l'option qui décrit le mieux votre niveau d'études le plus élevé:
+Non communiqué
+Une école secondaire
+Diplôme d'études secondaires
+Certains collèges / post-lycées
+Diplômé collégial / post-secondaire
+Certains postuniversitaires
+Je suis titulaire d'un diplôme d'études supérieures
+Autre
+(facultativement, si vous avez une formation spécialisée - professionnelle ou post-secondaire - fournissez plus d'informations ci-dessous)
+Q12. Depuis combien de temps vous considérez-vous comme un poilu? (en années, valeurs décimales ok)
+[Zone de texte]
+Q13. Combien d'autres furries connaissez-vous? (les valeurs décimales ne sont pas correctes, désolé)
+[Zone de texte]
+Q14. Dans l'ensemble, comment pensez-vous que les non-furries réagissent à la friture?
+Non communiqué
+Extrêmement positivement
+Positivement
+Ambivalemment
+Négativement
+Extrêmement négatif
+Ils n'ont aucune connaissance
+Q15. Vous répondent-ils personnellement d'une manière très différente?
+Non communiqué
+Non
+Oui, ils répondent plus positivement
+Oui, ils répondent plus négativement
+Ils n'ont aucune connaissance
+Q16. Dans l'ensemble, caractériseriez-vous la perception populaire de la nervosité comme:
+Non communiqué
+Extrêmement précis
+Précis
+Inexacte
+Extrêmement imprécis
+Ils n'ont aucune connaissance
+Q17. Identité de soi. Veuillez répondre à la déclaration suivante: «Je suis un humain».
+Non communiqué
+Tout à fait d'accord
+Se mettre d'accord
+Être en désaccord
+Pas du tout d'accord
+Je ne me considère pas humain
+Piste 37
+37
+Annexe C
+Questions du sondage (suite)
+Q18. Dans quelle mesure le sexe joue-t-il un rôle dans votre vie à fourrure?
+Un degré extrêmement important
+Un grand degré
+Un diplôme moyen
+Un petit degré
+Un degré extrêmement petit
+Aucune position
+Q19. Dans quelle mesure pensez-vous que le sexe joue un rôle dans la vie des autres furries?
+Un degré extrêmement important
+Un grand degré
+Un diplôme moyen
+Un petit degré
+Un degré extrêmement petit
+Aucune position
+Q20. Dans quelle mesure pensez-vous que le public suppose que le sexe est important pour les furries?
+Un degré extrêmement important
+Un grand degré
+Un diplôme moyen
+Un petit degré
+Un degré extrêmement petit
+Aucune position
+Q21. Quelle importance accordez-vous aux conventions pour le fandom poilu?
+Extrêmement important
+Important
+d'importance modérée
+Sans importance
+Extrêmement sans importance
+Aucune position
+Q22. À votre avis, quelle est l'importance de l'art visuel pour le fandom poilu?
+Extrêmement important
+Important
+d'importance modérée
+Sans importance
+Extrêmement sans importance
+Aucune position
+Q23. À votre avis, quelle est l'importance de la musique pour le fandom poilu?
+Extrêmement important
+Important
+d'importance modérée
+Sans importance
+Extrêmement sans importance
+Aucune position
+Piste 38
+38
+Annexe C
+Questions du sondage (suite)
+Q24. Quelle est selon vous l'importance de la littérature pour le fandom poilu?
+Extrêmement important
+Important
+d'importance modérée
+Sans importance
+Extrêmement sans importance
+Aucune position
+Q25. Quelle est selon vous l'importance des communautés en ligne pour le fandom poilu?
+Extrêmement important
+Important
+d'importance modérée
+Sans importance
+Extrêmement sans importance
+Aucune position
+Q26. Vous décririez-vous comme? (Cochez toutes les cases)
+Un artiste (visuel)?
+Un artiste (musical)?
+Un artiste (performance)?
+Un auteur?
+Un "zoophile"?
+Un "peluche"?
+Un "fursuiter"?
+Un congressiste?
+Actif dans les communautés en ligne?
+Un fan de RPG?
+Un fan de science-fiction?
+Un fan d'anime?
+Un fan de science et technologie / informatique?
+Vous parlez couramment une ou plusieurs langues en plus de la langue principale?
+Un défenseur des droits des animaux?
+Un végétarien?
+Q27. Appartenez-vous à des sites Web à fourrure?
+Non communiqué
+Oui (si oui, veuillez préciser lesquels ci-dessous)
+Non
+Q28. Quelle que soit votre réponse à la question 26, veuillez évaluer votre réponse générale aux conventions
+Extrêmement positif
+Positif
+Ambivalent
+Négatif
+Extrêmement négatif
+Aucune position
+Piste 39
+39
+Annexe C
+Questions du sondage (suite)
+Q29. Quelle que soit votre réponse à la question 26, veuillez évaluer votre réponse générale aux peluches
+Extrêmement positif
+Positif
+Ambivalent
+Négatif
+Extrêmement négatif
+Aucune position
+Q30. Quelle que soit votre réponse à la question 26, veuillez noter votre réponse générale aux fursuiters
+Extrêmement positif
+Positif
+Ambivalent
+Négatif
+Extrêmement négatif
+Aucune position
+Q31. Quelle que soit votre réponse à la question 26, veuillez évaluer votre réponse générale aux zoophiles
+Extrêmement positif
+Positif
+Ambivalent
+Négatif
+Extrêmement négatif
+Aucune position
+Q32. Facultativement, si vous vous identifiez à un animal en particulier, lequel est-ce?
+[Zone de texte]
+Q33. Facultativement, si vous avez répondu à la question ci-dessus, pourquoi vous identifiez-vous audit animal?
+[Zone de texte]
+[Une dernière section est fournie pour tout commentaire supplémentaire]
+Piste 40
+Centre de recherche Furry
+furcenter.org
+Fin du document

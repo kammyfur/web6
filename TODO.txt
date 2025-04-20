@@ -1,0 +1,42 @@
+config:
+    ...
+
+Pages à faire :
+    /jobs                       100 %
+    /jobs/apply                 100 %
+    /jobs/conditions            100 %
+    /community                  100 %
+    /support                    100 %
+    /support/updates            100 %
+    /support/bugs               100 %
+    /support/pro                100 %
+    /terms                      100 % +REWRITE
+    /terms/pro                  100 %
+    /legal                      100 %
+    /legal/privacy              100 % +REWRITE
+    /legal/copyright            100 %
+    /legal/cookies              100 %
+    /legal/notices              100 %
+    /partners                   100 %
+    /status                     100 %
+    /about                      0   %
+    /downloads                  0   %
+    /camindicator               0   %
+    /camindicator/setup         0   %
+    /camindicator/help          0   %
+    /getsource                  0   %
+    /openplug                   0   %
+    /openplug/discord           0   %
+    /openplug/matrix            0   %
+    /webspace                   0   %
+    /autouptime                 0   %
+    /pwrite                     0   %
+    /winbuntu                   0   %
+    /noduntu                    0   %
+    /mpdos                      0   %
+    /mpdn                       0   %
+    /branding                   0   %
+    Page d'accueil              0   %
+
+Rétrocompatibilité :
+    Rediriger les pages de l'ancien site vers les nouvelles

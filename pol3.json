@@ -1,0 +1,1435 @@
+{
+    "build": {
+        "version": "3:6.1.2",
+        "build": "MinteckProjects+pol3-6+devel"
+    },
+
+    "sitename": "Minteck Projects",
+    "logo": "global/global-banner-white-alt.svg",
+    "color": "#2476e5",
+    "hero": [
+        "#1814a4",
+        "#294b77",
+        "#1c9cce"
+    ],
+    "copyright": {
+        "fr": [
+            "© 2013-%year% Minteck Projects Ltd.",
+            "Certaines icônes sont © Icons8 LLC (icons8.com)",
+            "Minteck Projects et tout autre nom ou contenu associé est une marque légale de Minteck Projects Ltd.",
+            "« Mintie » est une variante de « Libbie » par Tyson Tan, distribuée par Minteck Projects sous licence CC BY-SA 3.0"
+        ],
+        "en": [
+            "© 2013-%year% Minteck Projects Ltd.",
+            "Some icons are © Icons8 LLC (icons8.com)",
+            "Minteck Projects and any other associated name or content is a legal mark of Minteck Projects Ltd.",
+            "« Mintie » is a variant of « Libbie » by Tyson Tan, released by Minteck Projects under CC BY-SA 3.0 license"
+        ]
+    },
+    "links": [
+        {
+            "name": {
+                "fr": "Informations légales",
+                "en": "Legal information"
+            },
+            "url": "/legal",
+            "newtab": false
+        },
+        {
+            "name": {
+                "fr": "Traitement des données",
+                "en": "Data privacy"
+            },
+            "url": "/legal/privacy",
+            "newtab": false
+        },
+        {
+            "name": {
+                "fr": "Signaler un bug",
+                "en": "Report a bug"
+            },
+            "url": "https://mpbugger.alwaysdata.net",
+            "newtab": true
+        }
+    ],
+    "tagline": {
+        "fr": "Avec vous aujourd'hui pour les technologies de demain",
+        "en": "With you today for tomorrow's technologies"
+    },
+    "search": true,
+    "navigation": [
+        {
+            "id": "enterprise",
+            "name": {
+                "fr": "Entreprise",
+                "en": "Enterprise"
+            },
+            "menu": true,
+            "url": null,
+            "items": [
+                {
+                    "name": {
+                        "fr": "PinPages",
+                        "en": "PinPages"
+                    },
+                    "tagline": {
+                        "fr": "Augmentez la productivité de votre entreprise avec PinPages, un moyen de communication simple, rapide et sécurisé entre tous vos employés.",
+                        "en": "Boost the productivity of your enterprise with PinPages, a simple, fast and secure social place between all your employees."
+                    },
+                    "button": {
+                        "fr": "Tester",
+                        "en": "Try now"
+                    },
+                    "link": "https://pinpages.alwaysdata.net",
+                    "subitems": [
+                        {
+                            "link": "https://pinpages.alwaysdata.net/login",
+                            "name": {
+                                "fr": "Connexion",
+                                "en": "Login"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/register",
+                            "name": {
+                                "fr": "Créer un compte",
+                                "en": "Create Account"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/board",
+                            "name": {
+                                "fr": "Tableau blanc",
+                                "en": "Whiteboard"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/account",
+                            "name": {
+                                "fr": "Configuration personnalisable",
+                                "en": "Tuneable configuration"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "FNS",
+                        "en": "FNS"
+                    },
+                    "tagline": {
+                        "fr": "Une suite de logiciels pour gérer un site Web facilement et sans connaissances quelconque.",
+                        "en": "A software suite that helps you easily manage a website without any whatsoever knowledge."
+                    },
+                    "button": {
+                        "fr": "Installer",
+                        "en": "Install now"
+                    },
+                    "link": "http://mpcms.rf.gd",
+                    "subitems": [
+                        {
+                            "link": "http://mpcms.rf.gd/tlchargements",
+                            "name": {
+                                "fr": "Téléchargements",
+                                "en": "Downloads"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/actualits",
+                            "name": {
+                                "fr": "Actualités",
+                                "en": "Blog"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/cycle-de-dveloppement",
+                            "name": {
+                                "fr": "Cycle de vie",
+                                "en": "Lifecycle"
+                            }
+                        },
+                        {
+                            "link": "https://gitlab.com/minteck-projects/mpcms/code-base",
+                            "name": {
+                                "fr": "Code source",
+                                "en": "Source code"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "BetterSearch",
+                        "en": "BetterSearch"
+                    },
+                    "tagline": {
+                        "fr": "Trouvez plus facilement ce que vous cherchez, avec BetterSearch, le moteur de recherche optimisé et intelligent.",
+                        "en": "Find things you look for easier, with BetterSearch, the optimized and smart search engine. Also exists for enterprises."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Start"
+                    },
+                    "link": "http://better-search.000webhostapp.com",
+                    "subitems": [
+                        {
+                            "link": "http://better-search.000webhostapp.com/about",
+                            "name": {
+                                "fr": "À propos",
+                                "en": "About"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/docs",
+                            "name": {
+                                "fr": "Développeurs",
+                                "en": "Integrations"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/terms",
+                            "name": {
+                                "fr": "Conditions d'utilisation",
+                                "en": "Terms of service"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/support",
+                            "name": {
+                                "fr": "Informations techniques",
+                                "en": "Support information"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "CamIndicator",
+                        "en": "CamIndicator"
+                    },
+                    "tagline": {
+                        "fr": "Préservez la vie privée de vos employés en recevant en temps réel des notifications sur l'utilisation de la caméra.",
+                        "en": "Preserve your employees' privacy by receiving realtime notifications about camera usage."
+                    },
+                    "button": {
+                        "fr": "Instructions",
+                        "en": "How to Install"
+                    },
+                    "link": "/camindicator",
+                    "subitems": [
+                        {
+                            "link": "/camindicator/setup",
+                            "name": {
+                                "fr": "Installation",
+                                "en": "Setup"
+                            }
+                        },
+                        {
+                            "link": "/camindicator/help",
+                            "name": {
+                                "fr": "Support technique",
+                                "en": "Technical support"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer",
+            "name": {
+                "fr": "Développeur",
+                "en": "Developer"
+            },
+            "menu": true,
+            "url": null,
+            "items": [
+                {
+                    "name": {
+                        "fr": "FNS",
+                        "en": "FNS"
+                    },
+                    "tagline": {
+                        "fr": "Personnalisez votre site Web à partir d'une base stable et performante, et ajoutez les fonctionnalités que vous voulez.",
+                        "en": "Customize your website from a stable and powerful base, and add features you need."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Get started"
+                    },
+                    "link": "http://mpcms.rf.gd",
+                    "subitems": [
+                        {
+                            "link": "http://mpcms.rf.gd/tlchargements",
+                            "name": {
+                                "fr": "Téléchargements",
+                                "en": "Downloads"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/actualits",
+                            "name": {
+                                "fr": "Actualités",
+                                "en": "Blog"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/cycle-de-dveloppement",
+                            "name": {
+                                "fr": "Cycle de vie",
+                                "en": "Lifecycle"
+                            }
+                        },
+                        {
+                            "link": "https://gitlab.com/minteck-projects/mpcms/code-base",
+                            "name": {
+                                "fr": "Code source",
+                                "en": "Source code"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "BetterSearch",
+                        "en": "BetterSearch"
+                    },
+                    "tagline": {
+                        "fr": "Avec l'API de BetterSearch, vous pouvez intégrer une recherche intelligente et rapide avec n'importe quel projet.",
+                        "en": "With BetterSearch's API, you can integrate a smart and fast search with any of your projects."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Start"
+                    },
+                    "link": "http://better-search.000webhostapp.com",
+                    "subitems": [
+                        {
+                            "link": "http://better-search.000webhostapp.com/about",
+                            "name": {
+                                "fr": "À propos",
+                                "en": "About"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/docs",
+                            "name": {
+                                "fr": "Développeurs",
+                                "en": "Integrations"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/terms",
+                            "name": {
+                                "fr": "Conditions d'utilisation",
+                                "en": "Terms of service"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/support",
+                            "name": {
+                                "fr": "Informations techniques",
+                                "en": "Support information"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "GetSource",
+                        "en": "GetSource"
+                    },
+                    "tagline": {
+                        "fr": "Obtenez le code source des services de Minteck Projects que vous pouvez modifier et publier à votre gré, en effectuant les modifications que vous voulez.",
+                        "en": "Get the source code of Minteck Projects' services that you can edit and publish the way you want, doing the changes you want."
+                    },
+                    "button": {
+                        "fr": "Visiter",
+                        "en": "Visit"
+                    },
+                    "link": "/getsource",
+                    "subitems": []
+                }
+            ]
+        },
+        {
+            "id": "individuals",
+            "name": {
+                "fr": "Particuliers",
+                "en": "Individuals"
+            },
+            "menu": true,
+            "url": null,
+            "items": [
+                {
+                    "name": {
+                        "fr": "PinPages",
+                        "en": "PinPages"
+                    },
+                    "tagline": {
+                        "fr": "Votre nouveau moyen de communication. Échangez avec vos proches, donnez votre avis, rencontrez de nouvelles personnes, partagez vos idées ; avec PinPages.",
+                        "en": "You new way to communicate. Exchange with your family, give your thoughts, meet new people, share your ideas; with PinPages."
+                    },
+                    "button": {
+                        "fr": "Tester",
+                        "en": "Try now"
+                    },
+                    "link": "https://pinpages.alwaysdata.net",
+                    "subitems": [
+                        {
+                            "link": "https://pinpages.alwaysdata.net/login",
+                            "name": {
+                                "fr": "Connexion",
+                                "en": "Login"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/register",
+                            "name": {
+                                "fr": "Créer un compte",
+                                "en": "Create Account"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/board",
+                            "name": {
+                                "fr": "Tableau blanc",
+                                "en": "Whiteboard"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/account",
+                            "name": {
+                                "fr": "Configuration personnalisable",
+                                "en": "Tuneable configuration"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "BetterSearch",
+                        "en": "BetterSearch"
+                    },
+                    "tagline": {
+                        "fr": "Avec l'API de BetterSearch, vous pouvez intégrer une recherche intelligente et rapide avec n'importe quel projet.",
+                        "en": "With BetterSearch's API, you can integrate a smart and fast search with any of your projects."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Start"
+                    },
+                    "link": "http://better-search.000webhostapp.com",
+                    "subitems": [
+                        {
+                            "link": "http://better-search.000webhostapp.com/about",
+                            "name": {
+                                "fr": "À propos",
+                                "en": "About"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/docs",
+                            "name": {
+                                "fr": "Développeurs",
+                                "en": "Integrations"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/terms",
+                            "name": {
+                                "fr": "Conditions d'utilisation",
+                                "en": "Terms of service"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/support",
+                            "name": {
+                                "fr": "Informations techniques",
+                                "en": "Support information"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "Tyson Fans",
+                        "en": "Tyson Fans"
+                    },
+                    "tagline": {
+                        "fr": "Si vous avez besoin d'assistants au quotidien, pourquoi pas utiliser un des services de Tyson Bots ? Vous pouvez aussi utiliser la police Tyson Sans pour donner un style enfantin à vos documents.",
+                        "en": "If you need daily assistants, why not use one of Tyson Bots' services? You can also use Tyson Sans font to give a childish style to your documents."
+                    },
+                    "button": {
+                        "fr": "Essayer",
+                        "en": "Try"
+                    },
+                    "link": "http://tyson-fans.rf.gd",
+                    "subitems": [
+                        {
+                            "link": "http://tyson-fans.rf.gd/bots",
+                            "name": {
+                                "fr": "Robots",
+                                "en": "Robots"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/font",
+                            "name": {
+                                "fr": "Police",
+                                "en": "Font"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/parties",
+                            "name": {
+                                "fr": "Animations",
+                                "en": "Parties"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/bots/kiki",
+                            "name": {
+                                "fr": "Kiki",
+                                "en": "Kiki"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "OpenPlug",
+                        "en": "OpenPlug"
+                    },
+                    "tagline": {
+                        "fr": "Parlez de sujets divers et variés avec plusieurs personnes, depuis votre service de messagerie favori.",
+                        "en": "Chat about various topics with multiple people, from your favorite instant messaging service."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Start"
+                    },
+                    "link": "/openplug",
+                    "subitems": [
+                        {
+                            "link": "/openplug/discord",
+                            "name": {
+                                "fr": "Discord",
+                                "en": "Discord"
+                            }
+                        },
+                        {
+                            "link": "/openplug/matrix",
+                            "name": {
+                                "fr": "Matrix",
+                                "en": "Matrix"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "community",
+            "name": {
+                "fr": "Communauté",
+                "en": "Community"
+            },
+            "menu": true,
+            "url": null,
+            "items": [
+                {
+                    "name": {
+                        "fr": "PinPages",
+                        "en": "PinPages"
+                    },
+                    "tagline": {
+                        "fr": "Engagez-vous, devenez modérateur, et aidez les administrateurs de PinPages à faire en sorte que ce réseau social reste propre et utilisable.",
+                        "en": "Engage you, be moderator, and help PinPages administrators keep this social network clean and usable."
+                    },
+                    "button": {
+                        "fr": "Tester",
+                        "en": "Try now"
+                    },
+                    "link": "https://pinpages.alwaysdata.net",
+                    "subitems": [
+                        {
+                            "link": "mailto:minteck.projects+pinpages-moderator-recruitment@gmail.com",
+                            "name": {
+                                "fr": "Recrutement modération",
+                                "en": "Moderator recruitment"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/login",
+                            "name": {
+                                "fr": "Connexion",
+                                "en": "Login"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/register",
+                            "name": {
+                                "fr": "Créer un compte",
+                                "en": "Create Account"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/board",
+                            "name": {
+                                "fr": "Tableau blanc",
+                                "en": "Whiteboard"
+                            }
+                        },
+                        {
+                            "link": "https://pinpages.alwaysdata.net/account",
+                            "name": {
+                                "fr": "Configuration personnalisable",
+                                "en": "Tuneable configuration"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "BetterSearch",
+                        "en": "BetterSearch"
+                    },
+                    "tagline": {
+                        "fr": "Contribuez à la vie de BetterSearch, en l'utilisant ! C'est aussi simple que ça, rien de plus à faire. Si vous utilisez Firefox, vous pouvez aussi installer l'extension...",
+                        "en": "Contribute to BetterSearch's life, by using it! It's as simple as it, nothing more to do. And if you use Firefox, you can also install the addon..."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Start"
+                    },
+                    "link": "http://better-search.000webhostapp.com",
+                    "subitems": [
+                        {
+                            "link": "http://better-search.000webhostapp.com/about",
+                            "name": {
+                                "fr": "À propos",
+                                "en": "About"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/docs",
+                            "name": {
+                                "fr": "Développeurs",
+                                "en": "Integrations"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/terms",
+                            "name": {
+                                "fr": "Conditions d'utilisation",
+                                "en": "Terms of service"
+                            }
+                        },
+                        {
+                            "link": "http://better-search.000webhostapp.com/support",
+                            "name": {
+                                "fr": "Informations techniques",
+                                "en": "Support information"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "Tyson Fans",
+                        "en": "Tyson Fans"
+                    },
+                    "tagline": {
+                        "fr": "Contribuez à améliorer les performances des services de Tyson Fans en les utilisant et en nous faisant part de votre avis.",
+                        "en": "Help improve Tyson Fans services performance by using them and giving us your thought."
+                    },
+                    "button": {
+                        "fr": "Essayer",
+                        "en": "Try"
+                    },
+                    "link": "http://tyson-fans.rf.gd",
+                    "subitems": [
+                        {
+                            "link": "http://tyson-fans.rf.gd/bots",
+                            "name": {
+                                "fr": "Robots",
+                                "en": "Robots"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/font",
+                            "name": {
+                                "fr": "Police",
+                                "en": "Font"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/parties",
+                            "name": {
+                                "fr": "Animations",
+                                "en": "Parties"
+                            }
+                        },
+                        {
+                            "link": "http://tyson-fans.rf.gd/bots/kiki",
+                            "name": {
+                                "fr": "Kiki",
+                                "en": "Kiki"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": {
+                        "fr": "FNS",
+                        "en": "FNS"
+                    },
+                    "tagline": {
+                        "fr": "Traduisez Neutron dans votre langue, et faites-en bénéficier de nombreux utilisateurs, tout en faisant vivre le projet.",
+                        "en": "Translate Neutron in your language, and help many users use it at its best, all this while help the projet."
+                    },
+                    "button": {
+                        "fr": "Commencer",
+                        "en": "Get started"
+                    },
+                    "link": "http://mpcms.rf.gd",
+                    "subitems": [
+                        {
+                            "link": "http://mpcms.rf.gd/tlchargements",
+                            "name": {
+                                "fr": "Téléchargements",
+                                "en": "Downloads"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/actualits",
+                            "name": {
+                                "fr": "Actualités",
+                                "en": "Blog"
+                            }
+                        },
+                        {
+                            "link": "http://mpcms.rf.gd/cycle-de-dveloppement",
+                            "name": {
+                                "fr": "Cycle de vie",
+                                "en": "Lifecycle"
+                            }
+                        },
+                        {
+                            "link": "https://gitlab.com/minteck-projects/mpcms/code-base",
+                            "name": {
+                                "fr": "Code source",
+                                "en": "Source code"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "footer": {
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "name": {
+                            "fr": "PinPages",
+                            "en": "PinPages"
+                        },
+                        "url": "https://pinpages.alwaysdata.net",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Application",
+                                    "en": "App"
+                                },
+                                "url": "https://pinpages.alwaysdata.net/app"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Connexion",
+                                    "en": "Login"
+                                },
+                                "url": "https://pinpages.alwaysdata.net/login"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Créer un compte",
+                                    "en": "Create Account"
+                                },
+                                "url": "https://pinpages.alwaysdata.net/signup"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Espace développeurs",
+                                    "en": "Developers Corner"
+                                },
+                                "url": "https://gitlab.com/minteck-projects/pinpages"
+                            },
+                            {
+                                "name": {
+                                    "fr": "PinPages Board",
+                                    "en": "PinPages Board"
+                                },
+                                "url": "https://pinpages.alwaysdata.net/board"
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "fr": "BetterSearch",
+                            "en": "BetterSearch"
+                        },
+                        "url": "http://better-search.000webhostapp.com",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "À propos",
+                                    "en": "About"
+                                },
+                                "url": "http://better-search.000webhostapp.com/about"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Développeurs",
+                                    "en": "Developers"
+                                },
+                                "url": "http://better-search.000webhostapp.com/docs"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Conditions",
+                                    "en": "Terms of Use"
+                                },
+                                "url": "http://better-search.000webhostapp.com/terms"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "name": {
+                            "fr": "FNS",
+                            "en": "FNS"
+                        },
+                        "url": "http://mpcms.rf.gd",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Programmes",
+                                    "en": "Schedule"
+                                },
+                                "url": "http://mpcms.rf.gd/cycle-de-dveloppement"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Actualités",
+                                    "en": "News"
+                                },
+                                "url": "http://mpcms.rf.gd/actualits"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Licence",
+                                    "en": "License"
+                                },
+                                "url": "https://www.gnu.org/licenses/gpl-3.0.html"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Téléchargements",
+                                    "en": "Downloads"
+                                },
+                                "url": "http://mpcms.rf.gd/tlchargements"
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "fr": "Tyson Fans",
+                            "en": "Tyson Fans"
+                        },
+                        "url": "http://tyson-fans.rf.gd",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Robots",
+                                    "en": "Robots"
+                                },
+                                "url": "http://tyson-fans.rf.gd/bots"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Police",
+                                    "en": "Font"
+                                },
+                                "url": "http://tyson-fans.rf.gd/font"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Animations",
+                                    "en": "Parties"
+                                },
+                                "url": "http://tyson-fans.rf.gd/parties"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Kiki",
+                                    "en": "Kiki"
+                                },
+                                "url": "http://tyson-fans.rf.gd/bots/kiki"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "name": {
+                            "fr": "CamIndicator",
+                            "en": "CamIndicator"
+                        },
+                        "url": "/camindicator",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Installation",
+                                    "en": "Setup"
+                                },
+                                "url": "/camindicator/setup"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Questions-réponses",
+                                    "en": "Troubleshooting"
+                                },
+                                "url": "/camindicator/help"
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "fr": "Recrutement",
+                            "en": "Recruitment"
+                        },
+                        "url": "/jobs",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Postuler",
+                                    "en": "Apply"
+                                },
+                                "url": "/jobs/apply"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Modalités",
+                                    "en": "Conditions"
+                                },
+                                "url": "/jobs/conditions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "name": {
+                            "fr": "Aide",
+                            "en": "Help"
+                        },
+                        "url": "/support",
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Support technique",
+                                    "en": "Technical Support"
+                                },
+                                "url": "/support"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Mises à jour",
+                                    "en": "Updates"
+                                },
+                                "url": "/support/updates"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Rapports de bugs",
+                                    "en": "Bugs Reports"
+                                },
+                                "url": "/support/bugs"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Pour les entreprises",
+                                    "en": "For corporations"
+                                },
+                                "url": "/support/pro"
+                            }
+                        ]
+                    },
+                    {
+                        "name": {
+                            "fr": "Politiques",
+                            "en": "Policies"
+                        },
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Utilisation des cookies",
+                                    "en": "Cookies Usage"
+                                },
+                                "url": "/legal/cookies"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Traitement des données",
+                                    "en": "Data Privacy"
+                                },
+                                "url": "/legal/privacy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "name": {
+                            "fr": "Conditions",
+                            "en": "Terms"
+                        },
+                        "items": [
+                            {
+                                "name": {
+                                    "fr": "Utilisation",
+                                    "en": "Service"
+                                },
+                                "url": "/terms"
+                            },
+                            {
+                                "name": {
+                                    "fr": "Professionnels",
+                                    "en": "Enterprise Usage"
+                                },
+                                "url": "/terms/pro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "post": [
+            {
+                "name": {
+                    "fr": "Nous contacter",
+                    "en": "Contact Us"
+                },
+                "url": "/contact"
+            },
+            {
+                "name": {
+                    "fr": "À propos de nous",
+                    "en": "About us"
+                },
+                "url": "/about"
+            },
+            {
+                "name": {
+                    "fr": "Communauté",
+                    "en": "Community"
+                },
+                "url": "/community"
+            },
+            {
+                "name": {
+                    "fr": "Recrutement",
+                    "en": "Recruitment"
+                },
+                "url": "/jobs"
+            },
+            {
+                "name": {
+                    "fr": "Blog",
+                    "en": "Blog"
+                },
+                "url": "/blog"
+            }
+        ],
+        "global": [
+            {
+                "name": {
+                    "fr": "Charte graphique",
+                    "en": "Branding"
+                },
+                "url": "/branding"
+            },
+            {
+                "name": {
+                    "fr": "Communauté",
+                    "en": "Community"
+                },
+                "url": "/community"
+            },
+            {
+                "name": {
+                    "fr": "Droits d'auteurs",
+                    "en": "Copyright"
+                },
+                "url": "/legal/copyright"
+            },  
+            {
+                "name": {
+                    "fr": "Mentions légales",
+                    "en": "Legal Notices"
+                },
+                "url": "/legal/notices"
+            },
+            {
+                "name": {
+                    "fr": "Partenaires",
+                    "en": "Partners"
+                },
+                "url": "/partners"
+            },
+            {
+                "name": {
+                    "fr": "État des services",
+                    "en": "Services Status"
+                },
+                "url": "/status"
+            }
+        ]
+    },
+    "products": {
+        "main": [
+            {
+                "name": "PinPages",
+                "logo": "/static/logos/pinpages/pinpages-color-fill.svg",
+                "description": {
+                    "fr": "Le premier réseau social qui respecte réellement votre vie privée, en vous proposant des outils utiles et pratiques.",
+                    "en": "The first social network that really respects your privacy, giving you useful tools."
+                },
+                "link": "https://pinpages.alwaysdata.net",
+                "links": [
+                    {
+                        "name": {
+                            "fr": "Se connecter",
+                            "en": "Login"
+                        },
+                        "link": "https://pinpages.alwaysdata.net/login"
+                    },
+                    {
+                        "name": {
+                            "fr": "Créer un compte",
+                            "en": "Create Account"
+                        },
+                        "link": "https://pinpages.alwaysdata.net/register"
+                    }
+                ]
+            },
+            {
+                "name": "FNS",
+                "logo": "/static/logos/cms/cms-color-fill.svg",
+                "description": {
+                    "fr": "Une façon plus intelligente et plus pratique de créer et gérer un site Web sans connaissances en développement.",
+                    "en": "A smarter and easier way to create and manage a website without coding."
+                },
+                "link": "http://mpcms.rf.gd",
+                "links": []
+            },
+            {
+                "name": "Tyson Fans",
+                "logo": "/static/logos/tysonfans/tysonfans-color-fill.svg",
+                "description": {
+                    "fr": "Des technologies dédiées au dessinateur chinois Tyson Tan, afin de lui rendre hommage et de faire vivre son art.",
+                    "en": "Technologies dedicated to the chinese artist Tyson Tan, to promote and give his art to life."
+                },
+                "link": "http://tyson-fans.rf.gd",
+                "links": []
+            },
+            {
+                "name": "GetSource",
+                "logo": "/static/logos/getsource/getsource-color-fill.svg",
+                "description": {
+                    "fr": "Le point de rendez-vous des développeurs de Minteck Projects pour contribuer sur le code source des logiciels.",
+                    "en": "Minteck Projects' developers meeting point to contribute on softwares source code."
+                },
+                "link": "/getsource",
+                "links": []
+            },
+            {
+                "name": "BetterSearch",
+                "logo": "/static/logos/bettersearch/bettersearch-color-fill.svg",
+                "description": {
+                    "fr": "Le seul moteur de recherche intelligent. Gratuit, simple et rapide.",
+                    "en": "The only smart search engine. Free, simple and fast."
+                },
+                "link": "http://better-search.000webhostapp.com",
+                "links": [
+                    {
+                        "name": {
+                            "fr": "À propos",
+                            "en": "About"
+                        },
+                        "link": "http://better-search.000webhostapp.com/about"
+                    }
+                ]
+            },
+            {
+                "name": "WebSpace",
+                "logo": "/static/logos/webspace/webspace-color-fill.svg",
+                "description": {
+                    "fr": "Accédez rapidement et simplement à tous les services de Minteck Projects, directement depuis vos appareils favoris.",
+                    "en": "Fast and simple access to all Minteck Projects' service, right from your favorite devices."
+                },
+                "link": "/webspace",
+                "links": []
+            },
+            {
+                "name": "CamIndicator",
+                "logo": "/static/logos/camindicator/camindicator-color-fill.svg",
+                "description": {
+                    "fr": "Ne vous faites plus espionner, surveillez qui et quoi vous regarde et soyez informé en temps réel.",
+                    "en": "Don't get spied, monitor who and what looks at you and get informed in real time."
+                },
+                "link": "/camindicator",
+                "links": []
+            },
+            {
+                "name": "OpenPlug",
+                "logo": "/static/logos/openplug/openplug-color-fill.svg",
+                "description": {
+                    "fr": "OpenPlug est un salon de discussion calme et pacifique pour discuter tranquillement.",
+                    "en": "OpenPlug is a peaceful and calm chat room to chill out."
+                },
+                "link": "/openplug",
+                "links": []
+            }
+        ],
+        "also": [
+            {
+                "name": "Auto-uptime",
+                "link": "/autouptime",
+                "description": {
+                    "fr": "Système entièrement automatisé d'état des services.",
+                    "en": "Entirely automated services status system."
+                }
+            },
+            {
+                "name": "pWrite",
+                "link": "/pwrite",
+                "description": {
+                    "fr": "pWrite est un éditeur de texte simple, stable et rapide qui remplacera votre traitement de texte habituel.",
+                    "en": "pWrite is a simple, stable and fast text editor that will replace your current word processor."
+                }
+            },
+            {
+                "name": "Winbuntu",
+                "link": "/winbuntu",
+                "description": {
+                    "fr": "Apprendre la ligne de commande Bash sur Microsoft Windows de manière sécurisée.",
+                    "en": "Learn Bash command-line on Microsoft Windows in a secured way."
+                }
+            },
+            {
+                "name": "Noduntu",
+                "link": "/noduntu",
+                "description": {
+                    "fr": "Sous-système simulé en ligne de commande disponible sur plusieurs plate-formes.",
+                    "en": "Simulated command-line subsystem for multiple platforms."
+                }
+            },
+            {
+                "name": "Minteck Projects DOS",
+                "link": "/mpdos",
+                "description": {
+                    "fr": "Donner une seconde vie à Microsoft MS-DOS pour les ordinateurs actuels.",
+                    "en": "Give a second life to Microsoft MS-DOS for current computers."
+                }
+            }
+        ],
+        "resources": [
+            {
+                "name": {
+                    "fr": "Blog",
+                    "en": "Blog"
+                },
+                "link": "/blog"
+            },
+            {
+                "name": {
+                    "fr": "Développeurs",
+                    "en": "Developers"
+                },
+                "link": "/mpdn"
+            },
+            {
+                "name": {
+                    "fr": "Téléchargements",
+                    "en": "Downloads"
+                },
+                "link": "/downloads"
+            }
+        ],
+        "about": [
+            {
+                "name": {
+                    "fr": "Informations",
+                    "en": "Info"
+                },
+                "link": "/about"
+            },
+            {
+                "name": {
+                    "fr": "Données",
+                    "en": "Data Privacy"
+                },
+                "link": "/legal/privacy"
+            },
+            {
+                "name": {
+                    "fr": "Partenaires",
+                    "en": "Partners"
+                },
+                "link": "/partners"
+            },
+            {
+                "name": {
+                    "fr": "Signaler un bug",
+                    "en": "Report a bug"
+                },
+                "link": "https://mpbugger.alwaysdata.net"
+            },
+            {
+                "name": {
+                    "fr": "Nous contacter",
+                    "en": "Contact Us"
+                },
+                "link": "/contact"
+            }
+        ]
+    },
+
+    "takeover": {
+        "colors": [
+            "#20b0e9",
+            "#295d77",
+            "#000d2c"
+        ],
+        "default": {
+            "title": {
+                "fr": "Avec vous aujourd'hui, pour les technologies de demain",
+                "en": "With you today, for tomorrow technologies"
+            },
+            "tagline": {
+                "fr": "Minteck Projects vous aide à protéger votre vie privée et ce qui compte vraiment pour vous.",
+                "en": "Minteck Projects helps protect your private life and what really matters to you."
+            },
+            "link": "/about",
+            "button": {
+                "fr": "En savoir plus...",
+                "en": "Learn More..."
+            },
+            "colors": [
+                "#273C5E",
+                "#000F2C",
+                "#000D2C"
+            ]
+        },
+        "takeover_js": [
+            {
+                "dark": true,
+                "title": {
+                    "fr": "Reprenez le contrôle !",
+                    "en": "Regain control!"
+                },
+                "tagline": {
+                    "fr": "Avec notre famille d'une dizaine de services, vous pourrez profiter de votre routine quotidienne tout en préservant votre vie privée.",
+                    "en": "With our family of some services, you can live your daily routine while preserving your privacy."
+                },
+                "button": {
+                    "fr": "Voir notre politique",
+                    "en": "See our policy"
+                },
+                "link": "/legal/privacy",
+                "image": "/static/assets/takeover/secure.png"
+            },
+            {
+                "dark": false,
+                "title": {
+                    "fr": "Discutez sans crainte...",
+                    "en": "Chat fearless..."
+                },
+                "tagline": {
+                    "fr": "Nous priorisons le respect de votre vie privée, jusqu'à vos conversations privées. Personne derrière votre épaule pour regarder votre discussion !",
+                    "en": "We aim to respect your privacy, up to your private conversations. Nobody looking at your chat behind your shoulder!"
+                },
+                "button": {
+                    "fr": "Essayer maintenant",
+                    "en": "Try now"
+                },
+                "link": "https://pinpages.alwaysdata.net",
+                "image": "/static/assets/takeover/chat.png"
+            },
+            {
+                "dark": true,
+                "title": {
+                    "fr": "Des services résolument fiables",
+                    "en": "Resolutely reliable services"
+                },
+                "tagline": {
+                    "fr": "Nous vous promettons d'être disponibles 24 heures/24 et 7 jours/7, sans aucun problème ni ralentissement.",
+                    "en": "We promise to be available 24/7, without any problem or slow-down."
+                },
+                "button": {
+                    "fr": "Vraiment ?",
+                    "en": "Really?"
+                },
+                "link": "/status",
+                "image": "/static/assets/takeover/uptime.png"
+            },
+            {
+                "dark": false,
+                "title": {
+                    "fr": "Approuvé par des professionnels",
+                    "en": "Trusted by professionals"
+                },
+                "tagline": {
+                    "fr": "De nombreuses associations et entreprises nous font confiance et utilisent nos services au quotidien.",
+                    "en": "Many associations and enterprises trust us and use our services daily."
+                },
+                "button": {
+                    "fr": "Et moi ?",
+                    "en": "What about me?"
+                },
+                "link": "/terms/pro",
+                "image": "/static/assets/takeover/trusted.png"
+            },
+            {
+                "dark": true,
+                "title": {
+                    "fr": "Les logiciels libres sont les meilleurs",
+                    "en": "Open source software is better"
+                },
+                "tagline": {
+                    "fr": "Chacun est libre de modifier, publier, explorer ou même traduire l'intérieur de certains de nos projets.",
+                    "en": "Everybody is free to change, publish, explore and even translate the inside of some of our projects."
+                },
+                "button": {
+                    "fr": "Partons à l'aventure !",
+                    "en": "Let's go on an adventure!"
+                },
+                "link": "/getsource",
+                "image": "/static/assets/takeover/opensource.png"
+            }
+        ]
+    }
+}

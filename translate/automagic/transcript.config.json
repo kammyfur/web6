@@ -1,0 +1,36 @@
+{
+    "files": [
+        {
+            "file": {
+                "from": "../dict/fr-en.json",
+                "to": "../dict/fr-es.json"
+            },
+            "languages": {
+                "source": {
+                    "from": "fr",
+                    "to": "fr"
+                },
+                "destination": {
+                    "from": "en",
+                    "to": "es"
+                }
+            }
+        },
+        {
+            "file": {
+                "from": "../dict/fr-en.json",
+                "to": "../dict/es-en.json"
+            },
+            "languages": {
+                "source": {
+                    "from": "fr",
+                    "to": "es"
+                },
+                "destination": {
+                    "from": "en",
+                    "to": "en"
+                }
+            }
+        }
+    ]
+}

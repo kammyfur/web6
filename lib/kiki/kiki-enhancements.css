@@ -1,0 +1,7 @@
+* {
+    transition: 200ms;
+}
+
+[id^=vinfo-] {
+    transition: none;
+}

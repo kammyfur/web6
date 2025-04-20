@@ -1,0 +1,359 @@
+[
+    {
+        "trigger": "A",
+        "responses": [
+            "\u00e0"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alguna",
+        "responses": [
+            "Tous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Jesper",
+        "responses": [
+            "Jesp\u00e8re"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ese",
+        "responses": [
+            "Que"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "T\u00fa",
+        "responses": [
+            "Vous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Venga",
+        "responses": [
+            "Allez"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Bueno",
+        "responses": [
+            "Bien"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Y",
+        "responses": [
+            "Et"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Otro",
+        "responses": [
+            "Autre"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nombre",
+        "responses": [
+            "Nom"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "O",
+        "responses": [
+            "Ou"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Contenido",
+        "responses": [
+            "Contenu"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Asociado",
+        "responses": [
+            "Associ\u00e9"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ser",
+        "responses": [
+            "Est"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Para Uno",
+        "responses": [
+            "Une"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Marca",
+        "responses": [
+            "Marque"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Legal",
+        "responses": [
+            "L\u00e9gale"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "De",
+        "responses": [
+            "De"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Variante",
+        "responses": [
+            "Variante"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Computaci\u00f3n Distribu\u00edda",
+        "responses": [
+            "Distribu\u00e9e"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Por",
+        "responses": [
+            "Par"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Minteck",
+        "responses": [
+            "Minteck"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Proyectos",
+        "responses": [
+            "Projects"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sub",
+        "responses": [
+            "Sous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Licencia",
+        "responses": [
+            "Licence"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Informaci\u00f3n",
+        "responses": [
+            "Informations"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Tratamiento",
+        "responses": [
+            "Traitement"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pronto",
+        "responses": [
+            "Des"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Datos",
+        "responses": [
+            "Donn\u00e9es"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reporte",
+        "responses": [
+            "Signaler"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "UNA",
+        "responses": [
+            "Un"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Insecto",
+        "responses": [
+            "Bug"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Nosotros",
+        "responses": [
+            "Nous"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Contacto",
+        "responses": [
+            "Contacter"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Acerca De",
+        "responses": [
+            "Propos"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Comunidad",
+        "responses": [
+            "Communaut\u00e9"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Reclutamiento",
+        "responses": [
+            "Recrutement"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Blog",
+        "responses": [
+            "Blog"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Ayuda",
+        "responses": [
+            "Aide"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Apoyo",
+        "responses": [
+            "Support"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "T\u00e9cnico",
+        "responses": [
+            "Technique"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Poner",
+        "responses": [
+            "Mises"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "D\u00eda",
+        "responses": [
+            "Jour"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Los",
+        "responses": [
+            "Les"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Empresa",
+        "responses": [
+            "Entreprises"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Pol\u00edtica",
+        "responses": [
+            "Politiques"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Mencionar",
+        "responses": [
+            "Mentions"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Sin",
+        "responses": [
+            "Sans"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Escritura",
+        "responses": [
+            "L\u00e9criture"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Discusi\u00f3n",
+        "responses": [
+            "Discussions"
+        ],
+        "type": "other"
+    },
+    {
+        "trigger": "Alrededor",
+        "responses": [
+            "Autour"
+        ],
+        "type": "other"
+    }
+]

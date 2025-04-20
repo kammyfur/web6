@@ -1,0 +1,53 @@
+#
+# MINTECK PROJECTS Ltd.
+#
+#    Official Robots Directives
+#
+# For any question relative to how we handle crawlers, send an email to minteck.projects+robots@gmail.com
+#
+# Table of Contents :
+#   1. Global Definitions
+#   2. Crawlers Bans
+#      2.1. Crawler Ban : SemrushBot
+#      2.2. Crawler Ban : AhrefsBot
+#   3. Other Rules
+
+# *****************************************
+#
+#     1. GLOBAL DEFINITIONS
+#
+# *****************************************
+
+# Website Map definition, to help search engines to do their work
+# Last update: Release 5.1, Long Term Support
+#Sitemap: https://minteck-projects.alwaysdata.net/sitemap.xml
+# Update: Since version 6.0, no sitemap will be provided
+
+# *****************************************
+#
+#     2. CRAWLERS BANS
+#
+# *****************************************
+
+# 2.1. Crawler Ban (SemrushBot) — Reason: Unknown Tracking/Spy Crawler
+# If you're the owner of this crawler, you may send an email to minteck.projects+legal@gmail.com for more information
+User-agent: SemrushBot
+Disallow: /
+
+# 2.2. Crawler Ban (AhrefsBot) — Reason: Unknown Tracking/Spy Crawler
+# If you're the owner of this crawler, you may send an email to minteck.projects+legal@gmail.com for more information
+User-agent: AhrefsBot
+Disallow: /
+
+# *****************************************
+#
+#     3. OTHER RULES
+#
+# *****************************************
+
+# 3.1. Don't crawl deprecated website version (1.x)
+# Deny crawl to the /fr, /en and /archive directories
+User-agent: *
+Disallow: /fr
+Disallow: /en
+Disallow: /archive

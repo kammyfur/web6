@@ -1,0 +1,14 @@
+[
+    {
+        "from": "../dict/fr-en.json",
+        "to": "../dict/en-fr.json"
+    },
+    {
+        "from": "../dict/fr-es.json",
+        "to": "../dict/es-fr.json"
+    },
+    {
+        "from": "../dict/es-en.json",
+        "to": "../dict/en-es.json"
+    }
+]

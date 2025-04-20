@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Publicité par Minteck Projects</title>
+    </head>
+    <body>
+        <h1>Publicité par Minteck Projects</h1>
+        <p>Cet API fournit une publicité dynamique pour les services de Minteck Projects. Il est utilisé partout où les services de Minteck Projects contiennent de la publicité.</p>
+        <h2>Méthodes d'accès</h2>
+        <h3><code>static</code></h3>
+        <p>Publicités statiques — Ces publicités ne sont pas générées automatiquement et ne fournissent qu'une seule publicité. Son utilisation est fortement déconseillée.</p>
+        <h4>Arguments</h4>
+        <ul>
+            <li><code>/lib/ads/static</code> — URL racine</li>
+            <li><code>/lib/ads/static/fr</code> — Publicités en français</li>
+            <li><code>/lib/ads/static/en</code> — Publicités en anglais</li>
+            <li><code>/lib/ads/static/fr/banner</code> — Publicités sous forme de bannière en français</li>
+            <li><code>/lib/ads/static/fr/banner/4</code> — Publicité n°4 sous forme de bannière en français</li>
+        </ul>
+        <p>L'URL doit être sous la forme <code>/lib/ads/static/&lt;Langue&gt;/&lt;Format&gt;/&lt;Identifiant&gt;</code></p>
+        <h3><code>source</code></h3>
+        <p>Fichiers d'origine des publicités — Ces publicités sont les fichiers au format GIMP des publicités dans le dossier <code>/static</code>. Son utilisation est fortement déconseillée.</p>
+        <h4>Arguments</h4>
+        <ul>
+            <li><code>/lib/ads/source</code> — URL racine</li>
+            <li><code>/lib/ads/source/fr-*.xcf</code> — Publicités en français</li>
+            <li><code>/lib/ads/source/en-*.xcf</code> — Publicités en anglais</li>
+            <li><code>/lib/ads/source/fr-banner-*.xcf</code> — Publicités sous forme de bannière en français</li>
+            <li><code>/lib/ads/source/fr-banner-4.xcf</code> — Publicité n°4 sous forme de bannière en français</li>
+        </ul>
+        <p>L'URL doit être sous la forme <code>/lib/ads/static/&lt;Langue&gt;/&lt;Format&gt;/&lt;Identifiant&gt;</code></p>
+        <h3><code>dynamics</code></h3>
+        <p>Publicités dynamiques — Ces publicités sont générées automatiquement parmi toutes les publicités possibles.</p>
+        <h4>Arguments</h4>
+        <ul>
+            <li><code>lang</code> — (obligatoire) Langue de la publicité</li>
+            <li><code>format</code> — (optionnel) Format de la publicité, <code>banner</code> par défaut</li>
+        </ul>
+        <h2>Dimensions des publicités</h2>
+        <p>Si vous êtes intéressé pour créer vos propres publicités, vous pouvez suivre les dimensions suivantes et nous les envoyer par mail à <a href="mailto:minteck.projects+adrequests@gmail.com">minteck.projects+adrequests@gmail.com</a>
+            <ul>
+                <li><b>Bannière :</b>
+                    <ul>
+                        <li><b>Pixel Perfect :</b> 700x200</li>
+                        <li><b>Basse résolution :</b> 350x100</li>
+                        <li><b>Ratio :</b> 7:2</li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li><b>Côté :</b>
+                    <ul>
+                        <li><b>Pixel Perfect :</b> 700x500</li>
+                        <li><b>Basse résolution :</b> 350x250</li>
+                        <li><b>Ratio :</b> 7:5</li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li><b>Bannière fine :</b>
+                    <ul>
+                        <li><b>Pixel Perfect :</b> 700x150</li>
+                        <li><b>Basse résolution :</b> 350x75</li>
+                        <li><b>Ratio :</b> 7:1,5</li>
+                    </ul>
+                </li>
+            </ul>
+        </p>
+        <p>L'URL doit être sous la forme <code>/lib/ads/dynamics/?lang=&lt;Langue&gt;&format=&lt;Format&gt;</code></p>
+    </body>
+</html>

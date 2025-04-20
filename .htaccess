@@ -1,0 +1,30 @@
+# Access control
+
+<Files "cleaner.js">
+    Deny from All
+</Files>
+
+<Files "pol3.json">
+    Deny from All
+</Files>
+
+<Files "language.php">
+    Deny from All
+</Files>
+
+# Error pages
+
+ErrorDocument 404 /errorbox/404.php
+ErrorDocument 401 /errorbox/401.php
+ErrorDocument 403 /errorbox/403.php
+ErrorDocument 500 /errorbox/500.php
+ErrorDocument 503 /errorbox/503.php
+ErrorDocument 504 /errorbox/504.php
+
+# Directory listing
+
+Options +Indexes
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=* SuppressHTMLPreamble SuppressRules HTMLTable IconHeight=24 IconWidth=24
+IndexIgnore listing
+HeaderName /listing/header.php
+ReadmeName /listing/footer.php
